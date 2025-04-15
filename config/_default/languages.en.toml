@@ -1,0 +1,16 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Klamath Tech Collective"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "Blackcap_Hoopa_lofigirl.png"
+description = "Klamath Tech Collective website"
+
+[params.author]
+name = "Klamath Tech Collective"
