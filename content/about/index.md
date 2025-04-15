@@ -12,6 +12,12 @@ tags: ["about", "info"]
 Klamath Tech Collective is fukin' 1337
 {{< /lead >}}
 
+{{< typeit tag=h1 >}}
+
+This is a *paragraph* with **typing animation** based on [TypeIt](https://typeitjs.com/)...
+
+{{< /typeit >}}
+
 The original aim of Blowfish was to develop a theme that was simple and lightweight. The theme is a fork of <a target="_blank" href="https://github.com/nunocoracao/congo">Congo</a> and expands its initial vision.
 
 ## Tailwind CSS 3.0

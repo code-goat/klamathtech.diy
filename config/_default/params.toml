@@ -3,15 +3,15 @@ defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
-replyByEmail = false
+replyByEmail = true
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 defaultBackgroundImage = "klamath.jpg"
-defaultFeaturedImage = "Gemini_Generated_Image_n7wi2fn7wi2fn7wi.jpg"
+defaultFeaturedImage = "blackcap.png"
 highlightCurrentMenuArea = true
-smartTOC = "Enable"
+smartTOC = "False"
 
 [header]
 layout = "basic"
