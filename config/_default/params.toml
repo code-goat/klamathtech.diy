@@ -30,8 +30,8 @@ showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = false
-cardViewScreenWidth = false
-layoutBackgroundBlur = false
+cardViewScreenWidth = true
+layoutBackgroundBlur = true
 
 [article]
 showDate = true
@@ -59,7 +59,7 @@ showWordCount = true
 showZenMode = false
 
 [list]
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -75,7 +75,7 @@ cardViewScreenWidth = false
 constrainItemsWidth = false
 
 [sitemap]
-excludedKinds = [ "taxonomy", "term" ]
+excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
 showTermCount = true
