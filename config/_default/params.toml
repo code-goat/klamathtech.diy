@@ -3,7 +3,7 @@ defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
-replyByEmail = true
+replyByEmail = false
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
@@ -52,11 +52,11 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
+showTableOfContents = true
 showTaxonomies = false
-showAuthorsBadges = false
+showAuthorsBadges = true
 showWordCount = true
-showZenMode = false
+showZenMode = true
 
 [list]
 showHero = true

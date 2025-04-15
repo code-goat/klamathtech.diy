@@ -2,7 +2,7 @@
 title: "About Us"
 weight: 1
 draft: false
-description: "Discover what's new in Blowfish version 2.0."
+description: "This describes what the Klamath Tech Collective is all about."
 tags: ["about", "info"]
 #series: ["Documentation"]
 #series_order: 1
@@ -12,7 +12,7 @@ tags: ["about", "info"]
 Klamath Tech Collective is fukin' 1337
 {{< /lead >}}
 
-{{< typeit tag=h1 >}}
+{{< typeit speed=999999, tag=h1 >}}
 
 This is a *paragraph* with **typing animation** based on [TypeIt](https://typeitjs.com/)...
 

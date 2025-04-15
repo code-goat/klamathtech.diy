@@ -11,24 +11,29 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Blog"
+name = "Posts"
 pageRef = "posts"
 weight = 10
 
 [[main]]
-name = "Info"
-weight = 20
-
-[[main]]
 name = "Docs"
-parent = "Info"
-pageRef = "stable/docs"
 weight = 20
 
 [[main]]
 name = "Howto/Guides"
-parent = "Info"
-pageRef = "stable/guides"
+pageref = "guides"
+weight = 20
+
+[[main]]
+name = "Privacy 101"
+parent = "Guides"
+pageRef = "guides/privacy_101"
+weight = 20
+
+[[main]]
+name = "Hacker Manifesto"
+parent = "Docs"
+pageRef = "docs/hacker_manifesto"
 weight = 20
 
 [[main]]
