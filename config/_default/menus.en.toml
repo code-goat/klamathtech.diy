@@ -37,6 +37,12 @@ pageRef = "docs/hacker_manifesto"
 weight = 20
 
 [[main]]
+name = "Points of Unity"
+parent = "Docs"
+pageRef = "docs/points_of_unity"
+weight = 20
+
+[[main]]
 name = "About Us"
 pageRef = "about"
 weight = 10
