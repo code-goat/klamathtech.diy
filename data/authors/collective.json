@@ -1,0 +1,13 @@
+{
+    "name": "ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€",
+    "image" : "blackcap.png",
+    "bio": "Your friendly neighborhood peasant tech collective.",
+    "social": [
+        { "email": "mailto:contact@klamathtech.diy" },
+        { "github": "https://github.com/username" },
+        { "youtube": "https://youtube.com/username" },
+        { "link": "https://signal.me/" },
+        { "mastodon": "https://mastodon.instance/@username" },
+        { "bluesky": "https://bsky.app/profile/username" },
+    ]
+}
