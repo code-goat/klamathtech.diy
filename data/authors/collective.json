@@ -8,6 +8,6 @@
         { "youtube": "https://youtube.com/username" },
         { "link": "https://signal.me/" },
         { "mastodon": "https://mastodon.instance/@username" },
-        { "bluesky": "https://bsky.app/profile/username" },
+        { "bluesky": "https://bsky.app/profile/username" }
     ]
 }
