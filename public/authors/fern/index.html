@@ -96,7 +96,7 @@
   <link href="https://youtube.com/username" rel="me" />
   
   
-  <link href="https://signal.me/#eu/XF0Ns_Ot3FVXkhugZq-jUl7XIvOwps7EhATyV8Jg6AfgYPwuYEtAZ5n6Zt3FaUY7" rel="me" />
+  <link href="https://signal.me/" rel="me" />
   
   
   <link href="https://mastodon.instance/@username" rel="me" />
@@ -151,7 +151,11 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3">
     
     
@@ -239,6 +243,20 @@
           
           <p class="text-sm font-sm" title="">
             Hacker Manifesto
+          </p>
+        </a>
+        
+        <a href="/docs/timeline/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            Hacking: A Timeline
+          </p>
+        </a>
+        
+        <a href="/docs/points_of_unity/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            Points of Unity
           </p>
         </a>
         
@@ -500,6 +518,24 @@
     </a>
 </li>
 
+<li class="mt-1">
+    <a href="/docs/timeline/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            Hacking: A Timeline
+        </p>
+    </a>
+</li>
+
+<li class="mt-1">
+    <a href="/docs/points_of_unity/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            Points of Unity
+        </p>
+    </a>
+</li>
+
 <li class="mb-2"></li>
 
 
@@ -577,6 +613,16 @@
 </script>
 
 
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
+
   
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
@@ -646,6 +692,121 @@
   <section class="space-y-10 w-full">
     
     
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article " href="/docs/timeline/">
+    
+        
+        <div class="w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7" style="background-image:url(/blackcap_hu11911985298875102932.png);"></div>
+        
+      <div class=" mt-3 md:mt-0">
+      <div class="items-center text-left text-xl font-semibold">
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/docs/timeline/">Hacking, a timeline</div>
+        
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="0001-01-01T00:00:00&#43;00:00">January 1 1010</time><span class="px-2 text-primary-500">&middot;</span><span>1 word</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
+  
+
+  
+  
+</div>
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+     <div style="cursor: pointer;" onclick="window.open(&#34;/authors/fern/&#34;,'_self');return false;">Fern Bio</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+
+
+
+
+      </div>
+      
+    </div>
+  </a>
+
     
     
 

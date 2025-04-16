@@ -104,7 +104,7 @@
     "keywords": ["Docs","info"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "3"
+    "wordCount": "14"
   }]
   </script>
 
@@ -124,7 +124,7 @@
   <link href="https://youtube.com/username" rel="me" />
   
   
-  <link href="https://signal.me/#eu/XF0Ns_Ot3FVXkhugZq-jUl7XIvOwps7EhATyV8Jg6AfgYPwuYEtAZ5n6Zt3FaUY7" rel="me" />
+  <link href="https://signal.me/" rel="me" />
   
   
   <link href="https://mastodon.instance/@username" rel="me" />
@@ -182,7 +182,11 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3">
     
     
@@ -270,6 +274,20 @@
           
           <p class="text-sm font-sm" title="">
             Hacker Manifesto
+          </p>
+        </a>
+        
+        <a href="/docs/timeline/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            Hacking: A Timeline
+          </p>
+        </a>
+        
+        <a href="/docs/points_of_unity/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            Points of Unity
           </p>
         </a>
         
@@ -531,6 +549,24 @@
     </a>
 </li>
 
+<li class="mt-1">
+    <a href="/docs/timeline/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            Hacking: A Timeline
+        </p>
+    </a>
+</li>
+
+<li class="mt-1">
+    <a href="/docs/points_of_unity/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            Points of Unity
+        </p>
+    </a>
+</li>
+
 <li class="mb-2"></li>
 
 
@@ -608,6 +644,16 @@
 </script>
 
 
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
+
   
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
@@ -667,7 +713,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="0001-01-01T00:00:00&#43;00:00">January 1 1010</time><span class="px-2 text-primary-500">&middot;</span><span>3 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span><span class="px-2 text-primary-500">&middot;</span>
+  <time datetime="0001-01-01T00:00:00&#43;00:00">January 1 1010</time><span class="px-2 text-primary-500">&middot;</span><span>14 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/js/zen-mode.min.eea5245cf9244ecbdf2c150d1c8833226c1541cadf6e98f63a7c9192b1a3676df2c3ec603b14f4cfaaa53971fd9d8955640c0f405bf3de2b43ee7a5fb29ae721.js" integrity="sha512-7qUkXPkkTsvfLBUNHIgzImwVQcrfbpj2OnyRkrGjZ23yw&#43;xgOxT0z6qlOXH9nYlVZAwPQFvz3itD7npfsprnIQ=="></script>
@@ -817,7 +863,7 @@
       
         <a
           class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
-          href="https://signal.me/#eu/XF0Ns_Ot3FVXkhugZq-jUl7XIvOwps7EhATyV8Jg6AfgYPwuYEtAZ5n6Zt3FaUY7"
+          href="https://signal.me/"
           target="_blank"
           aria-label="Link"
           rel="me noopener noreferrer"
@@ -895,14 +941,30 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <p>Does this work?</p>
-<h3 id="typeit-94603be1ed8386c0f1b6e20679acbec2"></h3>
+          <hr>
+
+
+<h1 class="relative group">The Hacker&rsquo;s Manifesto 
+    <div id="the-hackers-manifesto" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#the-hackers-manifesto" aria-label="Anchor">#</a>
+    </span>        
+    
+</h1>
+<ul>
+<li>by +++The Mentor+++</li>
+<li>Originally published in <em>Phrack</em> Issue #7, 1986.</li>
+</ul>
+<pre tabindex="0"><code><h4 id="typeit-94603be1ed8386c0f1b6e20679acbec2"></h4>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
       new TypeIt("#typeit-94603be1ed8386c0f1b6e20679acbec2", {
-        strings: ["\r","# The Hacker's Manifesto\r","\r","**By +++The Mentor+++**\r","Originally published in *Phrack* Issue #7, 1986.\r","\r","---\r","\r","Another one got caught today, it's all over the papers.\r","\"Teenager arrested in computer crime scandal,\" \"Hacker arrested after bank tampering\"...\r","Damn kids. They're all alike.\r","\r","But did you, in your three-piece psychology and 1950s technobrain,\r","ever take a look behind the eyes of a hacker? Did you ever wonder what made him tick,\r","what forces shaped him, what may have molded him?\r","\r","I am a hacker, enter my world...\r","Mine is a world that begins with school...\r","I'm smarter than most of the other kids, this crap they teach us bores me...\r","\r","Damn underachiever. They're all alike.\r","\r","I'm in junior high or high school. I've listened to teachers explain for the fifteenth time\r","how to reduce a fraction. I understand it. \"No, Ms. Smith, I didn't show my work.\r","I did it in my head...\"\r","\r","Damn kid. Probably copied it. They're all alike.\r","\r","I made a discovery today. I found a computer.\r","Wait a second, this is cool. It does what I want it to do. If it makes a mistake,\r","it's because I screwed it up. Not because it doesn't like me...\r","Or feels threatened by me...\r","Or thinks I'm a smart ass...\r","Or doesn't like teaching and shouldn't be here...\r","\r","Damn kid. All he does is play games. They're all alike.\r","\r","And then it happened... a door opened to a world... rushing through the phone line like heroin through an addict's veins,\r","an electronic pulse is sent out, a refuge from the day-to-day incompetencies is sought...\r","a board is found. \"This is it... this is where I belong...\"\r","\r","I know everyone here... even if I've never met them, never talked to them, may never hear from them again...\r","I know you all...\r","\r","Damn kid. Tying up the phone line again. They're all alike...\r","\r","You bet your ass we're all alike... we've been spoon-fed baby food at school when we hungered for steak...\r","the bits of meat that you did let slip through were pre-chewed and tasteless. We've been dominated by sadists,\r","or ignored by the apathetic. The few that had something to teach found us willing pupils, but those few are like drops of water in the desert.\r","\r","This is our world now... the world of the electron and the switch, the beauty of the baud.\r","We make use of a service already existing without paying for what could be dirt cheap if it wasn't run by profiteering gluttons, and you call us criminals.\r","\r","We explore... and you call us criminals.\r","We seek after knowledge... and you call us criminals.\r","We exist without skin color, without nationality, without religious bias... and you call us criminals.\r","\r","You build atomic bombs, you wage wars, you murder, cheat, and lie to us and try to make us believe it's for our own good, yet we're the criminals.\r","\r","Yes, I am a criminal. My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like. My crime is that\r",""],
-        speed: "9999999,",
+        strings: ["\r","Another one got caught today, it's all over the papers.\r","\r","\"Teenager arrested in computer crime scandal\"\r","\"Hacker arrested after bank tampering\"\r","\r","Damn kids. They're all alike.\r","\r","But did you, in your three-piece psychology and 1950s technobrain, ever take a look behind the eyes of a hacker? \r","Did you ever wonder what made him tick, what forces shaped him, what may have molded him?\r","\r","I am a hacker, enter my world...\r","Mine is a world that begins with school...\r","I'm smarter than most of the other kids, this crap they teach us bores me...\r","\r","Damn underachiever. They're all alike.\r","\r","I'm in junior high or high school. I've listened to teachers explain for the fifteenth time\r","how to reduce a fraction. I understand it. \"No, Ms. Smith, I didn't show my work.\r","I did it in my head...\"\r","\r","Damn kid. Probably copied it. They're all alike.\r","\r","I made a discovery today. I found a computer.\r","Wait a second, this is cool. It does what I want it to do. If it makes a mistake,\r","it's because I screwed it up. Not because it doesn't like me...\r","Or feels threatened by me...\r","Or thinks I'm a smart ass...\r","Or doesn't like teaching and shouldn't be here...\r","\r","Damn kid. All he does is play games. They're all alike.\r","\r","And then it happened... a door opened to a world... rushing through the phone line like heroin through an addict's veins,\r","an electronic pulse is sent out, a refuge from the day-to-day incompetencies is sought...\r","a board is found. \"This is it... this is where I belong...\"\r","\r","I know everyone here... even if I've never met them, never talked to them, may never hear from them again...\r","I know you all...\r","\r","Damn kid. Tying up the phone line again. They're all alike...\r","\r","You bet your ass we're all alike... we've been spoon-fed baby food at school when we hungered for steak...\r","the bits of meat that you did let slip through were pre-chewed and tasteless. We've been dominated by sadists,\r","or ignored by the apathetic. The few that had something to teach found us willing pupils, but those few are like drops of water in the desert.\r","\r","This is our world now... the world of the electron and the switch, the beauty of the baud.\r","We make use of a service already existing without paying for what could be dirt cheap if it wasn't run by profiteering gluttons, and you call us criminals.\r","\r","We explore... and you call us criminals.\r","We seek after knowledge... and you call us criminals.\r","We exist without skin color, without nationality, without religious bias... and you call us criminals.\r","\r","You build atomic bombs, you wage wars, you murder, cheat, and lie to us and try to make us believe it's for our own good, yet we're the criminals.\r","\r","Yes, I am a criminal. My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like. My crime is that\r",""],
+        speed:  5 ,
         lifeLike:  false ,
         startDelay:  0 ,
         breakLines:  true ,
@@ -911,7 +973,7 @@
       }).go();
     });
 </script>
-
+</code></pre>
           
           
           
@@ -953,6 +1015,28 @@
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="flex justify-between pt-3">
         <span>
+          
+            <a class="flex group mr-3" href="/docs/timeline/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Hacking, a timeline</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="0001-01-01T00:00:00&#43;00:00">January 1 1010</time>
+                  
+                </span>
+              </span>
+            </a>
           
         </span>
         <span>

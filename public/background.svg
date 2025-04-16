@@ -1,0 +1,2581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   style="margin:auto;background:rgba(NaN, NaN, NaN, 0);display:block;z-index:1;position:relative"
+   width="1084"
+   height="322"
+   preserveAspectRatio="xMidYMid"
+   viewBox="0 0 1084 322"
+   version="1.1"
+   id="svg276"
+   sodipodi:docname="background.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview276"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.6374539"
+     inkscape:cx="542.30535"
+     inkscape:cy="161.22592"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg276" />
+  <defs
+     id="defs276">
+    <pattern
+       id="pid-0.7735807359934106"
+       x="0"
+       y="0"
+       width="345.6"
+       height="345.6"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="scale(1.35)"
+         id="g276">
+        <g
+           id="g91">
+          <line
+             x1="237.6288884328494"
+             x2="201.39714008747956"
+             y1="119.05338354492488"
+             y2="155.28513189029474"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line1" />
+          <line
+             x1="237.6288884328494"
+             x2="201.39714008747956"
+             y1="-392.9466164550751"
+             y2="-356.71486810970526"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line2" />
+          <line
+             x1="493.6288884328494"
+             x2="457.39714008747956"
+             y1="-392.9466164550751"
+             y2="-356.71486810970526"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line3" />
+          <line
+             x1="749.6288884328494"
+             x2="713.3971400874796"
+             y1="-392.9466164550751"
+             y2="-356.71486810970526"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line4" />
+          <line
+             x1="237.6288884328494"
+             x2="201.39714008747956"
+             y1="-136.94661645507512"
+             y2="-100.71486810970526"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line5" />
+          <line
+             x1="493.6288884328494"
+             x2="457.39714008747956"
+             y1="-136.94661645507512"
+             y2="-100.71486810970526"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line6" />
+          <line
+             x1="749.6288884328494"
+             x2="713.3971400874796"
+             y1="-136.94661645507512"
+             y2="-100.71486810970526"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line7" />
+          <line
+             x1="237.6288884328494"
+             x2="201.39714008747956"
+             y1="119.05338354492488"
+             y2="155.28513189029474"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line8" />
+          <line
+             x1="493.6288884328494"
+             x2="457.39714008747956"
+             y1="119.05338354492488"
+             y2="155.28513189029474"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line9" />
+          <line
+             x1="749.6288884328494"
+             x2="713.3971400874796"
+             y1="119.05338354492488"
+             y2="155.28513189029474"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line10" />
+          <line
+             x1="244.43797352167968"
+             x2="179.25167385613412"
+             y1="196.21419032492787"
+             y2="261.40048999047343"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line11" />
+          <line
+             x1="244.43797352167968"
+             x2="179.25167385613412"
+             y1="-315.78580967507213"
+             y2="-250.59951000952657"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line12" />
+          <line
+             x1="500.4379735216797"
+             x2="435.2516738561341"
+             y1="-315.78580967507213"
+             y2="-250.59951000952657"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line13" />
+          <line
+             x1="756.4379735216796"
+             x2="691.2516738561342"
+             y1="-315.78580967507213"
+             y2="-250.59951000952657"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line14" />
+          <line
+             x1="244.43797352167968"
+             x2="179.25167385613412"
+             y1="-59.78580967507213"
+             y2="5.400489990473432"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line15" />
+          <line
+             x1="500.4379735216797"
+             x2="435.2516738561341"
+             y1="-59.78580967507213"
+             y2="5.400489990473432"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line16" />
+          <line
+             x1="756.4379735216796"
+             x2="691.2516738561342"
+             y1="-59.78580967507213"
+             y2="5.400489990473432"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line17" />
+          <line
+             x1="244.43797352167968"
+             x2="179.25167385613412"
+             y1="196.21419032492787"
+             y2="261.40048999047343"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line18" />
+          <line
+             x1="500.4379735216797"
+             x2="435.2516738561341"
+             y1="196.21419032492787"
+             y2="261.40048999047343"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line19" />
+          <line
+             x1="756.4379735216796"
+             x2="691.2516738561342"
+             y1="196.21419032492787"
+             y2="261.40048999047343"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line20" />
+          <line
+             x1="219.6724359102308"
+             x2="209.2181431749452"
+             y1="92.85808081141191"
+             y2="103.31237354669749"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line21" />
+          <line
+             x1="219.6724359102308"
+             x2="209.2181431749452"
+             y1="-419.1419191885881"
+             y2="-408.6876264533025"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line22" />
+          <line
+             x1="475.6724359102308"
+             x2="465.2181431749452"
+             y1="-419.1419191885881"
+             y2="-408.6876264533025"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line23" />
+          <line
+             x1="731.6724359102308"
+             x2="721.2181431749452"
+             y1="-419.1419191885881"
+             y2="-408.6876264533025"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line24" />
+          <line
+             x1="219.6724359102308"
+             x2="209.2181431749452"
+             y1="-163.14191918858808"
+             y2="-152.68762645330253"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line25" />
+          <line
+             x1="475.6724359102308"
+             x2="465.2181431749452"
+             y1="-163.14191918858808"
+             y2="-152.68762645330253"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line26" />
+          <line
+             x1="731.6724359102308"
+             x2="721.2181431749452"
+             y1="-163.14191918858808"
+             y2="-152.68762645330253"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line27" />
+          <line
+             x1="219.6724359102308"
+             x2="209.2181431749452"
+             y1="92.85808081141191"
+             y2="103.31237354669749"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line28" />
+          <line
+             x1="475.6724359102308"
+             x2="465.2181431749452"
+             y1="92.85808081141191"
+             y2="103.31237354669749"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line29" />
+          <line
+             x1="731.6724359102308"
+             x2="721.2181431749452"
+             y1="92.85808081141191"
+             y2="103.31237354669749"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line30" />
+          <line
+             x1="112.00565118011832"
+             x2="71.15817744773324"
+             y1="56.63419812919665"
+             y2="97.48167186158173"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line31" />
+          <line
+             x1="112.00565118011832"
+             x2="71.15817744773324"
+             y1="-455.36580187080335"
+             y2="-414.51832813841827"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line32" />
+          <line
+             x1="368.0056511801183"
+             x2="327.15817744773324"
+             y1="-455.36580187080335"
+             y2="-414.51832813841827"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line33" />
+          <line
+             x1="624.0056511801183"
+             x2="583.1581774477332"
+             y1="-455.36580187080335"
+             y2="-414.51832813841827"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line34" />
+          <line
+             x1="112.00565118011832"
+             x2="71.15817744773324"
+             y1="-199.36580187080335"
+             y2="-158.51832813841827"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line35" />
+          <line
+             x1="368.0056511801183"
+             x2="327.15817744773324"
+             y1="-199.36580187080335"
+             y2="-158.51832813841827"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line36" />
+          <line
+             x1="624.0056511801183"
+             x2="583.1581774477332"
+             y1="-199.36580187080335"
+             y2="-158.51832813841827"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line37" />
+          <line
+             x1="112.00565118011832"
+             x2="71.15817744773324"
+             y1="56.63419812919665"
+             y2="97.48167186158173"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line38" />
+          <line
+             x1="368.0056511801183"
+             x2="327.15817744773324"
+             y1="56.63419812919665"
+             y2="97.48167186158173"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line39" />
+          <line
+             x1="624.0056511801183"
+             x2="583.1581774477332"
+             y1="56.63419812919665"
+             y2="97.48167186158173"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line40" />
+          <line
+             x1="60.932966336476014"
+             x2="49.388821076756514"
+             y1="125.65681060957188"
+             y2="137.20095586929136"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line41" />
+          <line
+             x1="60.932966336476014"
+             x2="49.388821076756514"
+             y1="-386.3431893904281"
+             y2="-374.79904413070864"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line42" />
+          <line
+             x1="316.932966336476"
+             x2="305.3888210767565"
+             y1="-386.3431893904281"
+             y2="-374.79904413070864"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line43" />
+          <line
+             x1="572.932966336476"
+             x2="561.3888210767565"
+             y1="-386.3431893904281"
+             y2="-374.79904413070864"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line44" />
+          <line
+             x1="60.932966336476014"
+             x2="49.388821076756514"
+             y1="-130.3431893904281"
+             y2="-118.79904413070864"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line45" />
+          <line
+             x1="316.932966336476"
+             x2="305.3888210767565"
+             y1="-130.3431893904281"
+             y2="-118.79904413070864"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line46" />
+          <line
+             x1="572.932966336476"
+             x2="561.3888210767565"
+             y1="-130.3431893904281"
+             y2="-118.79904413070864"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line47" />
+          <line
+             x1="60.932966336476014"
+             x2="49.388821076756514"
+             y1="125.65681060957188"
+             y2="137.20095586929136"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line48" />
+          <line
+             x1="316.932966336476"
+             x2="305.3888210767565"
+             y1="125.65681060957188"
+             y2="137.20095586929136"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line49" />
+          <line
+             x1="572.932966336476"
+             x2="561.3888210767565"
+             y1="125.65681060957188"
+             y2="137.20095586929136"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line50" />
+          <line
+             x1="103.78310212459807"
+             x2="35.08486945593138"
+             y1="-2.328164446496814"
+             y2="66.37006822216988"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line51" />
+          <line
+             x1="103.78310212459807"
+             x2="35.08486945593138"
+             y1="-514.3281644464968"
+             y2="-445.6299317778301"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line52" />
+          <line
+             x1="359.7831021245981"
+             x2="291.08486945593137"
+             y1="-514.3281644464968"
+             y2="-445.6299317778301"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line53" />
+          <line
+             x1="615.783102124598"
+             x2="547.0848694559314"
+             y1="-514.3281644464968"
+             y2="-445.6299317778301"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line54" />
+          <line
+             x1="103.78310212459807"
+             x2="35.08486945593138"
+             y1="-258.3281644464968"
+             y2="-189.6299317778301"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line55" />
+          <line
+             x1="359.7831021245981"
+             x2="291.08486945593137"
+             y1="-258.3281644464968"
+             y2="-189.6299317778301"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line56" />
+          <line
+             x1="615.783102124598"
+             x2="547.0848694559314"
+             y1="-258.3281644464968"
+             y2="-189.6299317778301"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line57" />
+          <line
+             x1="103.78310212459807"
+             x2="35.08486945593138"
+             y1="-2.328164446496814"
+             y2="66.37006822216988"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line58" />
+          <line
+             x1="359.7831021245981"
+             x2="291.08486945593137"
+             y1="-2.328164446496814"
+             y2="66.37006822216988"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line59" />
+          <line
+             x1="615.783102124598"
+             x2="547.0848694559314"
+             y1="-2.328164446496814"
+             y2="66.37006822216988"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line60" />
+          <line
+             x1="103.78310212459807"
+             x2="35.08486945593138"
+             y1="253.67183555350317"
+             y2="322.3700682221699"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line61" />
+          <line
+             x1="211.69894364075495"
+             x2="194.13528259328754"
+             y1="166.21741462144607"
+             y2="183.78107566891347"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line62" />
+          <line
+             x1="211.69894364075495"
+             x2="194.13528259328754"
+             y1="-345.7825853785539"
+             y2="-328.21892433108655"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line63" />
+          <line
+             x1="467.6989436407549"
+             x2="450.13528259328757"
+             y1="-345.7825853785539"
+             y2="-328.21892433108655"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line64" />
+          <line
+             x1="723.6989436407549"
+             x2="706.1352825932876"
+             y1="-345.7825853785539"
+             y2="-328.21892433108655"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line65" />
+          <line
+             x1="211.69894364075495"
+             x2="194.13528259328754"
+             y1="-89.78258537855393"
+             y2="-72.21892433108653"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line66" />
+          <line
+             x1="467.6989436407549"
+             x2="450.13528259328757"
+             y1="-89.78258537855393"
+             y2="-72.21892433108653"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line67" />
+          <line
+             x1="723.6989436407549"
+             x2="706.1352825932876"
+             y1="-89.78258537855393"
+             y2="-72.21892433108653"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line68" />
+          <line
+             x1="211.69894364075495"
+             x2="194.13528259328754"
+             y1="166.21741462144607"
+             y2="183.78107566891347"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line69" />
+          <line
+             x1="467.6989436407549"
+             x2="450.13528259328757"
+             y1="166.21741462144607"
+             y2="183.78107566891347"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line70" />
+          <line
+             x1="723.6989436407549"
+             x2="706.1352825932876"
+             y1="166.21741462144607"
+             y2="183.78107566891347"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line71" />
+          <line
+             x1="44.012515207413756"
+             x2="6.2920050630466875"
+             y1="153.79537767995515"
+             y2="191.5158878243222"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line72" />
+          <line
+             x1="44.012515207413756"
+             x2="6.2920050630466875"
+             y1="-358.20462232004485"
+             y2="-320.4841121756778"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line73" />
+          <line
+             x1="300.01251520741374"
+             x2="262.2920050630467"
+             y1="-358.20462232004485"
+             y2="-320.4841121756778"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line74" />
+          <line
+             x1="556.0125152074138"
+             x2="518.2920050630466"
+             y1="-358.20462232004485"
+             y2="-320.4841121756778"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line75" />
+          <line
+             x1="44.012515207413756"
+             x2="6.2920050630466875"
+             y1="-102.20462232004485"
+             y2="-64.48411217567781"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line76" />
+          <line
+             x1="300.01251520741374"
+             x2="262.2920050630467"
+             y1="-102.20462232004485"
+             y2="-64.48411217567781"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line77" />
+          <line
+             x1="556.0125152074138"
+             x2="518.2920050630466"
+             y1="-102.20462232004485"
+             y2="-64.48411217567781"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line78" />
+          <line
+             x1="44.012515207413756"
+             x2="6.2920050630466875"
+             y1="153.79537767995515"
+             y2="191.5158878243222"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line79" />
+          <line
+             x1="300.01251520741374"
+             x2="262.2920050630467"
+             y1="153.79537767995515"
+             y2="191.5158878243222"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line80" />
+          <line
+             x1="556.0125152074138"
+             x2="518.2920050630466"
+             y1="153.79537767995515"
+             y2="191.5158878243222"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line81" />
+          <line
+             x1="105.49237048043514"
+             x2="31.549625942354083"
+             y1="123.41684480916788"
+             y2="197.35958934724894"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line82" />
+          <line
+             x1="105.49237048043514"
+             x2="31.549625942354083"
+             y1="-388.58315519083214"
+             y2="-314.64041065275103"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line83" />
+          <line
+             x1="361.49237048043517"
+             x2="287.54962594235406"
+             y1="-388.58315519083214"
+             y2="-314.64041065275103"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line84" />
+          <line
+             x1="617.4923704804352"
+             x2="543.549625942354"
+             y1="-388.58315519083214"
+             y2="-314.64041065275103"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line85" />
+          <line
+             x1="105.49237048043514"
+             x2="31.549625942354083"
+             y1="-132.58315519083212"
+             y2="-58.64041065275106"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line86" />
+          <line
+             x1="361.49237048043517"
+             x2="287.54962594235406"
+             y1="-132.58315519083212"
+             y2="-58.64041065275106"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line87" />
+          <line
+             x1="617.4923704804352"
+             x2="543.549625942354"
+             y1="-132.58315519083212"
+             y2="-58.64041065275106"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line88" />
+          <line
+             x1="105.49237048043514"
+             x2="31.549625942354083"
+             y1="123.41684480916788"
+             y2="197.35958934724894"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line89" />
+          <line
+             x1="361.49237048043517"
+             x2="287.54962594235406"
+             y1="123.41684480916788"
+             y2="197.35958934724894"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line90" />
+          <line
+             x1="617.4923704804352"
+             x2="543.549625942354"
+             y1="123.41684480916788"
+             y2="197.35958934724894"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line91" />
+          <animateTransform
+             attributeName="transform"
+             type="translate"
+             values="0 0;-256 256"
+             keyTimes="0;1"
+             repeatCount="indefinite"
+             dur="10s" />
+        </g>
+        <g
+           id="g183">
+          <line
+             x1="95.73622575770466"
+             x2="50.085335235319484"
+             y1="20.45659654328417"
+             y2="66.10748706566935"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line92" />
+          <line
+             x1="95.73622575770466"
+             x2="50.085335235319484"
+             y1="-491.54340345671585"
+             y2="-445.8925129343306"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line93" />
+          <line
+             x1="351.7362257577047"
+             x2="306.08533523531946"
+             y1="-491.54340345671585"
+             y2="-445.8925129343306"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line94" />
+          <line
+             x1="607.7362257577047"
+             x2="562.0853352353195"
+             y1="-491.54340345671585"
+             y2="-445.8925129343306"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line95" />
+          <line
+             x1="95.73622575770466"
+             x2="50.085335235319484"
+             y1="-235.54340345671582"
+             y2="-189.89251293433065"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line96" />
+          <line
+             x1="351.7362257577047"
+             x2="306.08533523531946"
+             y1="-235.54340345671582"
+             y2="-189.89251293433065"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line97" />
+          <line
+             x1="607.7362257577047"
+             x2="562.0853352353195"
+             y1="-235.54340345671582"
+             y2="-189.89251293433065"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line98" />
+          <line
+             x1="95.73622575770466"
+             x2="50.085335235319484"
+             y1="20.45659654328417"
+             y2="66.10748706566935"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line99" />
+          <line
+             x1="351.7362257577047"
+             x2="306.08533523531946"
+             y1="20.45659654328417"
+             y2="66.10748706566935"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line100" />
+          <line
+             x1="607.7362257577047"
+             x2="562.0853352353195"
+             y1="20.45659654328417"
+             y2="66.10748706566935"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line101" />
+          <line
+             x1="263.34308373797757"
+             x2="226.59561736370148"
+             y1="112.42933995479353"
+             y2="149.17680632906962"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line102" />
+          <line
+             x1="263.34308373797757"
+             x2="226.59561736370148"
+             y1="-399.57066004520647"
+             y2="-362.8231936709304"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line103" />
+          <line
+             x1="519.3430837379776"
+             x2="482.5956173637015"
+             y1="-399.57066004520647"
+             y2="-362.8231936709304"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line104" />
+          <line
+             x1="775.3430837379776"
+             x2="738.5956173637014"
+             y1="-399.57066004520647"
+             y2="-362.8231936709304"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line105" />
+          <line
+             x1="263.34308373797757"
+             x2="226.59561736370148"
+             y1="-143.57066004520647"
+             y2="-106.82319367093038"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line106" />
+          <line
+             x1="519.3430837379776"
+             x2="482.5956173637015"
+             y1="-143.57066004520647"
+             y2="-106.82319367093038"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line107" />
+          <line
+             x1="775.3430837379776"
+             x2="738.5956173637014"
+             y1="-143.57066004520647"
+             y2="-106.82319367093038"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line108" />
+          <line
+             x1="263.34308373797757"
+             x2="226.59561736370148"
+             y1="112.42933995479353"
+             y2="149.17680632906962"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line109" />
+          <line
+             x1="519.3430837379776"
+             x2="482.5956173637015"
+             y1="112.42933995479353"
+             y2="149.17680632906962"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line110" />
+          <line
+             x1="775.3430837379776"
+             x2="738.5956173637014"
+             y1="112.42933995479353"
+             y2="149.17680632906962"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line111" />
+          <line
+             x1="7.343083737977565"
+             x2="-29.40438263629852"
+             y1="112.42933995479353"
+             y2="149.17680632906962"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line112" />
+          <line
+             x1="29.5343611349199"
+             x2="-26.261040392985034"
+             y1="205.16777076655512"
+             y2="260.96317229446004"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line113" />
+          <line
+             x1="29.5343611349199"
+             x2="-26.261040392985034"
+             y1="-306.8322292334449"
+             y2="-251.03682770553996"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line114" />
+          <line
+             x1="285.5343611349199"
+             x2="229.73895960701498"
+             y1="-306.8322292334449"
+             y2="-251.03682770553996"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line115" />
+          <line
+             x1="541.5343611349199"
+             x2="485.738959607015"
+             y1="-306.8322292334449"
+             y2="-251.03682770553996"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line116" />
+          <line
+             x1="29.5343611349199"
+             x2="-26.261040392985034"
+             y1="-50.83222923344488"
+             y2="4.963172294460037"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line117" />
+          <line
+             x1="285.5343611349199"
+             x2="229.73895960701498"
+             y1="-50.83222923344488"
+             y2="4.963172294460037"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line118" />
+          <line
+             x1="541.5343611349199"
+             x2="485.738959607015"
+             y1="-50.83222923344488"
+             y2="4.963172294460037"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line119" />
+          <line
+             x1="29.5343611349199"
+             x2="-26.261040392985034"
+             y1="205.16777076655512"
+             y2="260.96317229446004"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line120" />
+          <line
+             x1="285.5343611349199"
+             x2="229.73895960701498"
+             y1="205.16777076655512"
+             y2="260.96317229446004"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line121" />
+          <line
+             x1="541.5343611349199"
+             x2="485.738959607015"
+             y1="205.16777076655512"
+             y2="260.96317229446004"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line122" />
+          <line
+             x1="235.025028503587"
+             x2="173.48946106938683"
+             y1="23.306929884424335"
+             y2="84.84249731862451"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line123" />
+          <line
+             x1="235.025028503587"
+             x2="173.48946106938683"
+             y1="-488.69307011557567"
+             y2="-427.1575026813755"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line124" />
+          <line
+             x1="491.025028503587"
+             x2="429.48946106938683"
+             y1="-488.69307011557567"
+             y2="-427.1575026813755"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line125" />
+          <line
+             x1="747.025028503587"
+             x2="685.4894610693868"
+             y1="-488.69307011557567"
+             y2="-427.1575026813755"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line126" />
+          <line
+             x1="235.025028503587"
+             x2="173.48946106938683"
+             y1="-232.69307011557567"
+             y2="-171.1575026813755"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line127" />
+          <line
+             x1="491.025028503587"
+             x2="429.48946106938683"
+             y1="-232.69307011557567"
+             y2="-171.1575026813755"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line128" />
+          <line
+             x1="747.025028503587"
+             x2="685.4894610693868"
+             y1="-232.69307011557567"
+             y2="-171.1575026813755"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line129" />
+          <line
+             x1="235.025028503587"
+             x2="173.48946106938683"
+             y1="23.306929884424335"
+             y2="84.84249731862451"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line130" />
+          <line
+             x1="491.025028503587"
+             x2="429.48946106938683"
+             y1="23.306929884424335"
+             y2="84.84249731862451"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line131" />
+          <line
+             x1="747.025028503587"
+             x2="685.4894610693868"
+             y1="23.306929884424335"
+             y2="84.84249731862451"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line132" />
+          <line
+             x1="225.00990918130768"
+             x2="200.62370409686488"
+             y1="210.1052181599721"
+             y2="234.4914232444149"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line133" />
+          <line
+             x1="225.00990918130768"
+             x2="200.62370409686488"
+             y1="-301.8947818400279"
+             y2="-277.50857675558507"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line134" />
+          <line
+             x1="481.00990918130765"
+             x2="456.6237040968649"
+             y1="-301.8947818400279"
+             y2="-277.50857675558507"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line135" />
+          <line
+             x1="737.0099091813076"
+             x2="712.6237040968649"
+             y1="-301.8947818400279"
+             y2="-277.50857675558507"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line136" />
+          <line
+             x1="225.00990918130768"
+             x2="200.62370409686488"
+             y1="-45.89478184002789"
+             y2="-21.508576755585096"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line137" />
+          <line
+             x1="481.00990918130765"
+             x2="456.6237040968649"
+             y1="-45.89478184002789"
+             y2="-21.508576755585096"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line138" />
+          <line
+             x1="737.0099091813076"
+             x2="712.6237040968649"
+             y1="-45.89478184002789"
+             y2="-21.508576755585096"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line139" />
+          <line
+             x1="225.00990918130768"
+             x2="200.62370409686488"
+             y1="210.1052181599721"
+             y2="234.4914232444149"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line140" />
+          <line
+             x1="481.00990918130765"
+             x2="456.6237040968649"
+             y1="210.1052181599721"
+             y2="234.4914232444149"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line141" />
+          <line
+             x1="737.0099091813076"
+             x2="712.6237040968649"
+             y1="210.1052181599721"
+             y2="234.4914232444149"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line142" />
+          <line
+             x1="171.55017713954658"
+             x2="102.05334080042758"
+             y1="78.55895711807653"
+             y2="148.05579345719553"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line143" />
+          <line
+             x1="171.55017713954658"
+             x2="102.05334080042758"
+             y1="-433.44104288192347"
+             y2="-363.94420654280447"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line144" />
+          <line
+             x1="427.5501771395466"
+             x2="358.0533408004276"
+             y1="-433.44104288192347"
+             y2="-363.94420654280447"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line145" />
+          <line
+             x1="683.5501771395466"
+             x2="614.0533408004276"
+             y1="-433.44104288192347"
+             y2="-363.94420654280447"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line146" />
+          <line
+             x1="171.55017713954658"
+             x2="102.05334080042758"
+             y1="-177.44104288192347"
+             y2="-107.94420654280447"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line147" />
+          <line
+             x1="427.5501771395466"
+             x2="358.0533408004276"
+             y1="-177.44104288192347"
+             y2="-107.94420654280447"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line148" />
+          <line
+             x1="683.5501771395466"
+             x2="614.0533408004276"
+             y1="-177.44104288192347"
+             y2="-107.94420654280447"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line149" />
+          <line
+             x1="171.55017713954658"
+             x2="102.05334080042758"
+             y1="78.55895711807653"
+             y2="148.05579345719553"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line150" />
+          <line
+             x1="427.5501771395466"
+             x2="358.0533408004276"
+             y1="78.55895711807653"
+             y2="148.05579345719553"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line151" />
+          <line
+             x1="683.5501771395466"
+             x2="614.0533408004276"
+             y1="78.55895711807653"
+             y2="148.05579345719553"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line152" />
+          <line
+             x1="258.4358284744095"
+             x2="228.09906783279462"
+             y1="10.646186924515469"
+             y2="40.98294756613034"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line153" />
+          <line
+             x1="258.4358284744095"
+             x2="228.09906783279462"
+             y1="-501.35381307548454"
+             y2="-471.01705243386965"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line154" />
+          <line
+             x1="514.4358284744095"
+             x2="484.0990678327946"
+             y1="-501.35381307548454"
+             y2="-471.01705243386965"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line155" />
+          <line
+             x1="770.4358284744095"
+             x2="740.0990678327946"
+             y1="-501.35381307548454"
+             y2="-471.01705243386965"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line156" />
+          <line
+             x1="258.4358284744095"
+             x2="228.09906783279462"
+             y1="-245.35381307548454"
+             y2="-215.01705243386965"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line157" />
+          <line
+             x1="514.4358284744095"
+             x2="484.0990678327946"
+             y1="-245.35381307548454"
+             y2="-215.01705243386965"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line158" />
+          <line
+             x1="770.4358284744095"
+             x2="740.0990678327946"
+             y1="-245.35381307548454"
+             y2="-215.01705243386965"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line159" />
+          <line
+             x1="258.4358284744095"
+             x2="228.09906783279462"
+             y1="10.646186924515469"
+             y2="40.98294756613034"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line160" />
+          <line
+             x1="514.4358284744095"
+             x2="484.0990678327946"
+             y1="10.646186924515469"
+             y2="40.98294756613034"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line161" />
+          <line
+             x1="770.4358284744095"
+             x2="740.0990678327946"
+             y1="10.646186924515469"
+             y2="40.98294756613034"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line162" />
+          <line
+             x1="2.4358284744095045"
+             x2="-27.900932167205383"
+             y1="10.646186924515469"
+             y2="40.98294756613034"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line163" />
+          <line
+             x1="35.41624886616098"
+             x2="-5.966808810922494"
+             y1="10.151780697595989"
+             y2="51.53483837467946"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line164" />
+          <line
+             x1="35.41624886616098"
+             x2="-5.966808810922494"
+             y1="-501.848219302404"
+             y2="-460.46516162532055"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line165" />
+          <line
+             x1="291.41624886616097"
+             x2="250.0331911890775"
+             y1="-501.848219302404"
+             y2="-460.46516162532055"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line166" />
+          <line
+             x1="547.416248866161"
+             x2="506.0331911890775"
+             y1="-501.848219302404"
+             y2="-460.46516162532055"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line167" />
+          <line
+             x1="35.41624886616098"
+             x2="-5.966808810922494"
+             y1="-245.848219302404"
+             y2="-204.46516162532055"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line168" />
+          <line
+             x1="291.41624886616097"
+             x2="250.0331911890775"
+             y1="-245.848219302404"
+             y2="-204.46516162532055"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line169" />
+          <line
+             x1="547.416248866161"
+             x2="506.0331911890775"
+             y1="-245.848219302404"
+             y2="-204.46516162532055"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line170" />
+          <line
+             x1="35.41624886616098"
+             x2="-5.966808810922494"
+             y1="10.151780697595989"
+             y2="51.53483837467946"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line171" />
+          <line
+             x1="291.41624886616097"
+             x2="250.0331911890775"
+             y1="10.151780697595989"
+             y2="51.53483837467946"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line172" />
+          <line
+             x1="547.416248866161"
+             x2="506.0331911890775"
+             y1="10.151780697595989"
+             y2="51.53483837467946"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line173" />
+          <line
+             x1="90.76285286976488"
+             x2="72.92514980496989"
+             y1="79.79001478147771"
+             y2="97.6277178462727"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line174" />
+          <line
+             x1="90.76285286976488"
+             x2="72.92514980496989"
+             y1="-432.2099852185223"
+             y2="-414.37228215372727"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line175" />
+          <line
+             x1="346.76285286976486"
+             x2="328.9251498049699"
+             y1="-432.2099852185223"
+             y2="-414.37228215372727"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line176" />
+          <line
+             x1="602.7628528697649"
+             x2="584.9251498049699"
+             y1="-432.2099852185223"
+             y2="-414.37228215372727"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line177" />
+          <line
+             x1="90.76285286976488"
+             x2="72.92514980496989"
+             y1="-176.2099852185223"
+             y2="-158.3722821537273"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line178" />
+          <line
+             x1="346.76285286976486"
+             x2="328.9251498049699"
+             y1="-176.2099852185223"
+             y2="-158.3722821537273"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line179" />
+          <line
+             x1="602.7628528697649"
+             x2="584.9251498049699"
+             y1="-176.2099852185223"
+             y2="-158.3722821537273"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line180" />
+          <line
+             x1="90.76285286976488"
+             x2="72.92514980496989"
+             y1="79.79001478147771"
+             y2="97.6277178462727"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line181" />
+          <line
+             x1="346.76285286976486"
+             x2="328.9251498049699"
+             y1="79.79001478147771"
+             y2="97.6277178462727"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line182" />
+          <line
+             x1="602.7628528697649"
+             x2="584.9251498049699"
+             y1="79.79001478147771"
+             y2="97.6277178462727"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line183" />
+          <animateTransform
+             attributeName="transform"
+             type="translate"
+             values="0 0;-256 256"
+             keyTimes="0;1"
+             repeatCount="indefinite"
+             dur="5s" />
+        </g>
+        <g
+           id="g275">
+          <line
+             x1="93.6896305353637"
+             x2="75.71575147590588"
+             y1="83.83758835275793"
+             y2="101.81146741221576"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line184" />
+          <line
+             x1="93.6896305353637"
+             x2="75.71575147590588"
+             y1="-428.16241164724204"
+             y2="-410.18853258778427"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line185" />
+          <line
+             x1="349.6896305353637"
+             x2="331.7157514759059"
+             y1="-428.16241164724204"
+             y2="-410.18853258778427"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line186" />
+          <line
+             x1="605.6896305353637"
+             x2="587.7157514759059"
+             y1="-428.16241164724204"
+             y2="-410.18853258778427"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line187" />
+          <line
+             x1="93.6896305353637"
+             x2="75.71575147590588"
+             y1="-172.16241164724207"
+             y2="-154.18853258778424"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line188" />
+          <line
+             x1="349.6896305353637"
+             x2="331.7157514759059"
+             y1="-172.16241164724207"
+             y2="-154.18853258778424"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line189" />
+          <line
+             x1="605.6896305353637"
+             x2="587.7157514759059"
+             y1="-172.16241164724207"
+             y2="-154.18853258778424"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line190" />
+          <line
+             x1="93.6896305353637"
+             x2="75.71575147590588"
+             y1="83.83758835275793"
+             y2="101.81146741221576"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line191" />
+          <line
+             x1="349.6896305353637"
+             x2="331.7157514759059"
+             y1="83.83758835275793"
+             y2="101.81146741221576"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line192" />
+          <line
+             x1="605.6896305353637"
+             x2="587.7157514759059"
+             y1="83.83758835275793"
+             y2="101.81146741221576"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line193" />
+          <line
+             x1="207.24941141296466"
+             x2="167.48134532138562"
+             y1="234.55973050121918"
+             y2="274.3277965927982"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line194" />
+          <line
+             x1="207.24941141296466"
+             x2="167.48134532138562"
+             y1="-277.4402694987808"
+             y2="-237.67220340720178"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line195" />
+          <line
+             x1="463.24941141296466"
+             x2="423.4813453213856"
+             y1="-277.4402694987808"
+             y2="-237.67220340720178"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line196" />
+          <line
+             x1="719.2494114129647"
+             x2="679.4813453213856"
+             y1="-277.4402694987808"
+             y2="-237.67220340720178"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line197" />
+          <line
+             x1="207.24941141296466"
+             x2="167.48134532138562"
+             y1="-21.440269498780822"
+             y2="18.327796592798222"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line198" />
+          <line
+             x1="463.24941141296466"
+             x2="423.4813453213856"
+             y1="-21.440269498780822"
+             y2="18.327796592798222"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line199" />
+          <line
+             x1="719.2494114129647"
+             x2="679.4813453213856"
+             y1="-21.440269498780822"
+             y2="18.327796592798222"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line200" />
+          <line
+             x1="207.24941141296466"
+             x2="167.48134532138562"
+             y1="234.55973050121918"
+             y2="274.3277965927982"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line201" />
+          <line
+             x1="463.24941141296466"
+             x2="423.4813453213856"
+             y1="234.55973050121918"
+             y2="274.3277965927982"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line202" />
+          <line
+             x1="719.2494114129647"
+             x2="679.4813453213856"
+             y1="234.55973050121918"
+             y2="274.3277965927982"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line203" />
+          <line
+             x1="69.19671201083756"
+             x2="20.15599089926107"
+             y1="61.52941038272999"
+             y2="110.57013149430648"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line204" />
+          <line
+             x1="69.19671201083756"
+             x2="20.15599089926107"
+             y1="-450.47058961727"
+             y2="-401.42986850569355"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line205" />
+          <line
+             x1="325.1967120108376"
+             x2="276.15599089926104"
+             y1="-450.47058961727"
+             y2="-401.42986850569355"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line206" />
+          <line
+             x1="581.1967120108376"
+             x2="532.155990899261"
+             y1="-450.47058961727"
+             y2="-401.42986850569355"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line207" />
+          <line
+             x1="69.19671201083756"
+             x2="20.15599089926107"
+             y1="-194.47058961727"
+             y2="-145.42986850569352"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line208" />
+          <line
+             x1="325.1967120108376"
+             x2="276.15599089926104"
+             y1="-194.47058961727"
+             y2="-145.42986850569352"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line209" />
+          <line
+             x1="581.1967120108376"
+             x2="532.155990899261"
+             y1="-194.47058961727"
+             y2="-145.42986850569352"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line210" />
+          <line
+             x1="69.19671201083756"
+             x2="20.15599089926107"
+             y1="61.52941038272999"
+             y2="110.57013149430648"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line211" />
+          <line
+             x1="325.1967120108376"
+             x2="276.15599089926104"
+             y1="61.52941038272999"
+             y2="110.57013149430648"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line212" />
+          <line
+             x1="581.1967120108376"
+             x2="532.155990899261"
+             y1="61.52941038272999"
+             y2="110.57013149430648"
+             stroke-width="15"
+             stroke="#93dbe9"
+             stroke-linecap="round"
+             id="line213" />
+          <line
+             x1="153.36870174443493"
+             x2="103.52218176454608"
+             y1="129.93915864820679"
+             y2="179.78567862809564"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line214" />
+          <line
+             x1="153.36870174443493"
+             x2="103.52218176454608"
+             y1="-382.0608413517932"
+             y2="-332.21432137190436"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line215" />
+          <line
+             x1="409.36870174443493"
+             x2="359.5221817645461"
+             y1="-382.0608413517932"
+             y2="-332.21432137190436"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line216" />
+          <line
+             x1="665.3687017444349"
+             x2="615.5221817645461"
+             y1="-382.0608413517932"
+             y2="-332.21432137190436"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line217" />
+          <line
+             x1="153.36870174443493"
+             x2="103.52218176454608"
+             y1="-126.06084135179321"
+             y2="-76.21432137190436"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line218" />
+          <line
+             x1="409.36870174443493"
+             x2="359.5221817645461"
+             y1="-126.06084135179321"
+             y2="-76.21432137190436"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line219" />
+          <line
+             x1="665.3687017444349"
+             x2="615.5221817645461"
+             y1="-126.06084135179321"
+             y2="-76.21432137190436"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line220" />
+          <line
+             x1="153.36870174443493"
+             x2="103.52218176454608"
+             y1="129.93915864820679"
+             y2="179.78567862809564"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line221" />
+          <line
+             x1="409.36870174443493"
+             x2="359.5221817645461"
+             y1="129.93915864820679"
+             y2="179.78567862809564"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line222" />
+          <line
+             x1="665.3687017444349"
+             x2="615.5221817645461"
+             y1="129.93915864820679"
+             y2="179.78567862809564"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line223" />
+          <line
+             x1="49.20494471467643"
+             x2="2.7142059537850685"
+             y1="141.75997600855746"
+             y2="188.25071476944882"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line224" />
+          <line
+             x1="49.20494471467643"
+             x2="2.7142059537850685"
+             y1="-370.2400239914425"
+             y2="-323.7492852305512"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line225" />
+          <line
+             x1="305.20494471467646"
+             x2="258.71420595378504"
+             y1="-370.2400239914425"
+             y2="-323.7492852305512"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line226" />
+          <line
+             x1="561.2049447146765"
+             x2="514.714205953785"
+             y1="-370.2400239914425"
+             y2="-323.7492852305512"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line227" />
+          <line
+             x1="49.20494471467643"
+             x2="2.7142059537850685"
+             y1="-114.24002399144254"
+             y2="-67.74928523055118"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line228" />
+          <line
+             x1="305.20494471467646"
+             x2="258.71420595378504"
+             y1="-114.24002399144254"
+             y2="-67.74928523055118"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line229" />
+          <line
+             x1="561.2049447146765"
+             x2="514.714205953785"
+             y1="-114.24002399144254"
+             y2="-67.74928523055118"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line230" />
+          <line
+             x1="49.20494471467643"
+             x2="2.7142059537850685"
+             y1="141.75997600855746"
+             y2="188.25071476944882"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line231" />
+          <line
+             x1="305.20494471467646"
+             x2="258.71420595378504"
+             y1="141.75997600855746"
+             y2="188.25071476944882"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line232" />
+          <line
+             x1="561.2049447146765"
+             x2="514.714205953785"
+             y1="141.75997600855746"
+             y2="188.25071476944882"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line233" />
+          <line
+             x1="84.6808460539986"
+             x2="32.68305955000314"
+             y1="-7.711036017440037"
+             y2="44.28675048655542"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line234" />
+          <line
+             x1="84.6808460539986"
+             x2="32.68305955000314"
+             y1="-519.71103601744"
+             y2="-467.71324951344457"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line235" />
+          <line
+             x1="340.6808460539986"
+             x2="288.6830595500031"
+             y1="-519.71103601744"
+             y2="-467.71324951344457"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line236" />
+          <line
+             x1="596.6808460539986"
+             x2="544.6830595500031"
+             y1="-519.71103601744"
+             y2="-467.71324951344457"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line237" />
+          <line
+             x1="84.6808460539986"
+             x2="32.68305955000314"
+             y1="-263.71103601744005"
+             y2="-211.71324951344457"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line238" />
+          <line
+             x1="340.6808460539986"
+             x2="288.6830595500031"
+             y1="-263.71103601744005"
+             y2="-211.71324951344457"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line239" />
+          <line
+             x1="596.6808460539986"
+             x2="544.6830595500031"
+             y1="-263.71103601744005"
+             y2="-211.71324951344457"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line240" />
+          <line
+             x1="84.6808460539986"
+             x2="32.68305955000314"
+             y1="-7.711036017440037"
+             y2="44.28675048655542"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line241" />
+          <line
+             x1="340.6808460539986"
+             x2="288.6830595500031"
+             y1="-7.711036017440037"
+             y2="44.28675048655542"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line242" />
+          <line
+             x1="596.6808460539986"
+             x2="544.6830595500031"
+             y1="-7.711036017440037"
+             y2="44.28675048655542"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line243" />
+          <line
+             x1="84.6808460539986"
+             x2="32.68305955000314"
+             y1="248.28896398255995"
+             y2="300.28675048655543"
+             stroke-width="15"
+             stroke="#689cc5"
+             stroke-linecap="round"
+             id="line244" />
+          <line
+             x1="225.38342310559023"
+             x2="185.66602314192056"
+             y1="109.68961591653738"
+             y2="149.40701588020704"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line245" />
+          <line
+             x1="225.38342310559023"
+             x2="185.66602314192056"
+             y1="-402.3103840834626"
+             y2="-362.59298411979296"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line246" />
+          <line
+             x1="481.3834231055902"
+             x2="441.66602314192056"
+             y1="-402.3103840834626"
+             y2="-362.59298411979296"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line247" />
+          <line
+             x1="737.3834231055903"
+             x2="697.6660231419205"
+             y1="-402.3103840834626"
+             y2="-362.59298411979296"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line248" />
+          <line
+             x1="225.38342310559023"
+             x2="185.66602314192056"
+             y1="-146.31038408346262"
+             y2="-106.59298411979296"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line249" />
+          <line
+             x1="481.3834231055902"
+             x2="441.66602314192056"
+             y1="-146.31038408346262"
+             y2="-106.59298411979296"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line250" />
+          <line
+             x1="737.3834231055903"
+             x2="697.6660231419205"
+             y1="-146.31038408346262"
+             y2="-106.59298411979296"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line251" />
+          <line
+             x1="225.38342310559023"
+             x2="185.66602314192056"
+             y1="109.68961591653738"
+             y2="149.40701588020704"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line252" />
+          <line
+             x1="481.3834231055902"
+             x2="441.66602314192056"
+             y1="109.68961591653738"
+             y2="149.40701588020704"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line253" />
+          <line
+             x1="737.3834231055903"
+             x2="697.6660231419205"
+             y1="109.68961591653738"
+             y2="149.40701588020704"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line254" />
+          <line
+             x1="172.83662370669697"
+             x2="103.52581079778793"
+             y1="164.45975635392284"
+             y2="233.77056926283188"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line255" />
+          <line
+             x1="172.83662370669697"
+             x2="103.52581079778793"
+             y1="-347.54024364607716"
+             y2="-278.2294307371681"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line256" />
+          <line
+             x1="428.83662370669697"
+             x2="359.5258107977879"
+             y1="-347.54024364607716"
+             y2="-278.2294307371681"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line257" />
+          <line
+             x1="684.836623706697"
+             x2="615.5258107977879"
+             y1="-347.54024364607716"
+             y2="-278.2294307371681"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line258" />
+          <line
+             x1="172.83662370669697"
+             x2="103.52581079778793"
+             y1="-91.54024364607716"
+             y2="-22.229430737168116"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line259" />
+          <line
+             x1="428.83662370669697"
+             x2="359.5258107977879"
+             y1="-91.54024364607716"
+             y2="-22.229430737168116"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line260" />
+          <line
+             x1="684.836623706697"
+             x2="615.5258107977879"
+             y1="-91.54024364607716"
+             y2="-22.229430737168116"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line261" />
+          <line
+             x1="172.83662370669697"
+             x2="103.52581079778793"
+             y1="164.45975635392284"
+             y2="233.77056926283188"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line262" />
+          <line
+             x1="428.83662370669697"
+             x2="359.5258107977879"
+             y1="164.45975635392284"
+             y2="233.77056926283188"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line263" />
+          <line
+             x1="684.836623706697"
+             x2="615.5258107977879"
+             y1="164.45975635392284"
+             y2="233.77056926283188"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line264" />
+          <line
+             x1="254.85435949520382"
+             x2="240.10841684705935"
+             y1="-1.209429949430282"
+             y2="13.536512698714214"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line265" />
+          <line
+             x1="254.85435949520382"
+             x2="240.10841684705935"
+             y1="-513.2094299494303"
+             y2="-498.4634873012858"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line266" />
+          <line
+             x1="510.8543594952038"
+             x2="496.10841684705935"
+             y1="-513.2094299494303"
+             y2="-498.4634873012858"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line267" />
+          <line
+             x1="766.8543594952039"
+             x2="752.1084168470593"
+             y1="-513.2094299494303"
+             y2="-498.4634873012858"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line268" />
+          <line
+             x1="254.85435949520382"
+             x2="240.10841684705935"
+             y1="-257.2094299494303"
+             y2="-242.4634873012858"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line269" />
+          <line
+             x1="510.8543594952038"
+             x2="496.10841684705935"
+             y1="-257.2094299494303"
+             y2="-242.4634873012858"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line270" />
+          <line
+             x1="766.8543594952039"
+             x2="752.1084168470593"
+             y1="-257.2094299494303"
+             y2="-242.4634873012858"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line271" />
+          <line
+             x1="254.85435949520382"
+             x2="240.10841684705935"
+             y1="-1.209429949430282"
+             y2="13.536512698714214"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line272" />
+          <line
+             x1="510.8543594952038"
+             x2="496.10841684705935"
+             y1="-1.209429949430282"
+             y2="13.536512698714214"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line273" />
+          <line
+             x1="766.8543594952039"
+             x2="752.1084168470593"
+             y1="-1.209429949430282"
+             y2="13.536512698714214"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line274" />
+          <line
+             x1="254.85435949520382"
+             x2="240.10841684705935"
+             y1="254.79057005056973"
+             y2="269.5365126987142"
+             stroke-width="15"
+             stroke="#5e6fa3"
+             stroke-linecap="round"
+             id="line275" />
+          <animateTransform
+             attributeName="transform"
+             type="translate"
+             values="0 0;-256 256"
+             keyTimes="0;1"
+             repeatCount="indefinite"
+             dur="10.3333333333333335s" />
+        </g>
+      </g>
+    </pattern>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Shift"
+       id="filter289"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="206"
+         result="color1"
+         id="feColorMatrix288" />
+      <feColorMatrix
+         type="saturate"
+         values="0.838564"
+         result="color2"
+         id="feColorMatrix289" />
+    </filter>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="1084"
+     height="322"
+     fill="url(#pid-0.7735807359934106)"
+     id="rect276"
+     style="filter:url(#filter289)" />
+</svg>

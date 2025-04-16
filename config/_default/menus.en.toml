@@ -43,6 +43,12 @@ pageRef = "docs/points_of_unity"
 weight = 20
 
 [[main]]
+name = "Hacking: A Timeline"
+parent = "Docs"
+pageRef = "docs/timeline"
+weight = 20
+
+[[main]]
 name = "About Us"
 pageRef = "about"
 weight = 10

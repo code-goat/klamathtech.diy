@@ -7,24 +7,22 @@ tags: ["Docs", "info"]
 #series: ["Documentation"]
 #series_order: 1
 ---
-
-Does this work?
-
-{{< typeit speed=9999999, tag=h3 >}}
+---
 # The Hacker's Manifesto
 
-**By +++The Mentor+++**
-Originally published in *Phrack* Issue #7, 1986.
-
----
-
+- by +++The Mentor+++
+- Originally published in *Phrack* Issue #7, 1986.
+```
+{{< typeit speed=5 html=true textColor="green" tag=h4 >}}
 Another one got caught today, it's all over the papers.
-"Teenager arrested in computer crime scandal," "Hacker arrested after bank tampering"...
+
+"Teenager arrested in computer crime scandal"
+"Hacker arrested after bank tampering"
+
 Damn kids. They're all alike.
 
-But did you, in your three-piece psychology and 1950s technobrain,
-ever take a look behind the eyes of a hacker? Did you ever wonder what made him tick,
-what forces shaped him, what may have molded him?
+But did you, in your three-piece psychology and 1950s technobrain, ever take a look behind the eyes of a hacker? 
+Did you ever wonder what made him tick, what forces shaped him, what may have molded him?
 
 I am a hacker, enter my world...
 Mine is a world that begins with school...
@@ -71,3 +69,4 @@ You build atomic bombs, you wage wars, you murder, cheat, and lie to us and try 
 
 Yes, I am a criminal. My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like. My crime is that
 {{< /typeit >}}
+```

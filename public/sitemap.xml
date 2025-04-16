@@ -50,6 +50,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/docs/timeline/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

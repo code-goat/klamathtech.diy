@@ -8,13 +8,14 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
-defaultBackgroundImage = "klamath.jpg"
+#defaultBackgroundImage = "klamath.jpg"
+defaultBackgroundImage = "background.svg"
 defaultFeaturedImage = "blackcap.png"
 highlightCurrentMenuArea = true
-smartTOC = "False"
+smartTOC = true
 
 [header]
-layout = "basic"
+layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
 showMenu = true
@@ -24,12 +25,14 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "background"
+layout = "background" # valid options: page, profile, hero, card, background, custom
+homepageImage = "klamath.jpg" # used in: hero, and card
+#pageRef = "about/index.md"
 showRecent = false
 showRecentItems = 5
-showMoreLink = false
-showMoreLinkDest = "/posts/"
-cardView = false
+showMoreLink = true
+showMoreLinkDest = "/docs/"
+cardView = true
 cardViewScreenWidth = true
 layoutBackgroundBlur = true
 

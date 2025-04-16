@@ -71,14 +71,14 @@
   
   <meta property="og:url" content="http://localhost:1313/">
   <meta property="og:site_name" content="klamathtech.diy">
-  <meta property="og:title" content="klamathtech.diy">
+  <meta property="og:title" content="Welcome to My Site">
   <meta property="og:description" content="Klamath Tech Collective website">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="klamathtech.diy">
+  <meta name="twitter:title" content="Welcome to My Site">
   <meta name="twitter:description" content="Klamath Tech Collective website">
 
   
@@ -115,7 +115,7 @@
   <link href="https://youtube.com/username" rel="me" />
   
   
-  <link href="https://signal.me/#eu/XF0Ns_Ot3FVXkhugZq-jUl7XIvOwps7EhATyV8Jg6AfgYPwuYEtAZ5n6Zt3FaUY7" rel="me" />
+  <link href="https://signal.me/" rel="me" />
   
   
   <link href="https://mastodon.instance/@username" rel="me" />
@@ -139,6 +139,9 @@
 
 
 
+
+
+<script defer src="/lib/typeit/typeit.umd.0b0b4dac726624d4d4920b7a7b9a5466b2b0340759e8e557d78fc4a61f849f1fffed36ddb1d445014f4b936a3a46d3310b476c54958e73ecf5b53ba63c3dd01d.js" integrity="sha512-CwtNrHJmJNTUkgt6e5pUZrKwNAdZ6OVX14/Eph&#43;Enx//7TbdsdRFAU9Lk2o6RtMxC0dsVJWOc&#43;z1tTumPD3QHQ=="></script>
 
 
 
@@ -170,7 +173,11 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3">
     
     
@@ -258,6 +265,20 @@
           
           <p class="text-sm font-sm" title="">
             Hacker Manifesto
+          </p>
+        </a>
+        
+        <a href="/docs/timeline/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            Hacking: A Timeline
+          </p>
+        </a>
+        
+        <a href="/docs/points_of_unity/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            Points of Unity
           </p>
         </a>
         
@@ -519,6 +540,24 @@
     </a>
 </li>
 
+<li class="mt-1">
+    <a href="/docs/timeline/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            Hacking: A Timeline
+        </p>
+    </a>
+</li>
+
+<li class="mt-1">
+    <a href="/docs/points_of_unity/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            Points of Unity
+        </p>
+    </a>
+</li>
+
 <li class="mb-2"></li>
 
 
@@ -596,6 +635,16 @@
 </script>
 
 
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
+
   
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
@@ -615,6 +664,10 @@
                             
                         
                     
+                    
+                        
+                            
+                        
                     
                     
                     <img class="w-full h-[1000px] object-cover m-0 nozoom" src="/klamath.jpg" role="presentation" style="margin: 0">
@@ -689,7 +742,7 @@
                             
                             
                             
-                            <a class="px-1 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="https://signal.me/#eu/XF0Ns_Ot3FVXkhugZq-jUl7XIvOwps7EhATyV8Jg6AfgYPwuYEtAZ5n6Zt3FaUY7" target="_blank"
+                            <a class="px-1 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="https://signal.me/" target="_blank"
                                 aria-label="Link" rel="me noopener noreferrer">
 
   <span class="relative block icon">
@@ -726,7 +779,113 @@
                         </div>
                         
                     </div>
-                    <section class="prose dark:prose-invert"></section>
+                    <section class="prose dark:prose-invert">
+
+<h2 class="relative group">The Predatory Digital Landscape: Understanding Techno-feudalism and the Quest for Digital Justice 
+    <div id="the-predatory-digital-landscape-understanding-techno-feudalism-and-the-quest-for-digital-justice" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#the-predatory-digital-landscape-understanding-techno-feudalism-and-the-quest-for-digital-justice" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>We live in an era marked by rapid technological advancements and a digital environment that is increasingly predatory. This landscape is often described as <strong>technofeudalism</strong>, a system where tech giants act as modern feudal lords, controlling vast digital territories and extracting value from users through data and algorithmic control. To understand this complex system, let&rsquo;s delve into its core components and explore historical parallels that can guide us toward a more equitable future.</p>
+
+
+<h3 class="relative group">Defining Technofeudalism / Techno-colonization 
+    <div id="defining-technofeudalism--techno-colonization" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#defining-technofeudalism--techno-colonization" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Technofeudalism represents a post-capitalist structure where power is concentrated in platform ownership and data extraction rather than traditional capital. This system is characterized by <strong>cloud capital</strong>, where digital infrastructure serves as the new &ldquo;land&rdquo; monopolized by tech corporations. Instead of generating profits through production, these corporations extract what can be thought of as <strong>cloud rent</strong>, such as ad revenue and data fees. In this setup, users and workers become <strong>digital peasants</strong>, reliant on platforms for economic and social participation. The necessity of having a smartphone to fully engage in society underscores this dependency, making it difficult to imagine life without these digital tools.</p>
+<p>In parallel, <strong>technocolonialism</strong> emerges as a modern iteration of colonialism, where control over technology infrastructure, data, and digital ecosystems is concentrated in the hands of a few global tech corporations, predominantly based in the Global North. This domination mirrors traditional colonialism, where economic, political, and cultural power was concentrated in the hands of a few nations, to the detriment of others. Technocolonialism involves the exploitation of digital technologies for political, economic, and social domination, often resulting in an unequal division of labor and dependency on digital infrastructure. It further exacerbates the disparities between the Global North and South, as developing countries become reliant on foreign technologies and data extraction systems, reinforcing their subordinate position in the global digital economy. Both technofeudalism and technocolonialism highlight how digital technologies can be used to exert control and influence over populations and resources, often in ways that mirror historical forms of exploitation.</p>
+<p><a href="https://m.youtube.com/watch?v=hNblIGVKgks" target="_blank">Technofuedalism</a></p>
+
+
+<h3 class="relative group">Historical Context: The Luddite Revolution 
+    <div id="historical-context-the-luddite-revolution" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#historical-context-the-luddite-revolution" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>An interesting parallel to our current situation is the <strong>Luddite Revolution</strong> in Western Europe during the early 19th century. Often misunderstood as anti-technology, the Luddites were actually pro-worker rights activists who targeted machinery that undermined their livelihoods. Between 1811 and 1816, they organized raids to destroy textile machinery, not because they opposed technology itself, but because these machines were used to exploit workers by reducing wages and increasing unemployment. The Luddites sought fair wages, safer working conditions, and protection against displacement by machines.</p>
+
+
+<h3 class="relative group">Parallels Between Technofeudalism and Industrial Exploitation 
+    <div id="parallels-between-technofeudalism-and-industrial-exploitation" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#parallels-between-technofeudalism-and-industrial-exploitation" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Today, we face a similar challenge. Our smartphones, the internet, browsers, and social media platforms are the modern equivalents of those textile machines. These technologies extract value from us—our data, attention, and labor—often without fair compensation or control over how they are used. Just as the Luddites smashed looms to reclaim their agency, we must find ways to resist the extractive forces of technofeudalism. However, unlike the physical machinery of the past, digital tools are deeply embedded in our daily lives, making traditional forms of resistance impractical.</p>
+
+
+<h3 class="relative group">Modern Resistance: Digital Literacy as Defense 
+    <div id="modern-resistance-digital-literacy-as-defense" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#modern-resistance-digital-literacy-as-defense" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>In this digital age, <strong>digital literacy</strong> becomes our most powerful tool for resistance. It involves understanding how data is extracted, how algorithms work, and how platform monopolies operate. By being aware of these dynamics, we can begin to reclaim our agency. Digital literacy empowers us to use technology in ways that serve us, rather than just serving the interests of tech corporations. This might involve using encryption to protect our data, supporting open-source software, or advocating for policies that promote digital rights and fairness.</p>
+
+
+<h3 class="relative group">Conclusion: Reclaiming Agency in a Technofeudal Era 
+    <div id="conclusion-reclaiming-agency-in-a-technofeudal-era" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#conclusion-reclaiming-agency-in-a-technofeudal-era" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>As we navigate this complex digital landscape, it&rsquo;s crucial to remember that our goal is not to reject technology, but to ensure it serves humanity rather than just profit. Like the Luddites, we must focus on <strong>justice</strong>—demanding that technology empowers workers and users, not just the corporations that control it. By educating ourselves, advocating for policy reforms, and supporting grassroots tech initiatives, we can dismantle the extractive systems of technofeudalism and build a more equitable digital future. This journey requires collective action and a commitment to using technology as a tool for empowerment, rather than exploitation.</p>
+
+
+<h6 class="relative group"><div id="typeit-6fb22d3943ec7794c447a8e7c1bb77a4"></div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      new TypeIt("#typeit-6fb22d3943ec7794c447a8e7c1bb77a4", {
+        strings: ["","","\u003c!-- HACKING: A TIMELINE: --\u003e","  \u003cli\u003e\u003cstrong\u003eAncient Greece\u003c/strong\u003e: Privacy was valued in ancient Greek culture, with concepts like \"oikonomia\" emphasizing the importance of private life.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1789\u003c/strong\u003e: The U.S. Constitution came into effect, providing implicit protections for privacy through its amendments.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1890\u003c/strong\u003e: The \"Right to Privacy\" law review article by Louis Brandeis and Samuel Warren argued for a legal right to privacy.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1914\u003c/strong\u003e: The Federal Trade Commission (FTC) was established, later becoming a key player in privacy enforcement.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1970s\u003c/strong\u003e: The U.S. government began regulating encryption as a munition, restricting its export and use.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1973\u003c/strong\u003e: The HEW Advisory Committee on Automated Personal Data Systems developed Fair Information Practices, which influenced modern privacy legislation.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1974\u003c/strong\u003e: The Privacy Act of 1974 and FERPA were enacted to protect personal data.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1975\u003c/strong\u003e: The draft Data Encryption Standard (DES) was published, marking a significant step in public cryptography.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1977\u003c/strong\u003e: DES was adopted as a federal standard, despite concerns about its security.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1980s\u003c/strong\u003e: Early malware and viruses began to spread, highlighting cybersecurity concerns.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1990s\u003c/strong\u003e: Encryption export controls were gradually relaxed due to lobbying and economic needs.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1995\u003c/strong\u003e: The EU Data Protection Directive was adopted, setting a precedent for robust privacy laws.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1996\u003c/strong\u003e: HIPAA was enacted to protect health information.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1998\u003c/strong\u003e: COPPA was passed to safeguard children's online privacy.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e1999\u003c/strong\u003e: The Gramm-Leach-Bliley Act required financial institutions to disclose data sharing practices.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e2000\u003c/strong\u003e: Encryption regulations were significantly relaxed in the U.S.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e2001\u003c/strong\u003e: AES replaced DES as the encryption standard.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003e2010s\u003c/strong\u003e:","    \u003cul\u003e","      \u003cli\u003e\u003cstrong\u003e2012\u003c/strong\u003e: Target's marketing practices raised privacy concerns.\u003c/li\u003e","      \u003cli\u003e\u003cstrong\u003e2013\u003c/strong\u003e: Edward Snowden revealed extensive government surveillance, sparking global privacy debates.\u003c/li\u003e","      \u003cli\u003e\u003cstrong\u003e2013\u003c/strong\u003e: The Target data breach exposed millions of credit card details.\u003c/li\u003e","      \u003cli\u003e\u003cstrong\u003e2014\u003c/strong\u003e: The Sony Pictures hack highlighted cybersecurity vulnerabilities.\u003c/li\u003e","      \u003cli\u003e\u003cstrong\u003e2015\u003c/strong\u003e: The Safe Harbor agreement was invalidated, impacting data transfers between the EU and U.S.\u003c/li\u003e","      \u003cli\u003e\u003cstrong\u003e2018\u003c/strong\u003e: GDPR came into effect, setting new standards for data protection.\u003c/li\u003e","      \u003cli\u003e\u003cstrong\u003e2018\u003c/strong\u003e: The Facebook-Cambridge Analytica scandal exposed misuse of personal data.\u003c/li\u003e","    \u003c/ul\u003e","  \u003c/li\u003e","\u003c/ul\u003e","","\u003cul\u003e","  \u003cli\u003e\u003cstrong\u003e2020s\u003c/strong\u003e:","    \u003cul\u003e","      \u003cli\u003e\u003cstrong\u003e2020\u003c/strong\u003e: CCPA took effect in California, mirroring GDPR protections.\u003c/li\u003e","      \u003cli\u003e\u003cstrong\u003e2021\u003c/strong\u003e: Apple introduced App Tracking Transparency, enhancing user privacy controls.\u003c/li\u003e","      \u003cli\u003e\u003cstrong\u003e2021\u003c/strong\u003e: Facebook faced criticism over WhatsApp data sharing practices.\u003c/li\u003e","      \u003cli\u003e\u003cstrong\u003e2022\u003c/strong\u003e: The U.S. government faced challenges in balancing privacy with surveillance needs.\u003c/li\u003e","    \u003c/ul\u003e","  \u003c/li\u003e","\u003c/ul\u003e","","\u003cul\u003e","  \u003cli\u003e\u003cstrong\u003eHistorical Regulation\u003c/strong\u003e: Encryption was once regulated as a munition, with export restrictions that treated it as a weapon.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003eForced Disclosure Laws\u003c/strong\u003e: Some countries have laws requiring individuals to disclose encryption keys during investigations.\u003c/li\u003e","  \u003cli\u003e\u003cstrong\u003eLegal Debates\u003c/strong\u003e: Cases like \u003cem\u003eUnited States v. Fricosu\u003c/em\u003e have addressed the legality of compelling individuals to decrypt data.\u003c/li\u003e","\u003c/ul\u003e","",""],
+        speed:  10 ,
+        lifeLike:  true ,
+        startDelay:  0 ,
+        breakLines:  true ,
+        waitUntilVisible:  true ,
+        loop:  false 
+      }).go();
+    });
+</script> 
+    <div id="hahahugoshortcode903s0hbhb" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#hahahugoshortcode903s0hbhb" aria-label="Anchor">#</a>
+    </span>        
+    
+</h6>
+</section>
                 </div>
             </div>
         </div>
@@ -751,7 +910,13 @@
 
   
 
-      
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Scroll to top" title="Scroll to top">
+    &uarr;
+  </a>
+</div>
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
