@@ -2,10 +2,10 @@
 title: "Welcome to My Site"
 ---
 
-###### {{< typeit breakLines=false cursor=true speed=10 waitUntilVisible=false lifeLike=true html=true >}}
-$ We are everywhere!
-$ We are not !colonial
-$ We are inspired!
+###### ${{< typeit breakLines=false cursor=true speed=30 waitUntilVisible=false lifeLike=true html=true loop=true >}}
+We are everywhere!
+We are not !colonial
+We are inspired!
 {{< /typeit >}}
 
 ## The Predatory Digital Landscape: Understanding Techno-feudalism and the Quest for Digital Justice
