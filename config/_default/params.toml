@@ -44,7 +44,7 @@ showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
 showHero = true
-heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -75,8 +75,8 @@ showCards = false
 orderByWeight = false
 groupByYear = true
 cardView = true
-cardViewScreenWidth = false
-constrainItemsWidth = false
+cardViewScreenWidth = true
+constrainItemsWidth = true
 
 [sitemap]
 excludedKinds = ["taxonomy", "term"]
