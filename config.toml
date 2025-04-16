@@ -6,3 +6,9 @@ max = "0.145.0"
 
 [frontmatter]
 date = ["publishDate", "date", ":default"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+
