@@ -2,4 +2,4 @@
 title: "Fern Bio"
 ---
 
-Dummy Second Author's awesome dummy bio.
+Fern is doing stuff.

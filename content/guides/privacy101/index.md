@@ -1,5 +1,6 @@
 ---
 title: "Privacy 101"
+date: "2025-04-16"
 authors:
 - "fern"
 - "collective"
@@ -11,4 +12,8 @@ series: ["Guides"]
 series_order: 1
 ---
 
-# This would be a Privacy Guide?
+# This would be a Privacy Guide
+
+## You know?
+
+### Like this!
