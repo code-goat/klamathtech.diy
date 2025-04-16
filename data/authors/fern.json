@@ -5,6 +5,8 @@
     "social": [
         { "github": "https://github.com/code-goat" },
         { "link": "https://keybase.io/nunocoracao" },
-        { "matrix": "https://matrix.to/#/@common0r:matrix.org" }
+        { "matrix": "https://matrix.to/#/@common0r:matrix.org" },
+        { "signal": "https://signal.me/nunocoracao" },
+
     ]
 }
