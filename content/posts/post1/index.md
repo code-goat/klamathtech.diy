@@ -1,5 +1,6 @@
 ---
 title: "Post 1"
+author: -fern
 weight: 1
 draft: false
 description: "Discover what's new in Blowfish version 2.0."

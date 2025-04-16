@@ -26,8 +26,8 @@ weight = 20
 
 [[main]]
 name = "Privacy 101"
-parent = "Guides"
-pageRef = "guides/privacy_101"
+parent = "Howto/Guides"
+pageRef = "guides/privacy101"
 weight = 20
 
 [[main]]

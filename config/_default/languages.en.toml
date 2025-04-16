@@ -8,27 +8,29 @@ title = "klamathtech.diy"
 displayName = "EN"
 isoCode = "en"
 rtl = false
-dateFormat = "2 January 2025"
+dateFormat = "January 2 2025"
 logo = "blackcap.png"
 description = "Klamath Tech Collective website"
 
- [params.author]
+[params.author]
    #name = "ҜLДMДΓH ΓΞCH CФLLΞCΓIVΞ"
    name = "ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€"
    email = "contact@klamathtech.diy"
    image = "blackcap.png"
    imageQuality = 96
-   headline = "I'm only human"
-   bio = "A little bit about you"
+   headline = "We are human"
+   bio = "Your friendly neighborhood peasant tech collective."
    links = [
      { email = "mailto:contact@klamathtech.diy" },
      { github = "https://github.com/username" },
      { youtube = "https://youtube.com/username" },
+     { link = "https://signal.me/#eu/XF0Ns_Ot3FVXkhugZq-jUl7XIvOwps7EhATyV8Jg6AfgYPwuYEtAZ5n6Zt3FaUY7" },
+     { mastodon = "https://mastodon.instance/@username" },
+     { bluesky = "https://bsky.app/profile/username" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
-#     { bluesky = "https://bsky.app/profile/username" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
@@ -45,7 +47,6 @@ description = "Klamath Tech Collective website"
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
 #     { linkedin = "https://linkedin.com/in/username" },
-#     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
 #     { orcid = "https://orcid.org/userid" },
@@ -67,7 +68,6 @@ description = "Klamath Tech Collective website"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
    ]
