@@ -4,10 +4,7 @@ title: "Fern Bio"
 
 Fern is doing stuff. Changes happend 33 25
 
-
-{{< gallery >}}
-  <img src="gallery/05.png" class="grid-w50 md:grid-w400 xl:grid-w375" />
-{{< /gallery >}}
+{{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
 
 
 ## Stuff after 
