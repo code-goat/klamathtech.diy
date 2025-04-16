@@ -2,7 +2,7 @@
 title: "Welcome to My Site"
 ---
 
-###### {{< typeit breakLines=false cursor=true speed=50 waitUntilVisible=false lifeLike=true html=true loop=true >}}
+###### {{< typeit breakLines=false cursor=true speed=5 waitUntilVisible=false lifeLike=true html=true loop=true >}}
 Wake up, Neo...
 The Matrix has you...
 Follow the white rabbit.
