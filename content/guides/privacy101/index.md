@@ -2,7 +2,6 @@
 title: "Privacy 101"
 authors:
 - "fern"
-- "collective"
 weight: 1
 draft: false
 description: "Klamath Tech Collective Documents"
