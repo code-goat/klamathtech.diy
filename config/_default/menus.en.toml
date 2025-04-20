@@ -80,7 +80,12 @@ name = "Tags"
 pageRef = "tags"
 weight = 10
 
-#[[footer]]
-#name = "Categories"
-#pageRef = "categories"
-#weight = 20
+[[footer]]
+name = "Categories"
+pageRef = "categories"
+weight = 20
+
+[[footer]]
+name = "Authors"
+pageRef = "authors"
+weight = 20
