@@ -1,8 +1,8 @@
 ---
-title: "Welcome to My Site"
+title: "Klamath River Tech Collective"
 ---
 
-![alt text](weare.gif)
+<img src="/images/out.gif" alt="Terminal Output" class="mx-auto">
 
 # Klamath River Tech Collective  
 {{< lead >}} ### *Rooted in Bioregional Resistance, Wired for Liberation*{{< /lead >}}
