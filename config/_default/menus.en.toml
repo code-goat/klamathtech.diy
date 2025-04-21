@@ -25,6 +25,12 @@ pageref = "guides"
 weight = 20
 
 [[main]]
+name = "Points of Unity"
+parent = "Docs"
+pageRef = "docs/points_of_unity"
+weight = 20
+
+[[main]]
 name = "Privacy 101"
 parent = "Howto/Guides"
 pageRef = "guides/privacy101"
@@ -37,15 +43,21 @@ pageRef = "docs/hacker_manifesto"
 weight = 20
 
 [[main]]
-name = "Points of Unity"
+name = "What is Technofeudalism/Technocolonialism?"
 parent = "Docs"
-pageRef = "docs/points_of_unity"
+pageRef = "docs/technofeudalism"
 weight = 20
 
 [[main]]
 name = "Hacking: A Timeline"
 parent = "Docs"
 pageRef = "docs/timeline"
+weight = 20
+
+[[main]]
+name = "Modern-day Oracles or Bullshit Machines: How to thrive in a ChatGPT world"
+parent = "Docs"
+url = "https://thebullshitmachines.com/index.html"
 weight = 20
 
 [[main]]

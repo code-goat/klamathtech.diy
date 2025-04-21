@@ -1,6 +1,6 @@
 ---
 title: "Privacy 101"
-date: "2025-04-16"
+date: "2025-04-20"
 authors:
 - "fern"
 - "collective"

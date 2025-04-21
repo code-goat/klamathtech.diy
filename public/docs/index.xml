@@ -12,6 +12,16 @@
     <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>&#39;Technofeudalism &amp; Technocolonialism&#39; What are they?</title>
+      <link>http://localhost:1313/docs/technofeudalism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/docs/technofeudalism/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/technofeudalism/feature.jpg" />
+    </item>
+    
+    <item>
       <title>Points of Unity</title>
       <link>http://localhost:1313/docs/points_of_unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
