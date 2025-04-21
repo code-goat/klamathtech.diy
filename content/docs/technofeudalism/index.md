@@ -10,17 +10,6 @@ tags: ["Docs", "info"]
 ---
 ---
 
-- ### Literacy
-```cardlink
-url: https://bescamaware.org
-title: "BeScamAware Homepage - BeScamAware"
-description: "Stay Safe with SCAM: Your First Line of Defence Against Fraud StopCheckAskMonitor Stop, Check, Ask, Monitor — A simple and powerful way to protect yourself from scams. Learn how this easy-to-follow approach can keep you and your loved ones secure in an increasingly risky world. Discover SCAM Now Stay One Step Ahead of Scammers Your […]"
-host: bescamaware.org
-favicon: https://bescamaware.org/wp-content/uploads/2024/11/Wordpress.png
-image: https://ordainit.com/wp-theme/sorex/wp-content/uploads/2023/03/shape-1.png
-```
-
-
 ## The Predatory Digital Landscape: Understanding Techno-feudalism and the Quest for Digital Justice
 
 We live in an era marked by rapid technological advancements and a digital environment that is increasingly predatory. This landscape is often described as **technofeudalism**, a system where tech giants act as modern feudal lords, controlling vast digital territories and extracting value from users through data and algorithmic control. To understand this complex system, let's delve into its core components and explore historical parallels that can guide us toward a more equitable future.
