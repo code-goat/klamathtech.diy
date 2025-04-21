@@ -12,50 +12,41 @@ title: "Klamath River Tech Collective"
 ---
 
 ## Our Currents Flow Through  
-- **🛠️ Bioregional Hacktivism**: Makers, open-source collective infrastructure, and solar-powered mesh networks on mountain tops
-- **📡 Signal Reclamation**: DIY tech projects, encrypted comms for data sovereignty, and low-earth-orbit satellite ground stations  
+- **🛠️ Bioregional Hacktivism**: Free & Open-source collectively built infrastructure, community organized workshops/trainings
+- **📡 Signal Reclamation**: Encrypted comms for data sovereignty, and solar-powered mesh networks on mountain tops  
 - **♻️ E-Waste Revival**: "Mend & Defend" hardware clinics turning old smartphones and forgotten laptops into functional and useful community tools   
-- **🌱 STEAM from the Ground Up**: Youth-led soldering circles under the sugar pines, augmented reality language apps for Karuk verbs, and mycelium-based circuit boards  
+- **🌱 STEAM from the Ground Up**: Youth-led projects!
 
 ---
 
 ## We Resist By  
-- Teaching Tor routing alongside traditional basket weaving patterns  
-- Mapping fiber optic deserts as diligently as salmon habitat  
-- Coding watershed defense bots while monitoring algal blooms  
+- Teaching our community members to skills to protect themselves digitally
+- Returning technology to it's rightful place: **as a tool for us, rather than us as it's tool**
+- Coding for bioregional and cultural resilience
+- Owning our means of **Media** production
 - Rejecting AI overlords in favor of ancestral intelligence networks  
 
 ---
 
-## Our Toolshed Includes  
+# Our Toolshed Includes:
+## Feminist server stacks running on microhydro power
 ```
-# Feminist server stacks running on microhydro power  
-$ sudo apt-get install community-accountability  
-# Salmon-safe cryptography (GPG keys + huckleberry ink)  
-$ git clone https://github.com/river-defenders/anti-extractivist-firewall  
-# Mycorrhizal learning networks (both silicon and fungal)  
-```
+$ wget community-accountability
+```  
+## Salmon-safe cryptography   
+## Mycorrhizal learning networks
 
 ---
 
-## Join the Digital Potlatch  
+## Join Us!
 We gather where:  
-- **📻 Airwaves** carry both NDN humor and SSH keys  
-- **💻 Old Game Boys** become GPS units for basket materials mapping  
-- **🌲 Understory** wifi meshes better than Starlink's cold gaze  
+- **📻 Airwaves** carry both music and SSH keys  
+- **💻 Old Cellphones** become GPS mesh units for basket materials mapping  
+- **🌲 Understorys** wifi meshes better than Starlink's cold gaze  
 
 **Find us:**  
-- **🌉** At the Orleans Maker Space next to the salmon smokehouse  
-- **⛰️** Debugging climate models in Happy Camp's former gold dredge  
-- **🌊** Printing river-camera housings from Kepel's recycled fishing gear  
-
----
-
-> *"They tried to bury us in e-waste. They didn't know we were motherboards."*  
-> — Collective Proverb, etched into a salvaged hard drive platter  
-
-**Wana chinuk?** (Karuk: *Are you ready?*)  
-Let's build fire-hardened routers and flood-resilient code.
-```
+- **🌉** ...Coding automation metrics for our smokehouses  
+- **⛰️** Debugging environmental models in the high country...  
+- **🌊** 3D Printing hunting and fishing gear for our families  
 
 ---
