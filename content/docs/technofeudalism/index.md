@@ -2,7 +2,7 @@
 title: "'Technofeudalism & Technocolonialism' What are they?"
 weight: 1
 draft: false
-description: "Hacker Hacker Manifesto"
+description: "A breakdown of modern Technofeudalism & Technocolonialism."
 heroStyle: "background"
 tags: ["Docs", "info"]
 #series: ["Documentation"]
@@ -10,7 +10,8 @@ tags: ["Docs", "info"]
 ---
 ---
 
-## The Predatory Digital Landscape: Understanding Techno-feudalism and the Quest for Digital Justice
+## The Predatory Digital Landscape: 
+### Understanding Techno-feudalism and the Quest for Digital Justice
 
 We live in an era marked by rapid technological advancements and a digital environment that is increasingly predatory. This landscape is often described as **technofeudalism**, a system where tech giants act as modern feudal lords, controlling vast digital territories and extracting value from users through data and algorithmic control. To understand this complex system, let's delve into its core components and explore historical parallels that can guide us toward a more equitable future.
 
