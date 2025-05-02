@@ -5,6 +5,7 @@ authors:
 - "fern"
 - "collective"
 image_style: "contain"
+heroStyle: "big"
 weight: 1
 draft: false
 description: "Klamath Tech Collective Documents"
