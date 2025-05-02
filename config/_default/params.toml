@@ -26,7 +26,8 @@ showScrollToTop = true
 
 [homepage]
 layout = "background" # valid options: page, profile, hero, card, background, custom
-homepageImage = "klamath.jpg" # used in: hero, and card
+homepageImage = "river-redmoon-FULL.png" # used in: hero, and card
+#homepageImage = "klamath.jpg" # used in: hero, and card
 #pageRef = "about/index.md"
 showRecent = true
 showRecentItems = 5
