@@ -65,6 +65,7 @@ showZenMode = true
 
 [list]
 showHero = true
+heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
