@@ -9,7 +9,17 @@
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2025 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <atom:link href="http://localhost:1313/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docs</title>
+      <link>http://localhost:1313/docs/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/docs/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>&#39;Technofeudalism &amp; Technocolonialism&#39; What are they?</title>
@@ -19,16 +29,6 @@
       <guid>http://localhost:1313/docs/technofeudalism/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/technofeudalism/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Docs</title>
-      <link>http://localhost:1313/docs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/docs/</guid>
-      <description></description>
-      
     </item>
     
     <item>

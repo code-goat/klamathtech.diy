@@ -1,9 +1,9 @@
 ---
 title: "Hacking, a timeline"
-authors: 
+date: 2025-05-04
+authors:
     - fern
 ---
-###### {{< typeit breakLines=true cursor=true speed=10 waitUntilVisible=true lifeLike=true html=true >}}
 
 <!-- HACKING: A TIMELINE: -->
   <li><strong>Ancient Greece</strong>: Privacy was valued in ancient Greek culture, with concepts like "oikonomia" emphasizing the importance of private life.</li>
@@ -52,5 +52,3 @@ authors:
   <li><strong>Forced Disclosure Laws</strong>: Some countries have laws requiring individuals to disclose encryption keys during investigations.</li>
   <li><strong>Legal Debates</strong>: Cases like <em>United States v. Fricosu</em> have addressed the legality of compelling individuals to decrypt data.</li>
 </ul>
-
-{{< /typeit >}}

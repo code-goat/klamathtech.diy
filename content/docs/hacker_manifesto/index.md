@@ -14,7 +14,7 @@ tags: ["Docs", "info"]
 - by +++The Mentor+++
 - Originally published in *Phrack* Issue #7, 1986.
 ```
-{{< typeit speed=5 html=true textColor="green" tag=h4 >}}
+
 Another one got caught today, it's all over the papers.
 
 "Teenager arrested in computer crime scandal"
@@ -22,7 +22,7 @@ Another one got caught today, it's all over the papers.
 
 Damn kids. They're all alike.
 
-But did you, in your three-piece psychology and 1950s technobrain, ever take a look behind the eyes of a hacker? 
+But did you, in your three-piece psychology and 1950s technobrain, ever take a look behind the eyes of a hacker?
 Did you ever wonder what made him tick, what forces shaped him, what may have molded him?
 
 I am a hacker, enter my world...
@@ -62,6 +62,7 @@ or ignored by the apathetic. The few that had something to teach found us willin
 This is our world now... the world of the electron and the switch, the beauty of the baud.
 We make use of a service already existing without paying for what could be dirt cheap if it wasn't run by profiteering gluttons, and you call us criminals.
 
+{{< typeit speed=5 html=true textColor="green" tag=h4 >}}
 We explore... and you call us criminals.
 We seek after knowledge... and you call us criminals.
 We exist without skin color, without nationality, without religious bias... and you call us criminals.

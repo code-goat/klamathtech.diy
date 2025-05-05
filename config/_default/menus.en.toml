@@ -10,10 +10,10 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-name = "Posts"
-pageRef = "posts"
-weight = 10
+#[[main]]
+#name = "Posts"
+#pageRef = "posts"
+#weight = 10
 
 [[main]]
 name = "Docs"
@@ -36,11 +36,11 @@ parent = "Howto/Guides"
 pageRef = "guides/privacy101"
 weight = 20
 
-[[main]]
-name = "Hacker Manifesto"
-parent = "Docs"
-pageRef = "docs/hacker_manifesto"
-weight = 20
+#[[main]]
+#name = "Hacker Manifesto"
+#parent = "Docs"
+#pageRef = "docs/hacker_manifesto"
+#weight = 20
 
 [[main]]
 name = "What is Technofeudalism/Technocolonialism?"
@@ -63,6 +63,11 @@ weight = 20
 [[main]]
 name = "About Us"
 pageRef = "about"
+weight = 10
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
 weight = 10
 
 #[[subnavigation]]

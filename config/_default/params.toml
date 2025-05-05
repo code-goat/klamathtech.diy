@@ -39,14 +39,14 @@ cardViewScreenWidth = true
 layoutBackgroundBlur = true
 
 [article]
-showDate = true
+showDate = false
 showViews = false
 showLikes = false
-showDateOnlyInArticle = true
+showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
 showHero = true
-heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+heroStyle = "background"           # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -66,7 +66,7 @@ showZenMode = true
 
 [list]
 showHero = true
-heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
+heroStyle = "big"                  # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false

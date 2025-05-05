@@ -3,6 +3,8 @@ title: "About Us"
 weight: 1
 draft: false
 description: "This describes what the Klamath Tech Collective is all about."
+showTableOfContents: false
+layout: simple
 tags: ["about", "info"]
 #series: ["Documentation"]
 #series_order: 1
@@ -11,6 +13,12 @@ tags: ["about", "info"]
 {{< lead >}}
 $ echo drama > /dev/null
 {{< /lead >}}
+
+We are salmon swimming upstream against the currents of technofeudalism. Based across ancestral Karuk, Yurok, and Hupa territories—Happy Camp to Hoopa, Somes Bar to Kepel—we’re building community-owned tech ecosystems where the Klamath meets the keyboard.
+
+
+![Circuit Salmon](/salmon_upscayl.png )
+
 
 {{< typeit speed=999999, tag=h2 >}}
 WE ARE NOT:

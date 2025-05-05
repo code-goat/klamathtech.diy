@@ -10,7 +10,7 @@ tags: ["Docs", "info"]
 ---
 ---
 
-## The Predatory Digital Landscape: 
+# The Predatory Digital Landscape:
 ### Understanding Techno-feudalism and the Quest for Digital Justice
 
 We live in an era marked by rapid technological advancements and a digital environment that is increasingly predatory. This landscape is often described as **technofeudalism**, a system where tech giants act as modern feudal lords, controlling vast digital territories and extracting value from users through data and algorithmic control. To understand this complex system, let's delve into its core components and explore historical parallels that can guide us toward a more equitable future.
@@ -39,3 +39,4 @@ In this digital age, **digital literacy** becomes our most powerful tool for res
 
 As we navigate this complex digital landscape, it's crucial to remember that our goal is not to reject technology, but to ensure it serves humanity rather than just profit. Like the Luddites, we must focus on **justice**—demanding that technology empowers workers and users, not just the corporations that control it. By educating ourselves, advocating for policy reforms, and supporting grassroots tech initiatives, we can dismantle the extractive systems of technofeudalism and build a more equitable digital future. This journey requires collective action and a commitment to using technology as a tool for empowerment, rather than exploitation.
 
+{{< youtube "hNblIGVKgks" >}}

@@ -236,10 +236,10 @@
 
             
             
-  <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
-        Posts
+        Projects
     </p>
 </a>
 
@@ -278,13 +278,6 @@
   <div class="absolute menuhide">
     <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
       <div class="flex flex-col space-y-3">
-        
-        <a href="/docs/hacker_manifesto/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-          
-          <p class="text-sm font-sm" title="">
-            Hacker Manifesto
-          </p>
-        </a>
         
         <a href="/docs/timeline/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
           
@@ -520,10 +513,10 @@
 
                     
   <li class="mt-1">
-    <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            Posts
+            Projects
         </p>
     </a>
 </li>
@@ -561,15 +554,6 @@
 
 
         </span>
-    </a>
-</li>
-
-<li class="mt-1">
-    <a href="/docs/hacker_manifesto/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-        
-        <p class="text-sm font-small" title="">
-            Hacker Manifesto
-        </p>
     </a>
 </li>
 
@@ -710,13 +694,33 @@
   
   
 
-        
-        <figure>
-            <img class="w-full rounded-lg single_hero_round nozoom" alt="Build your homepage using Blowfish and Hugo" width="1200" height="600" src="/guides/full_template/background_hu17854025470786360686.jpg">
-            
-        </figure>
-        
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
     
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/guides/full_template/background_hu17854025470786360686.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
   
   
 
@@ -740,8 +744,6 @@
 
 
 
-
-  
 
 
 
@@ -772,7 +774,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2023-10-04T00:00:00&#43;00:00">October 4 4040</time><span class="px-2 text-primary-500">&middot;</span><span>2192 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">11 mins</span><span class="px-2 text-primary-500">&middot;</span>
+  <span>2192 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">11 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
   
@@ -1120,7 +1122,7 @@
 
       </span>
       <div id="github-5ecc01c965ba01a42d18cb75f2bd5d9b-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
-        1886
+        1927
       </div>
 
       <span class="text-md mr-1 text-neutral-800 dark:text-neutral">
@@ -1133,7 +1135,7 @@
 
       </span>
       <div id="github-5ecc01c965ba01a42d18cb75f2bd5d9b-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
-        497
+        510
       </div>
 
     </div>
@@ -1776,8 +1778,6 @@ This was expected, even though you created a website, Hugo doesn’t give any de
                   >Privacy 101</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                    <time datetime="2025-04-20T00:00:00&#43;00:00">April 20 20200</time>
                   
                 </span>
               </span>
