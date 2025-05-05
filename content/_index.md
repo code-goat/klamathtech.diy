@@ -4,8 +4,7 @@ title: "Klamath River Tech Collective"
 
 <img src="/images/out.gif" alt="Terminal Output" class="mx-auto">
 
-# Klamath River Tech Collective
-{{< lead >}} ### *Rooted in Bioregional Resistance, Wired for Liberation*{{< /lead >}}
+{{< lead >}} # *Rooted in Bioregional Resilience, Wired for Liberation*{{< /lead >}}
 
 **We are salmon swimming upstream** against the currents of technofeudalism. Based across ancestral Karuk, Yurok, and Hupa territories—Happy Camp to Hoopa, Somes Bar to Kepel—we're building ```community-owned tech ecosystems``` where the Klamath meets the keyboard.
 

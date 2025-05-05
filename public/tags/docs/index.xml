@@ -13,52 +13,52 @@
     
     <item>
       <title>Docs</title>
-      <link>http://localhost:1313/docs/</link>
+      <link>http://localhost:1313/info/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/docs/</guid>
+      <guid>http://localhost:1313/info/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>&#39;Technofeudalism &amp; Technocolonialism&#39; What are they?</title>
-      <link>http://localhost:1313/docs/technofeudalism/</link>
+      <link>http://localhost:1313/info/technofeudalism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/docs/technofeudalism/</guid>
+      <guid>http://localhost:1313/info/technofeudalism/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/technofeudalism/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technofeudalism/feature.jpg" />
     </item>
     
     <item>
       <title>Points of Unity</title>
-      <link>http://localhost:1313/docs/points_of_unity/</link>
+      <link>http://localhost:1313/info/points_of_unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/docs/points_of_unity/</guid>
+      <guid>http://localhost:1313/info/points_of_unity/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/points_of_unity/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/points_of_unity/feature.png" />
     </item>
     
     <item>
       <title>The Hacker Manifesto</title>
-      <link>http://localhost:1313/docs/hacker_manifesto/</link>
+      <link>http://localhost:1313/info/hacker_manifesto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/docs/hacker_manifesto/</guid>
+      <guid>http://localhost:1313/info/hacker_manifesto/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hacker_manifesto/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/hacker_manifesto/feature.jpg" />
     </item>
     
     <item>
       <title>What is &#39;Data Back&#39;?</title>
-      <link>http://localhost:1313/docs/data_back/</link>
+      <link>http://localhost:1313/info/data_back/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/docs/data_back/</guid>
+      <guid>http://localhost:1313/info/data_back/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/data_back/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/data_back/feature.png" />
     </item>
     
   </channel>

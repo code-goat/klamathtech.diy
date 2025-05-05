@@ -16,8 +16,8 @@
 #weight = 10
 
 [[main]]
-name = "Docs"
-weight = 20
+name = "Info"
+weight = 10
 
 [[main]]
 name = "Howto/Guides"
@@ -26,8 +26,8 @@ weight = 20
 
 [[main]]
 name = "Points of Unity"
-parent = "Docs"
-pageRef = "docs/points_of_unity"
+parent = "Info"
+pageRef = "info/points_of_unity"
 weight = 20
 
 [[main]]
@@ -38,31 +38,31 @@ weight = 20
 
 #[[main]]
 #name = "Hacker Manifesto"
-#parent = "Docs"
-#pageRef = "docs/hacker_manifesto"
+#parent = "Info"
+#pageRef = "info/hacker_manifesto"
 #weight = 20
 
 [[main]]
 name = "What is 'Data Back'?"
-parent = "Docs"
-pageRef = "docs/data_back"
+parent = "Info"
+pageRef = "info/data_back"
 weight = 20
 
 [[main]]
 name = "What is Technofeudalism/Technocolonialism?"
-parent = "Docs"
-pageRef = "docs/technofeudalism"
+parent = "Info"
+pageRef = "info/technofeudalism"
 weight = 20
 
 [[main]]
 name = "Hacking: A Timeline"
-parent = "Docs"
-pageRef = "docs/timeline"
+parent = "Info"
+pageRef = "info/timeline"
 weight = 20
 
 [[main]]
 name = "Modern-day Oracles or Bullshit Machines: How to thrive in a ChatGPT world"
-parent = "Docs"
+parent = "Info"
 url = "https://thebullshitmachines.com/index.html"
 weight = 20
 
