@@ -49,4 +49,4 @@ The **Klamath Tech Collective** is a bioregional tech collective dedicated to sh
 
 >Join us as we weave together ancestral wisdom and modern tools, forging a path toward digital sovereignty and bioregional resilience-where technology flows with, not against, the river.
 
-{{< button href="https://klamathtech.diy" style="primary" >}}Join US{{< /button >}}
+{{< button href="https://klamathtech.diy" style="primary" >}}Join our Mailing List!{{< /button >}}
