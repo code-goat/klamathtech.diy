@@ -43,4 +43,5 @@ As we navigate this complex digital landscape, it's crucial to remember that our
 
 ### Find Out More...
 - https://gizmodo.com/the-many-faces-of-neo-luddism-1682139778
+- https://kottke.org/24/03/the-neo-luddite-movement
 - {{< youtube "hNblIGVKgks" >}}

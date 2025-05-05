@@ -28,12 +28,12 @@ title: "Klamath River Tech Collective"
 ---
 
 # Our Toolshed Includes:
-## Feminist server stacks running on microhydro power
+## -Feminist server stacks running on microhydro power
 ```
 $ wget community-accountability
 ```
-## Salmon-safe cryptography
-## Mycorrhizal learning networks
+## -Salmon-safe cryptography
+## -Mycorrhizal learning networks
 
 ---
 
