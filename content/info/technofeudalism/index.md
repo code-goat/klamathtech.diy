@@ -1,5 +1,7 @@
 ---
-title: "'Technofeudalism & Technocolonialism' What are they?"
+title: "Neo-Luddism"
+authors:
+    - fern
 weight: 1
 draft: false
 description: "A breakdown of modern Technofeudalism & Technocolonialism."
@@ -39,4 +41,6 @@ In this digital age, **digital literacy** becomes our most powerful tool for res
 
 As we navigate this complex digital landscape, it's crucial to remember that our goal is not to reject technology, but to ensure it serves humanity rather than just profit. Like the Luddites, we must focus on **justice**—demanding that technology empowers workers and users, not just the corporations that control it. By educating ourselves, advocating for policy reforms, and supporting grassroots tech initiatives, we can dismantle the extractive systems of technofeudalism and build a more equitable digital future. This journey requires collective action and a commitment to using technology as a tool for empowerment, rather than exploitation.
 
-{{< youtube "hNblIGVKgks" >}}
+### Find Out More...
+- https://gizmodo.com/the-many-faces-of-neo-luddism-1682139778
+- {{< youtube "hNblIGVKgks" >}}

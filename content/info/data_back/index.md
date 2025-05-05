@@ -1,5 +1,7 @@
 ---
 title: "What is 'Data Back'?"
+authors:
+    - fern
 weight: 1
 draft: false
 description: "Indigenous DATA BACK"
@@ -49,4 +51,7 @@ In summary, "Data Back" is about returning control of data to Indigenous peoples
 - https://databack.animikii.com/
 - https://www.idsovandresearcher.com/
 - https://usindigenousdatanetwork.org/
-- 
+
+### Examples
+- https://www.sentinelsnetwork.com/
+- https://www.indigenousmaps.com/
