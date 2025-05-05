@@ -4,97 +4,44 @@ weight: 1
 draft: false
 description: "This describes what the Klamath Tech Collective is all about."
 showTableOfContents: false
-layout: simple
+#layout: simple
 tags: ["about", "info"]
 #series: ["Documentation"]
 #series_order: 1
 ---
+-------
+We are salmon swimming upstream against the currents of technofeudalism. Based across ancestral Karuk, Yurok, and Hupa territories -- From Happy Camp to Hoopa, from Somes Bar to Kepel -- we’re building community-owned tech ecosystems where the Klamath meets the keyboard.
 
-{{< lead >}}
-$ echo drama > /dev/null
-{{< /lead >}}
-
-We are salmon swimming upstream against the currents of technofeudalism. Based across ancestral Karuk, Yurok, and Hupa territories—Happy Camp to Hoopa, Somes Bar to Kepel—we’re building community-owned tech ecosystems where the Klamath meets the keyboard.
-
+**Klamath Tech Collective** is a bioregional tech collective dedicated to shrinking the tech literacy gap and reclaiming technology as a tool for community resilience, self-determination, and regeneration. Our mission is rooted in the belief that technology should serve the people and the land, not extract from them.
 
 ![Circuit Salmon](/salmon_upscayl.png )
 
+### What We Do
 
-{{< typeit speed=999999, tag=h2 >}}
-WE ARE NOT:
+- **Tech Literacy & STEAM Education:**  
+  We offer free, hands-on workshops and learning circles for all ages, with a focus on STEAM (Science, Technology, Engineering, Arts, Math) content that is place-based and culturally relevant. Our programs center Indigenous knowledge and community co-design, empowering youth and elders alike to become creators-not just consumers-of technology.
 
-!extractive
-!colonial
-!corporate
+- **Repurposing & Redistribution:**  
+  We collect, repair, and repurpose tech hardware, distributing it freely to individuals and for building collective infrastructure. By keeping devices in use and out of landfills, we support local resilience and reduce reliance on extractive supply chains.
 
-WE ARE:
+- **Decolonial Tech & Data Ethics:**  
+  Our approach is grounded in a strong non-extractive, “data back” ethic. We promote equal access, local control, and citizen/Indigenous-owned science. We teach digital defense and privacy skills to help elders and community members protect themselves from scams, corporate surveillance, and identity theft.
 
-collective!
-secure!
-DIY!
+- **DIY & FOSS Culture:**  
+  We champion DIY repair, open-source software (FOSS), and community-driven solutions. Our collective is a hub for learning Linux, building digital autonomy, and demystifying AI-helping our region move beyond hype and toward genuine empowerment.
 
-CUZ:
-Klamath Tech Collective is fukin' 1337
-{{< /typeit >}}
+- **Community Debunking & Digital Defense:**  
+  We provide a safe space for critical conversations around technology, AI, and digital rights. Our workshops and resources help community members spot misinformation, understand risks, and make informed choices about the tech in their lives.
 
-## Technofuedalism
+### Our Values
 
-{{< youtube "hNblIGVKgks" >}}
+- **Bioregional Stewardship:**  
+  We believe the bioregion is the natural scale for collective action and governance, aligning technology with the needs of our land and people.
 
-## International Support
+- **Intergenerational Learning:**  
+  We foster relationships between youth, elders, and all community members, centering Indigenous ways of knowing and ensuring everyone has a voice in shaping our digital future.
 
-A highly requested feature, Blowfish is now multilingual! If you publish your content in multiple languages, the site will be built with all the translations available.
+- **Collective Power:**  
+  We work to build local infrastructure and knowledge that liberates our communities from corporate and colonial control, nurturing a new generation of tech stewards and citizen scientists.
 
-<div class="text-2xl text-center" style="font-size: 2.8rem">🇬🇧 🇩🇪 🇫🇷 🇪🇸 🇨🇳 🇧🇷 🇹🇷 🇧🇩</div>
-
-Thanks to submissions from the community, Blowfish has already been translated into [thirty languages](https://github.com/nunocoracao/blowfish/tree/main/i18n) with more to be added over time. By the way, [pull requests](https://github.com/nunocoracao/blowfish/pulls) for new languages are always welcome!
-
-## RTL language support
-
-One of the benefits of the new Tailwind and Multilingual features is the ability to add RTL language support. When enabled, the entire site will reflow content from right-to-left. Every element in the theme has been restyled to ensure it looks great in this mode which aids authors who wish to generate content in RTL languages.
-
-RTL is controlled on a per-language basis so you can mix and match both RTL and LTR content in your projects and the theme will respond accordingly.
-
-## Automatic image resizing
-
-A big change in Blowfish 2.0 is the addition of automatic image resizing. Using the power of Hugo Pipes, images in Markdown content are now automatically scaled to different output sizes. These are then presented using HTML `srcset` attributes enabling optimised file sizes to be served to your site visitors.
-
-![](image-resizing.png)
-
-```html
-<!-- Markdown: ![My image](image.jpg) -->
-<img
-  srcset="
-    /image_320x0_resize_q75_box.jpg 320w,
-    /image_635x0_resize_q75_box.jpg 635w,
-    /image_1024x0_resize_q75_box.jpg 1024w,
-    /image_1270x0_resize_q75_box.jpg 2x"
-  src="/image_635x0_resize_q75_box.jpg"
-  alt="My image"
-/>
-```
-
-Best of all there's nothing you need to change! Simply insert standard Markdown image syntax and let the theme do the rest. If you want a little more control, the `figure` shortcode has been completely rewritten to provide the same resizing benefits.
-
-
-## Site search
-
-Powered by [Fuse.js](https://fusejs.io), site search allows visitors to quickly and easily find your content. All searches are performed client-side meaning there's nothing to configure on the server and queries are performed super fast. Simply enable the feature in your site configuration and you're all set. Oh, and it also supports full keyboard navigation!
-
-## Tables of contents
-
-A highly requested feature, Blowfish now supports tables of contents on article pages. You can see it in action on this page. The contents are fully responsive and will adjust to take advantage of the space available at different screen resolutions.
-
-Available on a global or per article basis, the table of contents can be fully customised using standard Hugo configuration values, allowing you to adjust the behaviour to suit your project.
-
-## Accessibility improvements
-
-From adding ARIA descriptions to more items or simply adjusting the contrast of certain text elements, this release is the most accessible yet.
-
-Version 2 also introduces "skip to content" and "scroll to top" links that enable quick navigation. There's also keyboard shortcuts for enabling items like search without reaching for the mouse.
-
-The new image resizing features also provide full control over `alt` and `title` elements enabling an accessible experience for all visitors.
-
-## A whole lot more
-
-There's countless other features to explore. From being able to display taxonomies on articles and list pages, to using the new `headline` author parameter to customise your homepage. There's also improved JSON-LD structured data which further optimises SEO performance.
+Join us as we weave together ancestral wisdom and modern tools, forging a path toward digital sovereignty and bioregional resilience-where technology flows with, not against, the river.
