@@ -1,5 +1,5 @@
 ---
-title: "Internet Browser"
+title: "1.02 Internet Browser"
 date: "2025-04-16"
 authors:
 - "fern"

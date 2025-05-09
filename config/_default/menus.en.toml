@@ -10,90 +10,169 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#name = "Posts"
-#pageRef = "posts"
-#weight = 10
+#
+## PARENT MENU
+#
 
 [[main]]
 name = "About Us"
+pre = "circle-info"
 pageRef = "about"
 weight = 10
 
 [[main]]
 name = "Projects"
+pre = "fork"
 pageRef = "projects"
 weight = 20
 
 [[main]]
-name = "Info"
+name = "Info/Writings"
+pre = "edit"
 weight = 30
 
 [[main]]
 name = "Howto/Guides"
+pre = "bars"
 pageref = "guides"
 weight = 40
 
+#
+## Projects
+
+[[main]]
+name = "Community Workshops & Trainings"
+pre = "graduation-cap"
+parent = "Projects"
+pageRef = "projects/workshops"
+weight = 10
+
+[[main]]
+name = "Downstream|Upcycle: Hardware Reclamation"
+pre = "fork"
+parent = "Projects"
+pageRef = "projects/upcycle"
+weight = 20
+
+[[main]]
+name = "Community-Owned Media"
+pre = "youtube"
+parent = "Projects"
+pageRef = "projects/media"
+weight = 30
+
+[[main]]
+name = "Youth Code Camp"
+pre = "code"
+parent = "Projects"
+pageRef = "projects/code-camp"
+weight = 40
+
+[[main]]
+name = "Solar-Powered, Mutual-Aid Comms Network"
+pre = "rss"
+parent = "Projects"
+pageRef = "projects/comms"
+weight = 50
+
+[[main]]
+name = "Secure Data Erasure"
+pre = "bomb"
+parent = "Projects"
+pageRef = "projects/secure-shred"
+weight = 60
+
+#
+## Howto/Guides
+
 [[main]]
 name = "Privacy 101"
+pre = "ghost"
 parent = "Howto/Guides"
 pageRef = "guides/privacy101"
 weight = 20
 
 [[main]]
+name = "Advanced Privacy"
+pre = "pgpkey"
+parent = "Howto/Guides"
+pageRef = "guides/advanced"
+weight = 30
+
+#
+## Info/Writings
+
+[[main]]
 name = "Hacker Manifesto"
-parent = "Info"
+pre = "edit"
+parent = "Info/Writings"
 pageRef = "info/hacker_manifesto"
 weight = 20
 
 [[main]]
 name = "Points of Unity"
-parent = "Info"
+pre = "edit"
+parent = "Info/Writings"
 pageRef = "info/points_of_unity"
 weight = 10
 
 [[main]]
 name = "What is Techno-Colonialism?"
-parent = "Info"
+pre = "edit"
+parent = "Info/Writings"
 pageRef = "info/technocolonialism"
 weight = 20
 
 [[main]]
 name = "What is #Data Back?"
-parent = "Info"
+pre = "edit"
+parent = "Info/Writings"
 pageRef = "info/data_back"
 weight = 30
 
 [[main]]
 name = "Neo-Luddism: Peasant Revolts Against Predatory Tech"
-parent = "Info"
+pre = "edit"
+parent = "Info/Writings"
 pageRef = "info/technofeudalism"
 weight = 40
 
 [[main]]
 name = "What is a 'Feminist Server Stack'?"
-parent = "Info"
+pre = "edit"
+parent = "Info/Writings"
 pageRef = "info/femme_srv"
 weight = 60
 
 
 [[main]]
 name = "Hacking: A Timeline"
-parent = "Info"
+pre = "edit"
+parent = "Info/Writings"
 pageRef = "info/timeline"
 weight = 60
 
 [[main]]
 name = "Modern-day Oracles or Bullshit Machines: How to thrive in a ChatGPT world"
-parent = "Info"
+pre = "edit"
+parent = "Info/Writings"
 url = "https://thebullshitmachines.com/index.html"
 weight = 60
 
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
+#
+## SUB-NAV
+
+[[subnavigation]]
+  name = "🅂🅄🄱🅂🄲🅁🄸🄱🄴"
+  pre = "envelope"
+  url = "https://nix-srv.woodpecker-decibel.ts.net:9000/subscription/form"
+  weight = 20
+
+[[subnavigation]]
+  name = "🄳🄾🄽🄰🅃🄴"
+  pre = "donation"
+  url = "https://nix-srv.woodpecker-decibel.ts.net:9000/subscription/form"
+  weight = 30
 
 #[[main]]
 #name = "Categories"

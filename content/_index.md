@@ -40,6 +40,7 @@ We gather where:
 - **📻 Airwaves** carry both music and SSH keys
 - **💻 Old Cellphones** become GPS mesh units for basket materials mapping
 - **🌲 Understorys** wifi meshes better than Starlink's cold gaze
+- **fork the system, merge with nature**
 
 **Find us:**
 - **🌉** ...Coding automation metrics for our smokehouses

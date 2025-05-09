@@ -12,23 +12,73 @@
     <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/skills/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>1.01 Privacy - Intro</title>
+      <link>http://localhost:1313/guides/privacy101/1-intro/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/1-intro/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/1-intro/feature.png" />
+    </item>
+    
+    <item>
       <title>Advanced Privacy</title>
       <link>http://localhost:1313/guides/advanced/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/guides/advanced/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/advanced/feature.png" />
     </item>
     
     <item>
-      <title>Privacy 101</title>
-      <link>http://localhost:1313/guides/privacy101/1-intro/</link>
+      <title>1.02 Internet Browser</title>
+      <link>http://localhost:1313/guides/privacy101/2-browser/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/2-browser/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/2-browser/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>1.03 Search Engine</title>
+      <link>http://localhost:1313/guides/privacy101/3-search/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/3-search/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/3-search/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>1.04 Password Manager</title>
+      <link>http://localhost:1313/guides/privacy101/4-password_manager/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/1-intro/</guid>
+      <guid>http://localhost:1313/guides/privacy101/4-password_manager/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/1-intro/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/4-password_manager/feature.png" />
+    </item>
+    
+    <item>
+      <title>1.05 Email</title>
+      <link>http://localhost:1313/guides/privacy101/5-email/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/5-email/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/5-email/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>1.06 Messaging</title>
+      <link>http://localhost:1313/guides/privacy101/6-messaging/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/6-messaging/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/6-messaging/feature.jpg" />
     </item>
     
   </channel>

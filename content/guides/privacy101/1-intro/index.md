@@ -1,5 +1,5 @@
 ---
-title: "Privacy 101 - Intro"
+title: "1.01 Privacy - Intro"
 date: "2025-04-20"
 authors:
 - "fern"

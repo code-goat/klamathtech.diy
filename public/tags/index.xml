@@ -22,11 +22,21 @@
     </item>
     
     <item>
-      <title>Info</title>
-      <link>http://localhost:1313/tags/info/</link>
+      <title>Projects</title>
+      <link>http://localhost:1313/tags/projects/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/info/</guid>
+      <guid>http://localhost:1313/tags/projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>http://localhost:1313/tags/service/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/tags/service/</guid>
       <description></description>
       
     </item>
@@ -87,6 +97,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/tags/docs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>http://localhost:1313/tags/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/tags/info/</guid>
       <description></description>
       
     </item>

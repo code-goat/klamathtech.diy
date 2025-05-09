@@ -12,13 +12,83 @@
     <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <title>Community Workshops &amp; Trainings</title>
+      <link>http://localhost:1313/projects/workshops/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:1313/projects/workshops/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/bak2-feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/workshops/feature.png" />
+    </item>
+    
+    <item>
+      <title>Community-Owned Media</title>
+      <link>http://localhost:1313/projects/comms/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/projects/comms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Community-Owned Media</title>
+      <link>http://localhost:1313/projects/media/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/projects/media/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Downstream|Upcycle: Community E-Waste Reclamation Program</title>
+      <link>http://localhost:1313/projects/upcycle/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/projects/upcycle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hack &amp; Code Camp</title>
+      <link>http://localhost:1313/projects/code-camp/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/projects/code-camp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mutual-Aid Comms Network</title>
+      <link>http://localhost:1313/projects/mesh/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/projects/mesh/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Secure Data Erasure Service</title>
+      <link>http://localhost:1313/projects/secure-shred/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/projects/secure-shred/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>1.01 Privacy - Intro</title>
+      <link>http://localhost:1313/guides/privacy101/1-intro/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/1-intro/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/1-intro/feature.png" />
     </item>
     
     <item>
@@ -29,16 +99,6 @@
       <guid>http://localhost:1313/guides/advanced/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/advanced/feature.png" />
-    </item>
-    
-    <item>
-      <title>Privacy 101 - Intro</title>
-      <link>http://localhost:1313/guides/privacy101/1-intro/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/1-intro/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/1-intro/feature.png" />
     </item>
     
     <item>
@@ -112,7 +172,7 @@
     </item>
     
     <item>
-      <title>Internet Browser</title>
+      <title>1.02 Internet Browser</title>
       <link>http://localhost:1313/guides/privacy101/2-browser/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
@@ -122,7 +182,7 @@
     </item>
     
     <item>
-      <title>Search Engine</title>
+      <title>1.03 Search Engine</title>
       <link>http://localhost:1313/guides/privacy101/3-search/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
@@ -132,7 +192,7 @@
     </item>
     
     <item>
-      <title>Password Manager</title>
+      <title>1.04 Password Manager</title>
       <link>http://localhost:1313/guides/privacy101/4-password_manager/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
@@ -142,7 +202,7 @@
     </item>
     
     <item>
-      <title>Email</title>
+      <title>1.05 Email</title>
       <link>http://localhost:1313/guides/privacy101/5-email/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
@@ -152,7 +212,7 @@
     </item>
     
     <item>
-      <title>Messaging</title>
+      <title>1.06 Messaging</title>
       <link>http://localhost:1313/guides/privacy101/6-messaging/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
