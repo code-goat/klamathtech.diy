@@ -163,13 +163,15 @@ weight = 60
 ## SUB-NAV
 
 [[subnavigation]]
-  name = "🅂🅄🄱🅂🄲🅁🄸🄱🄴"
+  #name = "🅂🅄🄱🅂🄲🅁🄸🄱🄴"
+  name = "S⃣   U⃣   B⃣   S⃣   C⃣   R⃣   I⃣   B⃣   E⃣   "
   pre = "envelope"
   url = "https://nix-srv.woodpecker-decibel.ts.net:9000/subscription/form"
   weight = 20
 
 [[subnavigation]]
-  name = "🄳🄾🄽🄰🅃🄴"
+#  name = "🄳🄾🄽🄰🅃🄴"
+  name = "D⃣   O⃣   N⃣   A⃣   T⃣   E⃣   "
   pre = "donation"
   url = "https://nix-srv.woodpecker-decibel.ts.net:9000/subscription/form"
   weight = 30
