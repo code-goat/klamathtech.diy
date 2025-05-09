@@ -10,5 +10,5 @@ tags: ["guides", "info"]
 
 # Welcome to My Site
 
-- [Privacy 101]({{< ref "guides/privacy101/index.md" >}})
-- [Post 2]({{< ref "guides/full_template/index.md" >}})
+## - [Privacy 101]({{< ref "guides/privacy101/index.md" >}})
+## - [Post 2]({{< ref "guides/full_template/index.md" >}})
