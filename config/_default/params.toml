@@ -66,17 +66,17 @@ showZenMode = true
 
 [list]
 showHero = true
-heroStyle = "big"                  # valid options: basic, big, background, thumbAndBackground
+heroStyle = "basic"                  # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showSummary = false
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 showCards = false
 orderByWeight = false
-groupByYear = true
+groupByYear = false
 cardView = true
 cardViewScreenWidth = true
 constrainItemsWidth = true

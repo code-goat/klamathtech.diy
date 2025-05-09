@@ -9,8 +9,8 @@ weight: 2
 draft: false
 description: "Klamath Tech Collective Documents"
 tags: ["guides", "info"]
-series: ["Guides"]
-series_order: 3
+series: ["Privacy 101"]
+series_order: 2
 ---
 
 # This would be a Privacy Guide

@@ -9,7 +9,7 @@ weight: 2
 draft: false
 description: "Klamath Tech Collective Documents"
 tags: ["guides", "info"]
-series: ["Guides"]
+series: ["Privacy 101"]
 series_order: 5
 ---
 

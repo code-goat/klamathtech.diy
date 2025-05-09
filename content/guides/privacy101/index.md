@@ -5,16 +5,16 @@ authors:
 - "fern"
 - "collective"
 image_style: "contain"
-heroStyle: "big"
+heroStyle: "background"
 weight: 1
 draft: false
 description: "Klamath Tech Collective Documents"
-tags: ["guides", "info"]
-series: ["Guides"]
+tags: ["guides", "info", "Skills"]
+series: ["Privacy 101"]
 series_order: 1
 ---
 
-# This would be a Privacy Guide
+# This is a Privacy Guide
 
 ## You know?
 

@@ -1,5 +1,5 @@
 ---
-title: "Guides"
+title: "Howto, Guides & Tutorials"
 weight: 1
 draft: false
 description: "Klamath Tech Collective Documents"
@@ -7,8 +7,13 @@ tags: ["guides", "info"]
 #series: ["Guides"]
 #series_order: 1
 ---
+## Guides & Tutorials
+---
+# Privacy 101  
+This Series outlines the basic first steps to take to harden your online privacy and security
 
-# Klamath Tech Collective Guides
-- ### [Privacy 101:]({{< ref "guides/privacy101/index.md" >}})
-    - This guide outline the most basic--but also most effective--privacy moves you can make as a user.
-- ### [Post 2]({{< ref "guides/full_template/index.md" >}})
+{{< button href="https://klamathtech.diy/guides/privacy101/" style="primary" >}} Privacy 101 {{< /button >}} 
+
+---
+
+# Privacy 201
