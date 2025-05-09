@@ -22,16 +22,6 @@
     </item>
     
     <item>
-      <title>&#39;Technofeudalism &amp; Technocolonialism&#39; What are they?</title>
-      <link>http://localhost:1313/info/technofeudalism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/technofeudalism/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technofeudalism/feature.jpg" />
-    </item>
-    
-    <item>
       <title>Points of Unity</title>
       <link>http://localhost:1313/info/points_of_unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -59,6 +49,16 @@
       <guid>http://localhost:1313/info/data_back/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/data_back/feature.png" />
+    </item>
+    
+    <item>
+      <title>What is a &#39;Feminist Server Stack&#39;?</title>
+      <link>http://localhost:1313/info/femme_srv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/info/femme_srv/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/femme_srv/feature.png" />
     </item>
     
   </channel>

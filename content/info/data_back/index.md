@@ -45,6 +45,10 @@ This phrase captures the essence of the movement: Indigenous peoples must be at 
 
 In summary, "Data Back" is about returning control of data to Indigenous peoples, ensuring it is managed, shared, and used on their terms, for their benefit, and in accordance with their cultural values and rights.
 
+
+![data back elk](feature.png "#DataBack")
+
+
 ### Find Out More...
 
 - https://animikii.com/insights/databack-recognize-and-reclaim-indigenous-data-sovereignty

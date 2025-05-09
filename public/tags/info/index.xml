@@ -28,7 +28,7 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/projects/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/bak2-feature.jpg" />
     </item>
     
     <item>
@@ -52,33 +52,33 @@
     </item>
     
     <item>
-      <title>&#39;Technofeudalism &amp; Technocolonialism&#39; What are they?</title>
-      <link>http://localhost:1313/info/technofeudalism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/technofeudalism/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technofeudalism/feature.jpg" />
-    </item>
-    
-    <item>
       <title>About Us</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/about/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/feature.png" />
+    </item>
+    
+    <item>
+      <title>Guides</title>
+      <link>http://localhost:1313/guides/full_template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/full_template/</guid>
+      <description></description>
       
     </item>
     
     <item>
-      <title>Points of Unity</title>
-      <link>http://localhost:1313/info/points_of_unity/</link>
+      <title>Neo-Luddism: Peasant Revolts Against Predatory Technology</title>
+      <link>http://localhost:1313/info/technofeudalism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/points_of_unity/</guid>
+      <guid>http://localhost:1313/info/technofeudalism/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/points_of_unity/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technofeudalism/feature.jpg" />
     </item>
     
     <item>
@@ -102,6 +102,16 @@
     </item>
     
     <item>
+      <title>Technocolonialism: Digital Empires and the Legacy of Colonialism</title>
+      <link>http://localhost:1313/info/technocolonialism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/info/technocolonialism/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technocolonialism/feature.png" />
+    </item>
+    
+    <item>
       <title>The Hacker Manifesto</title>
       <link>http://localhost:1313/info/hacker_manifesto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -119,6 +129,16 @@
       <guid>http://localhost:1313/info/data_back/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/data_back/feature.png" />
+    </item>
+    
+    <item>
+      <title>What is a &#39;Feminist Server Stack&#39;?</title>
+      <link>http://localhost:1313/info/femme_srv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/info/femme_srv/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/femme_srv/feature.png" />
     </item>
     
   </channel>

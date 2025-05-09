@@ -47,6 +47,6 @@ The **Klamath Tech Collective** is a bioregional tech collective dedicated to sh
 - **Collective Power:**  
   We work to build local infrastructure and knowledge that liberates our communities from corporate and colonial control, nurturing a new generation of tech stewards and citizen scientists.
 
->Join us as we weave together ancestral wisdom and modern tools, forging a path toward digital sovereignty and bioregional resilience-where technology flows with, not against, the river.
+>Are you interested in weaving together ancestral wisdom and modern tools, forging a path toward digital sovereignty and bioregional resilience-where technology flows with, not against, the river? Us to! Check out our **Points of Unity** and consider sharing in the journey with us!
 
-{{< button href="https://klamathtech.diy" style="primary" >}}Join our Mailing List!{{< /button >}}
+{{< button href="https://klamathtech.diy/info/points_of_unity/" style="primary" >}}Check Out our Points of Unity!{{< /button >}}

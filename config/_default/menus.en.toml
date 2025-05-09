@@ -16,57 +16,6 @@
 #weight = 10
 
 [[main]]
-name = "Info"
-weight = 10
-
-[[main]]
-name = "Howto/Guides"
-pageref = "guides"
-weight = 20
-
-[[main]]
-name = "Points of Unity"
-parent = "Info"
-pageRef = "info/points_of_unity"
-weight = 20
-
-[[main]]
-name = "Privacy 101"
-parent = "Howto/Guides"
-pageRef = "guides/privacy101"
-weight = 20
-
-#[[main]]
-#name = "Hacker Manifesto"
-#parent = "Info"
-#pageRef = "info/hacker_manifesto"
-#weight = 20
-
-[[main]]
-name = "What is #Data Back?"
-parent = "Info"
-pageRef = "info/data_back"
-weight = 20
-
-[[main]]
-name = "What is Technofeudalism/Technocolonialism?"
-parent = "Info"
-pageRef = "info/technofeudalism"
-weight = 20
-
-[[main]]
-name = "Hacking: A Timeline"
-parent = "Info"
-pageRef = "info/timeline"
-weight = 20
-
-[[main]]
-name = "Modern-day Oracles or Bullshit Machines: How to thrive in a ChatGPT world"
-parent = "Info"
-url = "https://thebullshitmachines.com/index.html"
-weight = 20
-
-[[main]]
 name = "About Us"
 pageRef = "about"
 weight = 10
@@ -74,7 +23,71 @@ weight = 10
 [[main]]
 name = "Projects"
 pageRef = "projects"
+weight = 20
+
+[[main]]
+name = "Info"
+weight = 30
+
+[[main]]
+name = "Howto/Guides"
+pageref = "guides"
+weight = 40
+
+[[main]]
+name = "Privacy 101"
+parent = "Howto/Guides"
+pageRef = "guides/privacy101"
+weight = 20
+
+[[main]]
+name = "Hacker Manifesto"
+parent = "Info"
+pageRef = "info/hacker_manifesto"
+weight = 20
+
+[[main]]
+name = "Points of Unity"
+parent = "Info"
+pageRef = "info/points_of_unity"
 weight = 10
+
+[[main]]
+name = "What is Techno-Colonialism?"
+parent = "Info"
+pageRef = "info/technocolonialism"
+weight = 20
+
+[[main]]
+name = "What is #Data Back?"
+parent = "Info"
+pageRef = "info/data_back"
+weight = 30
+
+[[main]]
+name = "Neo-Luddism: Peasant Revolts Against Predatory Tech"
+parent = "Info"
+pageRef = "info/technofeudalism"
+weight = 40
+
+[[main]]
+name = "What is a 'Feminist Server Stack'?"
+parent = "Info"
+pageRef = "info/femme_srv"
+weight = 60
+
+
+[[main]]
+name = "Hacking: A Timeline"
+parent = "Info"
+pageRef = "info/timeline"
+weight = 60
+
+[[main]]
+name = "Modern-day Oracles or Bullshit Machines: How to thrive in a ChatGPT world"
+parent = "Info"
+url = "https://thebullshitmachines.com/index.html"
+weight = 60
 
 #[[subnavigation]]
 #  name = "My Awesome Category"

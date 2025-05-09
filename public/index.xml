@@ -32,23 +32,23 @@
     </item>
     
     <item>
-      <title>&#39;Technofeudalism &amp; Technocolonialism&#39; What are they?</title>
-      <link>http://localhost:1313/info/technofeudalism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/technofeudalism/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technofeudalism/feature.jpg" />
-    </item>
-    
-    <item>
       <title>About Us</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/about/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/feature.png" />
+    </item>
+    
+    <item>
+      <title>Neo-Luddism: Peasant Revolts Against Predatory Technology</title>
+      <link>http://localhost:1313/info/technofeudalism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/info/technofeudalism/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technofeudalism/feature.jpg" />
     </item>
     
     <item>
@@ -72,6 +72,16 @@
     </item>
     
     <item>
+      <title>Technocolonialism: Digital Empires and the Legacy of Colonialism</title>
+      <link>http://localhost:1313/info/technocolonialism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/info/technocolonialism/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technocolonialism/feature.png" />
+    </item>
+    
+    <item>
       <title>The Hacker Manifesto</title>
       <link>http://localhost:1313/info/hacker_manifesto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -92,6 +102,16 @@
     </item>
     
     <item>
+      <title>What is a &#39;Feminist Server Stack&#39;?</title>
+      <link>http://localhost:1313/info/femme_srv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/info/femme_srv/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/femme_srv/feature.png" />
+    </item>
+    
+    <item>
       <title>Hacking, a timeline</title>
       <link>http://localhost:1313/info/timeline/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
@@ -102,13 +122,23 @@
     </item>
     
     <item>
-      <title>Authors</title>
-      <link>http://localhost:1313/authors/</link>
+      <title>Fern Bio</title>
+      <link>http://localhost:1313/authors/fern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/authors/</guid>
+      <guid>http://localhost:1313/authors/fern/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/authors/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/authors/fern/feature.png" />
+    </item>
+    
+    <item>
+      <title>Klamath Tech Collective</title>
+      <link>http://localhost:1313/authors/collective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/authors/collective/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/authors/collective/feature.png" />
     </item>
     
   </channel>

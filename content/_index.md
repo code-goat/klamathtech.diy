@@ -19,19 +19,17 @@ title: "Klamath River Tech Collective"
 ---
 
 ## We Resist By
-- Teaching our community members to skills to protect themselves digitally
-- Returning technology to it's rightful place: **as a tool for us, rather than us as it's tool**
-- Coding for bioregional and cultural resilience
-- Owning our means of **Media** production
-- Rejecting AI overlords in favor of ancestral intelligence networks
+- Teaching digital self-defense and privacy skills to every neighbor, auntie, and uncle.
+- Returning technology to its rightful place: **as a tool for us, not a tool over us.**
+- Coding for bioregional and cultural resilience, not for profit.
+- Owning our means of production- **community-owned media** broadcasting from the riverbanks to the mountain-tops, not the boardrooms.
+- Rejecting AI overlords in favor of ancestral intelligence networks--because wisdom is grown and shared, not calculated.
 
 ---
 
 # Our Toolshed Includes:
 ## -Feminist server stacks running on microhydro power
-```
-$ wget community-accountability
-```
+## ```~> wget -r community-solidarity```
 ## -Salmon-safe cryptography
 ## -Mycorrhizal learning networks
 

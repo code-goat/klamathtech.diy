@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Collective on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
+    <title>Klamath Tech Collective on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
     <link>http://localhost:1313/authors/collective/</link>
-    <description>Recent content in Collective on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
+    <description>Recent content in Klamath Tech Collective on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
@@ -19,6 +19,16 @@
       <guid>http://localhost:1313/guides/privacy101/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/feature.png" />
+    </item>
+    
+    <item>
+      <title>Klamath Tech Collective</title>
+      <link>http://localhost:1313/authors/collective/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/authors/collective/</guid>
+      <description></description>
+      
     </item>
     
   </channel>

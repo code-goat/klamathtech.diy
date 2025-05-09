@@ -1,0 +1,5 @@
+/* assets/css/fern-author-bg.css */
+.author-bg-fern {
+    background: url('/fern-bio.png') no-repeat center center fixed;
+    background-size: cover;
+  }
