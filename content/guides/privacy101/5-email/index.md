@@ -1,20 +1,20 @@
 ---
-title: "Password Manager"
-date: "2025-04-20"
+title: "Email"
+date: "2025-04-16"
 authors:
 - "fern"
 - "collective"
-image_style: "background"
-heroStyle: "background"
-weight: 1
+image_style: "contain"
+weight: 5
 draft: false
 description: "Klamath Tech Collective Documents"
 tags: ["guides", "info"]
 series: ["Privacy 101"]
-series_order: 4
+series_order: 5
 ---
 
-# This would be guide about Password Managers
+# This would be a Privacy Guide
+
 ## You know?
 
 ### Like this!
