@@ -1,5 +1,5 @@
 ---
-title: "Password Manager"
+title: "1.04 Password Manager"
 date: "2025-04-20"
 authors:
 - "fern"
@@ -9,7 +9,7 @@ heroStyle: "background"
 weight: 4
 draft: false
 description: "Klamath Tech Collective Documents"
-tags: ["guides", "info"]
+tags: ["guides", "Skills", "Privacy 101"]
 series: ["Privacy 101"]
 series_order: 4
 ---

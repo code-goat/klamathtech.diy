@@ -1,5 +1,5 @@
 ---
-title: "Messaging"
+title: "1.06 Messaging"
 date: "2025-04-16"
 authors:
 - "fern"
@@ -8,7 +8,7 @@ image_style: "contain"
 weight: 6
 draft: false
 description: "Klamath Tech Collective Documents"
-tags: ["guides", "info"]
+tags: ["guides", "Skills", "Privacy 101"]
 series: ["Privacy 101"]
 series_order: 6
 ---

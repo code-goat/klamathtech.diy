@@ -9,7 +9,7 @@ heroStyle: "background"
 weight: 1
 draft: false
 description: "Klamath Tech Collective Documents"
-tags: ["guides", "info", "Skills"]
+tags: ["guides", "Skills", "Advanced"]
 series: ["Advanced Privacy"]
 series_order: 1
 ---

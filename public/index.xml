@@ -28,11 +28,11 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/guides/advanced/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/advanced/feature.png" />
     </item>
     
     <item>
-      <title>Privacy 101</title>
+      <title>Privacy 101 - Intro</title>
       <link>http://localhost:1313/guides/privacy101/1-intro/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
@@ -118,7 +118,7 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/guides/privacy101/2-browser/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/2-browser/feature.jpg" />
     </item>
     
     <item>
@@ -128,7 +128,7 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/guides/privacy101/3-search/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/3-search/feature.jpg" />
     </item>
     
     <item>
@@ -148,7 +148,7 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/guides/privacy101/5-email/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/5-email/feature.jpg" />
     </item>
     
     <item>
@@ -158,7 +158,7 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/guides/privacy101/6-messaging/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/6-messaging/feature.jpg" />
     </item>
     
     <item>

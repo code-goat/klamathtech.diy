@@ -13,12 +13,62 @@
     
     <item>
       <title>Privacy 101</title>
-      <link>http://localhost:1313/guides/privacy101/</link>
+      <link>http://localhost:1313/guides/privacy101/1-intro/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/</guid>
+      <guid>http://localhost:1313/guides/privacy101/1-intro/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/1-intro/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Internet Browser</title>
+      <link>http://localhost:1313/guides/privacy101/2-browser/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/2-browser/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/2-browser/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Search Engine</title>
+      <link>http://localhost:1313/guides/privacy101/3-search/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/3-search/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Password Manager</title>
+      <link>http://localhost:1313/guides/privacy101/4-password_manager/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/4-password_manager/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/4-password_manager/feature.png" />
+    </item>
+    
+    <item>
+      <title>Email</title>
+      <link>http://localhost:1313/guides/privacy101/5-email/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/5-email/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/5-email/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Messaging</title>
+      <link>http://localhost:1313/guides/privacy101/6-messaging/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/guides/privacy101/6-messaging/</guid>
+      <description></description>
+      
     </item>
     
   </channel>

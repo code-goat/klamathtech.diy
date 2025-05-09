@@ -27,6 +27,8 @@ As with the original Luddites, today’s Neo-Luddite movement is not simply abou
 
 ## Technofeudalism and Technocolonialism: The New Digital Order
 
+![Privacy & TechnoFeudalism](technofeudalism.png)
+
 **Technofeudalism**  
 In this digital era, power is concentrated in the hands of a few tech giants-Google, Amazon, Meta, Apple-who control the “cloud capital” that underpins modern life. These corporations don’t just sell products; they collect “digital rent” by harvesting our data, shaping our behavior, and setting the rules of the digital realm. The more that state and corporate technology systems fuse together, the more we become “digital peasants,” dependent on their platforms for economic and basic social and civil participation[^2][^3][^7].
 

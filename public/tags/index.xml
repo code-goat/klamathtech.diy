@@ -22,16 +22,6 @@
     </item>
     
     <item>
-      <title>Docs</title>
-      <link>http://localhost:1313/tags/docs/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/docs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Info</title>
       <link>http://localhost:1313/tags/info/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
@@ -42,11 +32,31 @@
     </item>
     
     <item>
+      <title>Advanced</title>
+      <link>http://localhost:1313/tags/advanced/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/tags/advanced/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Guides</title>
       <link>http://localhost:1313/tags/guides/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/tags/guides/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy 101</title>
+      <link>http://localhost:1313/tags/privacy-101/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/tags/privacy-101/</guid>
       <description></description>
       
     </item>
@@ -67,6 +77,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/tags/collective/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>http://localhost:1313/tags/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/tags/docs/</guid>
       <description></description>
       
     </item>

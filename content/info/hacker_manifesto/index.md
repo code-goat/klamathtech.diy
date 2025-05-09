@@ -4,7 +4,7 @@ weight: 1
 draft: false
 description: "Hacker Hacker Manifesto"
 heroStyle: "background"
-tags: ["Docs", "info"]
+tags: ["Writings", "info"]
 #series: ["Documentation"]
 #series_order: 1
 ---
