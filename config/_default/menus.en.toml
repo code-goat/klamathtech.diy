@@ -90,14 +90,14 @@ name = "Privacy 101"
 pre = "ghost"
 parent = "Howto/Guides"
 pageRef = "guides/privacy101"
-weight = 20
+weight = 10
 
 [[main]]
 name = "Advanced Privacy"
 pre = "pgpkey"
 parent = "Howto/Guides"
 pageRef = "guides/advanced"
-weight = 30
+weight = 20
 
 #
 ## Info/Writings
