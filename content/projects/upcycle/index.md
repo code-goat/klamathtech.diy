@@ -9,6 +9,7 @@ tags: ["about", "projects"]
 #series_order: 1
 ---
 
+# Reclaiming old tech in the Klamath bioregion
 - repurpose old tech
 - we take donations of old computers
 - we want old office stuff
