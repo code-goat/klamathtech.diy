@@ -89,7 +89,7 @@ weight = 60
 name = "Privacy 101"
 pre = "ghost"
 parent = "Howto/Guides"
-pageRef = "guides/privacy101"
+pageRef = "guides/privacy101/1-intro"
 weight = 10
 
 [[main]]
