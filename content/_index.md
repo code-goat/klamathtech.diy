@@ -2,7 +2,8 @@
 title: "Klamath River Tech Collective"
 ---
 
-# ATTENTION: 🛠️ This site is under active developement. Information will be inaccurate/incomplete, links may be broken, and menues will navigate incorrectly. Feel free to explore, but understand that this site is a sandbox, it WILL change! 🛠️
+# ATTENTION: 
+## 🛠️ This site is under active developement. Information will be inaccurate/incomplete, links may be broken, and menues will navigate incorrectly. Feel free to explore, but understand that this site is a sandbox, it WILL change! 🛠️
 
 <img src="/images/out.gif" alt="Terminal Output" class="mx-auto">
 
