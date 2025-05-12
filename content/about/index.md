@@ -39,7 +39,7 @@ The **Klamath Tech Collective** is a bioregional tech collective dedicated to sh
 ### Our Values
 
 - **Bioregional Stewardship:**  
-  We believe the bioregion is the natural scale for collective action and governance, aligning technology with the needs of our land and people.
+  We believe the bioregion is the natural scale for collective action and governance, aligning technology with the needs of land and people.
 
 - **Intergenerational Learning:**  
   We foster relationships between youth, elders, and all community members, centering Indigenous ways of knowing and ensuring everyone has a voice in shaping our digital future.
