@@ -1,5 +1,5 @@
 ---
-title: "Fern Bio"
+title: "Fern"
 authors: 
     - "fern"
 css: "css/fern-author-bg.css"
