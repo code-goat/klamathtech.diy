@@ -17,11 +17,11 @@ In a world where our personal data and communications are constantly under threa
 Rooted in the spirit of bioregional resilience and community sovereignty, this workshop is for everyone-from tech novices to seasoned hackers. Our goal is to come together as a community and collectively elevate **all** our skills. Our workshops are for all who wants to learn how to defend themselves online against surveillance, data exploitation, and digital intrusion.
 
 ### What You’ll Learn:
-- Basic digital self defense: Password management, secure browsing, and recognizing phishing/scam attempts
-- Encrypted communications: How to use tools like Signal and other secure messaging apps
-- Device security: Protecting your smartphone, laptop, and other devices from hacking
-- Data sovereignty: Understanding your rights and how to keep your data in your hands
-- Community tech resources: How to get involved with local mesh networks, open-source projects, and hardware clinics
+- **Basic digital self defense:** Password management, secure browsing, and recognizing phishing/scam attempts
+- **Encrypted communications:** How to use tools like Signal and other secure messaging apps
+- **Device security:** Protecting your smartphone, laptop, and other devices from hacking
+- **Data sovereignty:** Understanding your rights and how to keep your data in your hands
+- **Community tech resources:** How to get involved with local mesh networks, open-source projects, and hardware clinics
 
 
 ## Why Join Us?
