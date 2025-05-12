@@ -1,8 +1,8 @@
 ---
-title: "The Hacker Manifesto"
+title: "The History of Hacker Culture"
 weight: 1
 draft: false
-description: "Hacker Hacker Manifesto"
+description: "Hacker History"
 heroStyle: "background"
 tags: ["Writings", "info"]
 #series: ["Documentation"]
