@@ -4,8 +4,8 @@ weight: 1
 draft: false
 description: "This page is for people to subscribe to the mailing list"
 showTableOfContents: false
-heroStyle: "background"
-tags: ["subscribe", "info"]
+heroStyle: "big"
+tags: ["Subscribe", "Mailing List"]
 #series: ["Documentation"]
 #series_order: 1
 ---

@@ -53,7 +53,7 @@ The **Klamath Tech Collective** is a bioregional tech collective dedicated to sh
 
 ---
 
-Join our Mailing List:
+>Join our Mailing List:
 {{< subscribe-form >}}
 
 ---
