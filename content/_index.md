@@ -30,33 +30,34 @@ We want you!
 ---
 
 ## We Resist By
-- Teaching digital self-defense and privacy skills to every neighbor, auntie, and uncle.
+- Teaching **digital self-defense** and privacy skills to every neighbor, auntie, and uncle.
 - Returning technology to its rightful place: **as a tool for us, not a tool over us.**
 - Coding for bioregional and cultural resilience, not for profit.
 - Owning our means of production- **community-owned media** broadcasting from the riverbanks to the mountain-tops, not the boardrooms.
-- Rejecting AI overlords in favor of ancestral intelligence networks--because wisdom is grown and shared, not calculated.
+- Rejecting AI overlords in favor of ancestral intelligence networks--because **wisdom is grown and shared, not calculated.**
 
 ---
 
 # Our Toolshed Includes:
-## -Feminist server stacks running on microhydro power
-## ```~> wget -r community-solidarity```
-## -Salmon-safe cryptography
-## -Mycorrhizal learning networks
+### -Feminist server stacks running on microhydro power
+### ```~> wget -r community-solidarity```
+### -Salmon-safe cryptography
+### -Mycorrhizal learning networks
 
 ---
 
 ## Join Us!
 We gather where:
 - **📻 Airwaves** carry both music and SSH keys
-- **💻 Old Cellphones** become GPS mesh units for basket materials mapping
-- **🌲 Understorys** wifi meshes better than Starlink's cold gaze
-- **fork the system, merge with nature**
+- **💻 Old Cellphones** become GPS mesh units for off-grid communications while hunting
+- **🌲 Understorys** contain encrypted storage
+
+# **{{< icon "fork" >}} fork the system, merge with nature**
 
 **Find us:**
-- **🌉** ...Coding automation metrics for our smokehouses
-- **⛰️** Debugging environmental models in the high country...
-- **🌊** 3D Printing hunting and fishing gear for our families
+ **🌉** ...Coding automations for our smokehouses
+ **⛰️** Debugging environmental models in the high country...
+ **🌊** 3D Printing hunting and fishing gear
 
 ---
 
