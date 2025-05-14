@@ -37,6 +37,3 @@ Learn how to participate by reaching out to us at [contact@klamathtech.diy](mail
 
 **Together, we can fork the system and merge with nature.**
 **Protect your digital self, protect our community.**
-
-Subscribe Here!
-{{< subscribe-form >}}

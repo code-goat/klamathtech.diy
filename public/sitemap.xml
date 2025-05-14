@@ -56,6 +56,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/subscribe/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/info/technofeudalism/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
