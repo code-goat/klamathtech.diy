@@ -28,7 +28,7 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/subscribe/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/subscribe/feature.jpg" />
     </item>
     
     <item>

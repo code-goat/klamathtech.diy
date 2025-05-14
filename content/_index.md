@@ -52,7 +52,7 @@ We gather where:
 
 ---
 
-If you're interested, join our Mailing List:
+**If you're interested, join our Mailing List:**
 {{< subscribe-form >}}
 
 ---
