@@ -166,14 +166,14 @@ weight = 60
   #name = "🅂🅄🄱🅂🄲🅁🄸🄱🄴"
   name = "SUBSCRIBE"
   pre = "envelope"
-  url = "https://nix-srv.woodpecker-decibel.ts.net:9000/subscription/form"
+  url = "https://list.klamathtech.diy/subscription/form"
   weight = 20
 
 [[subnavigation]]
 #  name = "🄳🄾🄽🄰🅃🄴"
   name = "DONATE"
   pre = "donation"
-  url = "https://nix-srv.woodpecker-decibel.ts.net:9000/subscription/form"
+  url = "https://list.klamathtech.diy/subscription/form"
   weight = 30
 
 #[[main]]

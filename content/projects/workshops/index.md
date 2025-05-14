@@ -30,7 +30,7 @@ The Klamath Tech Collective is a community-rooted initiative working across ance
 
 By learning digital self-defense, you’re not just protecting yourself-you’re strengthening our collective resilience and ensuring technology serves us and our bioregion, not corporate or state powers.
 
-Learn how to participate by reaching out to us at [contact@klamathtech.diy](mailto:contact@klamathtech.diy)
+Learn how to participate by reaching out to us at [contact@klamathtech.diy](mailto:contact@klamathtech.diy) or subscribing to our [mailing list!](https://list.klamathtech.diy/subscription/form)
 
 >Bring your devices for hands-on practice
 >All skill levels welcome-come curious and ready to learn
