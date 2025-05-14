@@ -51,9 +51,9 @@ We gather where:
 - **📻 Airwaves** carry both music and SSH keys
 - **💻 Old Cellphones** become GPS mesh units for off-grid communications while hunting
 - **🌲 Understorys** contain encrypted storage
-
-# **{{< icon "fork" >}} fork the system, merge with nature**
-
+---
+## {{< icon "fork" >}} **fork the system, merge with nature**
+---
 **Find us:**
  **🌉** ...Coding automations for our smokehouses
  **⛰️** Debugging environmental models in the high country...

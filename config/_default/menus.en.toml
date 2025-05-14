@@ -168,7 +168,7 @@ weight = 60
   pre = "envelope"
   pageRef = "subscribe"
   #url = "https://list.klamathtech.diy/subscription/form"
-  weight = 20
+  weight = 30
 
 [[subnavigation]]
 #  name = "🄳🄾🄽🄰🅃🄴"
@@ -176,7 +176,7 @@ weight = 60
   pre = "donation"
   pageRef = "subscribe"
   #url = "https://list.klamathtech.diy/subscription/form"
-  weight = 30
+  weight = 20
 
 #[[main]]
 #name = "Categories"
