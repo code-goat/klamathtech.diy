@@ -1,9 +1,17 @@
 ---
 title: "Klamath River Tech Collective"
 ---
-
+---
 # ATTENTION: 
-## 🛠️ This site is under active developement. Information will be inaccurate/incomplete, links may be broken, and menues will navigate incorrectly. Feel free to explore, but understand that this site is a sandbox, it WILL change! 🛠️
+### 🛠️ This site is under active developement. Information will be inaccurate/incomplete, links may be broken, and menues will navigate incorrectly. Feel free to explore, but understand that this site is a sandbox, it WILL change! 🛠️
+---
+> Can't wait? Then join our Mailing List to know as soon as we go live:
+{{< subscribe-form >}}
+
+Or if you want to join the collective or organize with us? Then shoot us an email at [join@klamathtech.diy!](mailto:join@klamathtech.diy)
+We want you!
+
+---
 
 <img src="/images/out.gif" alt="Terminal Output" class="mx-auto">
 
@@ -52,7 +60,3 @@ We gather where:
 
 ---
 
-> If you're interested, join our Mailing List:
-{{< subscribe-form >}}
-
----
