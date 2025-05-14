@@ -1,0 +1,37 @@
+.listmonk-form {
+    background: var(--color-surface);
+    border-radius: 12px;
+    padding: 2em 1.5em;
+    max-width: 400px;
+    margin: 2em auto;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  }
+  .listmonk-form h3 {
+    color: var(--color-primary);
+    font-family: var(--font-heading);
+    margin-bottom: 1em;
+  }
+  .listmonk-form input[type="email"],
+  .listmonk-form input[type="text"] {
+    width: 100%;
+    padding: 0.75em;
+    margin-bottom: 1em;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    background: var(--color-background);
+    color: var(--color-on-surface);
+  }
+  .listmonk-form input[type="submit"] {
+    background: var(--color-primary);
+    color: #fff;
+    border: none;
+    padding: 0.75em 2em;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.2s;
+  }
+  .listmonk-form input[type="submit"]:hover {
+    background: var(--color-primary-dark);
+  }
+  

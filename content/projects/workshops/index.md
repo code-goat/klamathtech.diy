@@ -38,27 +38,5 @@ Learn how to participate by reaching out to us at [contact@klamathtech.diy](mail
 **Together, we can fork the system and merge with nature.**
 **Protect your digital self, protect our community.**
 
-
-+++
-title = "Subscribe"
-+++
-
-<!-- Your Listmonk Form -->
-<form method="post" action="https://list.klamathtech.diy/subscription/form" class="listmonk-form">
-  <div>
-    <h3>Subscribe</h3>
-    <input type="hidden" name="nonce" />
-
-    <p><input type="email" name="email" required placeholder="E-mail" /></p>
-    <p><input type="text" name="name" placeholder="Name (optional)" /></p>
-
-    <p>
-      <input id="bfc51" type="checkbox" name="l" checked value="bfc51685-1f71-40a5-be8c-f5ebbd517cbb" />
-      <label for="bfc51">Klamath Tech Collective Mailing List</label>
-      <br />
-      <span>Opt-in to the Klamath Tech Collective Mailing List to receive updates and announcements around events, workshops, news, meetings, fundraisers, etc.</span>
-    </p>
-
-    <input type="submit" value="Subscribe " />
-  </div>
-</form>
+Subscribe Here!
+{{< subscribe-form >}}
