@@ -29,7 +29,7 @@ tags: ["about", "projects"]
 
 - **Secure Data Erasure**  
   We guarantee industry-standard data erasure using tools like *shredOS* and degaussing, so your personal or organizational data is wiped far more securely than simply dropping a computer at the dump.
-  Refer to our community 
+[Click Here]({{< ref "/projects/secure-shred/" >}}) for more information about our secure data removal.
 
 - **Community-Owned Infrastructure**  
   Donated computers (2012 and newer) are refurbished and repurposed to power community infrastructure-think local servers, shared internet access, and collaborative digital tools managed by and for the Klamath bioregion.
