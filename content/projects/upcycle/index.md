@@ -1,5 +1,5 @@
 ---
-title: "Downstream|Upcycle: Community E-Waste Reclamation Program"
+title: "UpRiv|Upcycle: Community E-Waste Reclamation Program"
 date: 2025-05-04
 weight: 1
 draft: false
@@ -9,13 +9,13 @@ tags: ["about", "projects"]
 #series_order: 1
 ---
 
-# Downstream|Upcycle: Community E-Waste Reclamation Program  
+# UpRiv|Upcycle: Community E-Waste Reclamation Program  
 
 ---
 
 ## Reclaiming Old Tech in the Klamath Bioregion
 
-**Downstream|Upcycle** is the Klamath Tech Collective’s initiative to intercept and upcycle e-waste-unused, upgraded, or unsupported computers-*before* they end up in the landfill. We’re actively seeking **partnerships with regional organizations, schools, and businesses** to help us collect and reclaim valuable hardware that would otherwise go to waste.
+**UpRiv|Upcycle** is the Klamath Tech Collective’s initiative to intercept and upcycle e-waste-unused, upgraded, or unsupported computers-*before* they end up in the landfill. We’re actively seeking **partnerships with regional organizations, schools, and businesses** to help us collect and reclaim valuable hardware that would otherwise go to waste.
 
 ---
 
