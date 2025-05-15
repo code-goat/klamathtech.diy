@@ -9,10 +9,6 @@ tags: ["about", "projects"]
 #series_order: 1
 ---
 
-# UpRiv|Upcycle: Community E-Waste Reclamation Program  
-
----
-
 ## Reclaiming Old Tech in the Klamath Bioregion
 
 **UpRiv|Upcycle** is the Klamath Tech Collective’s initiative to intercept and upcycle e-waste-unused, upgraded, or unsupported computers-*before* they end up in the landfill. We’re actively seeking **partnerships with regional organizations, schools, and businesses** to help us collect and reclaim valuable hardware that would otherwise go to waste.
