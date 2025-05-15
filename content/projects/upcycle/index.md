@@ -9,16 +9,7 @@ tags: ["about", "projects"]
 #series_order: 1
 ---
 
-# Reclaiming old tech in the Klamath bioregion
-- working to form partnerships with regional orgnanizations, schools, and businesses to intercept e-waste (unused, upgraded or unsupported computers)
-- We will offer better secure data erasure over just bringing computers to a dump
-- repurpose old tech for community-owned infrastructure 
-- collect donations of oldish hardware (2012 to present)
-- community infrastructure
-- free or low-cost laptop distribution
-- etc
 # Downstream|Upcycle: Community E-Waste Reclamation Program  
-**Klamath Tech Collective (klamathtech.diy)**
 
 ---
 
