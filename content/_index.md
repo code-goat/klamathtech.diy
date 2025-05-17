@@ -17,7 +17,9 @@ We want you!
 
 {{< lead >}} # *Rooted in Bioregional Resilience, Wired for Liberation*{{< /lead >}}
 
-**We are salmon swimming upstream** against the currents of technofeudalism. Based across ancestral Karuk, Yurok, and Hupa territories—Happy Camp to Hoopa, Somes Bar to Kepel—we're building ```community-owned tech ecosystems``` where the Klamath meets the keyboard.
+Based across ancestral Karuk, Yurok, and Hupa territories—Happy Camp to Hoopa, Somes Bar to Kepel—we're building ```community-owned tech ecosystems``` where the Klamath meets the keyboard.
+
+The **Klamath Tech Collective** is a bioregional tech collective dedicated to shrinking the tech literacy gap and reclaiming technology as a tool for community resilience, self-determination, and regeneration. Our mission is rooted in the belief that technology should serve the people and the land, not extract from them.
 
 ---
 
