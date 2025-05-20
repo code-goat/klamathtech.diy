@@ -34,32 +34,9 @@ The **Klamath Tech Collective** is a bioregional tech collective dedicated to sh
 ## We Resist By
 - Teaching **digital self-defense** and privacy skills to every neighbor, auntie, and uncle.
 - Returning technology to its rightful place: **as a tool for us, not a tool over us.**
-- Coding for bioregional and cultural resilience, not for profit.
-- Owning our means of production- **community-owned media** broadcasting from the riverbanks to the mountain-tops, not the boardrooms.
+- Coding for bioregional and cultural resilience, not for profit or extraction.
+- Owning our means of production- **community-owned media** broadcasting from the riverbanks to the mountain-tops.
 - Rejecting AI overlords in favor of ancestral intelligence networks--because **wisdom is grown and shared, not calculated.**
-
----
-
-# Our Toolshed Includes:
-### -Feminist server stacks running on microhydro power
-### ```~> wget -r community-solidarity```
-### -Salmon-safe cryptography
-### -Mycorrhizal learning networks
-
----
-
-## Join Us!
-We gather where:
-- **📻 Airwaves** carry both music and SSH keys
-- **💻 Old Cellphones** become GPS mesh units for off-grid communications while hunting
-- **🌲 Understorys** contain encrypted storage
----
-## {{< icon "fork" >}} **fork the system, merge with nature**
----
-**Find us:**
- **🌉** ...Coding automations for our smokehouses
- **⛰️** Debugging environmental models in the high country...
- **🌊** 3D Printing hunting and fishing gear
 
 ---
 
