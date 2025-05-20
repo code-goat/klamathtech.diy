@@ -103,7 +103,7 @@ weight = 30
 ## Info/Writings
 
 [[main]]
-name = "Hacker Manifesto"
+name = "Hacker Culture"
 pre = "edit"
 parent = "Info/Writings"
 pageRef = "info/hacker_manifesto"
