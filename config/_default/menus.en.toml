@@ -72,7 +72,7 @@ weight = 40
 name = "Solar-Powered, Mutual-Aid Comms Network"
 pre = "rss"
 parent = "Projects"
-pageRef = "projects/comms"
+pageRef = "projects/mesh"
 weight = 50
 
 [[main]]
