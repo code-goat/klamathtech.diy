@@ -5,4 +5,5 @@ authors:
     - fern
 ---
 
-{{< youtubeLite id="-uIXJclJE2Y" label="The maker movement: Jeff Sturges at TEDxMidwest" >}}
+{{< youtube -uIXJclJE2Y >}}
+
