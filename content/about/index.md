@@ -19,7 +19,7 @@ The **Klamath Tech Collective** is a bioregional tech collective dedicated to sh
 
 ![Circuit Salmon](/salmon_upscayl.png )
 
-### What We Do
+### Our Goals
 
 - **Tech Literacy & STEAM Education:**  
   We offer free, hands-on workshops and learning circles for all ages, with a focus on STEAM (Science, Technology, Engineering, Arts, Math) content that is place-based and culturally relevant. Our programs center Indigenous knowledge and community co-design, empowering youth and elders alike to become creators-not just consumers-of technology.
@@ -46,6 +46,22 @@ The **Klamath Tech Collective** is a bioregional tech collective dedicated to sh
 
 - **Collective Power:**  
   We work to build local infrastructure and knowledge that liberates our communities from corporate and colonial control, nurturing a new generation of tech stewards and citizen scientists.
+
+---
+
+### Our Guiding Ideas
+
+We take inspiration from many places and people. One notable contribution has been the ideas presented by Marisa Elena Duart:
+
+>"1. Human beings are also herd animals. They are capable of organizing beyond the level of the individual. They orchestrate activity at the level of a community, and articulate >their identities based on geopolitical locations and status. En masse, they become swept up in communal systems of belief.
+>
+>2. Human beings are inherently creative. They create systems and structures in this world through the use of tools. The physical menifestation of these systems and structures >reflects human beliefs over time.
+>
+>3. Other stuff"
+>
+>- Marisa Elena Duarte, *Network Sovereignty"
+
+---
 
 >Are you interested in weaving together ancestral wisdom and modern tools, forging a path toward digital sovereignty and bioregional resilience-where technology flows with, not against, the river? Us to! Check out our **Points of Unity** and consider sharing in the journey with us!
 
