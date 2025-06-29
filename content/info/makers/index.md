@@ -1,5 +1,5 @@
 ---
-title: "Maker Spaces_edit"
+title: "Maker Spaces"
 date: 2025-05-04
 authors:
     - fern
