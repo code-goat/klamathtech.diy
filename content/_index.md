@@ -3,17 +3,8 @@ title: "Klamath River Tech Collective"
 ---
 ---
 ## ATTENTION: 
-#### 🛠️ This site is under active developement. Information will be inaccurate/incomplete, links may be broken, and menues will navigate incorrectly. Feel free to explore, but understand that this site is a sandbox, it WILL change! 🛠️
+#### 🛠️ This site is under active developement. Information is inaccurate/incomplete, links may be broken, and menues will navigate incorrectly. Feel free to explore, but understand that this site is a sandbox, it WILL change! 🛠️
 ---
-> Can't wait? Then join our Mailing List to know as soon as we go live:
-{{< subscribe-form >}}
-
-Or if you want to join the collective or organize with us? Then shoot us an email at [membership@klamathtech.diy!](mailto:membership@klamathtech.diy)
-We want you!
-
----
-
-
 
 {{< lead >}} # *Rooted in Bioregional Resilience, Wired for Liberation*{{< /lead >}}
 
@@ -41,3 +32,7 @@ The **Klamath Tech Collective** is a sprouting bioregional tech collective dedic
 - Rejecting AI overlords in favor of ancestral intelligence networks--because **wisdom is grown and shared, not calculated.**
 
 ---
+> Can't wait? Then join our Mailing List to know as soon as we go live:
+{{< subscribe-form >}}
+Or if you want to join the collective or organize with us? Then shoot us an email at [membership@klamathtech.diy!](mailto:membership@klamathtech.diy)
+We want you!
