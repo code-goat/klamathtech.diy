@@ -146,12 +146,12 @@ pageRef = "info/femme_srv"
 weight = 60
 
 
-[[main]]
-name = "Hacking: A Timeline"
-pre = "edit"
-parent = "Info/Writings"
-pageRef = "info/timeline"
-weight = 60
+ [[main]]
+ name = "Maker Space Culture"
+ pre = "edit"
+ parent = "Info/Writings"
+ pageRef = "info/makers"
+ weight = 60
 
 [[main]]
 name = "Modern-day Oracles or Bullshit Machines: How to thrive in a ChatGPT world"
