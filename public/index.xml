@@ -28,17 +28,7 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/projects/media/</guid>
       <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Downstream|Upcycle: Community E-Waste Reclamation Program</title>
-      <link>http://localhost:1313/projects/upcycle/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/projects/upcycle/</guid>
-      <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/media/feature.png" />
     </item>
     
     <item>
@@ -48,7 +38,7 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/projects/code-camp/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/code-camp/feature.png" />
     </item>
     
     <item>
@@ -58,7 +48,7 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/projects/mesh/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mesh/feature.png" />
     </item>
     
     <item>
@@ -68,7 +58,17 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/projects/secure-shred/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/secure-shred/feature.png" />
+    </item>
+    
+    <item>
+      <title>UpRiv|Upcycle: Community E-Waste Reclamation Program</title>
+      <link>http://localhost:1313/projects/upcycle/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/projects/upcycle/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/upcycle/feature.png" />
     </item>
     
     <item>
@@ -148,7 +148,7 @@
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>http://localhost:1313/info/hacker_manifesto/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/hacker_manifesto/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/hacker_manifesto/feature.png" />
     </item>
     
     <item>
@@ -222,13 +222,13 @@
     </item>
     
     <item>
-      <title>Hacking, a timeline</title>
-      <link>http://localhost:1313/info/timeline/</link>
+      <title>Maker Spaces_edit</title>
+      <link>http://localhost:1313/info/makers/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/timeline/</guid>
+      <guid>http://localhost:1313/info/makers/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/makers/feature.jpg" />
     </item>
     
     <item>
@@ -239,6 +239,16 @@
       <guid>http://localhost:1313/authors/fern/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/authors/fern/feature.png" />
+    </item>
+    
+    <item>
+      <title>Klamath River Tech Collective</title>
+      <link>http://localhost:1313/_index-bak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>http://localhost:1313/_index-bak/</guid>
+      <description></description>
+      
     </item>
     
     <item>

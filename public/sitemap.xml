@@ -15,12 +15,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/upcycle/</loc>
-    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/projects/code-camp/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -34,6 +28,12 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/secure-shred/</loc>
+    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/upcycle/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -121,7 +121,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/info/timeline/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -139,7 +139,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/info/makers/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -152,6 +152,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/authors/fern/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/_index-bak/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
