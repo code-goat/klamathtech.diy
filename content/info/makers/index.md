@@ -1,5 +1,5 @@
 ---
-title: "Hacking, a timeline"
+title: "Maker Spaces"
 date: 2025-05-04
 authors:
     - fern
@@ -7,3 +7,4 @@ authors:
 
 {{< youtube -uIXJclJE2Y >}}
 
+{{< youtubeLite id="-uIXJclJE2Y" label="Maker Spaces" >}}
