@@ -69,4 +69,4 @@ Yes, I am a criminal. My crime is that of curiosity. My crime is that of judging
 [^8]: [History of Free and Open-Source Software - Wikipedia](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software)
 [^9]: [FOSS Movements, Digital Rebellion (PDF)](https://scholarspace.manoa.hawaii.edu/bitstream/10125/49730/1/FOSS%20Movements,%20Digital%20Rebellion%20final%20draft.pdf)
 [^10]: [Free Software Philosophy - Bellevue College](https://www2.bellevuecollege.edu/artshum/materials/phil/Payne/Spring2005/260/FreeSoftwarePhilosophy.htm)
-
+[^11]: [Hacker Spaces](https://hackerspaces.org/)
