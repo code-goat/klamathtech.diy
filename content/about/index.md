@@ -10,7 +10,7 @@ tags: ["about", "info"]
 #series_order: 1
 ---
 
-> ## We are salmon swimming upstream against the currents of technocolonialism
+> ## We are swimming upstream against the currents of technocolonialism
 
 -------
 Based across ancestral **Karuk**, **Yurok**, and **Hoopa** territories -- From **Happy Camp** to **Hoopa**, from **Katamin** to **Kepel** -- we’re building community-owned tech ecosystems where the Klamath meets the keyboard. 	
