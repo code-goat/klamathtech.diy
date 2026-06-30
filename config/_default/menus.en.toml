@@ -139,6 +139,13 @@ pageRef = "info/ai_animism"
 weight = 26
 
 [[main]]
+name = "A Critical History of the Internet"
+pre = "list"
+parent = "Info/Writings"
+pageRef = "info/internet_history"
+weight = 35
+
+[[main]]
 name = "What is Techno-Colonialism?"
 pre = "globe"
 parent = "Info/Writings"
