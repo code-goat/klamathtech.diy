@@ -23,6 +23,8 @@ Neo-Luddism is not simply a rejection of all technology. Instead, it is a critic
 
 As with the original Luddites, today’s Neo-Luddite movement is not simply about smashing machines, but about questioning who technology serves, who it harms, and how it shapes our lives. It is a call for **emancipation from technological systems that diminish our autonomy and well-being**[^1][^3][^5].
 
+Cory Doctorow’s 2026 book *The Reverse Centaur* offers a useful framework for this analysis: a **centaur** is a person assisted by a machine by their own choice — the human in control, the tool in service. A **reverse centaur** is a person conscripted to serve a machine — the algorithm directs, the human executes, the human absorbs blame when the machine fails. Amazon warehouse workers timed by AI cameras are reverse centaurs. Writers pressured to generate sixty-four pages of AI content in a deadline no human team could meet are reverse centaurs. The distinction is not technical — it is about **power**. Our work is to help people be centaurs. See our full [Reverse Centaur](/info/reverse_centaur/) page for Doctorow’s complete argument.
+
 ---
 
 ## Technofeudalism and Technocolonialism: The New Digital Order

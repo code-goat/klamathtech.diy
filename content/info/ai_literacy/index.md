@@ -63,6 +63,8 @@ Science journalist Adam Becker, in *More Everything Forever: AI Overlords, Space
 
 This worldview — whether it takes the form of AI doomerism ("AI will destroy humanity, only we can stop it") or AI utopianism ("AI will solve everything, just let us build it") — conveniently justifies an enormous concentration of power and capital in very few hands. It is a story about control dressed up as altruism.
 
+Digital rights writer Cory Doctorow names this posture **inevitabilism** — the tech industry's habit of insisting that its most harmful arrangements are iron laws of nature, not choices made by people who could choose differently. It echoes Margaret Thatcher's "There Is No Alternative." Doctorow's 2026 book *The Reverse Centaur* argues that science fiction — by imagining many possible futures, not just one — is the natural antidote: proof that the arrangement between people and their technology is always a choice. (See our [Reverse Centaur](/info/reverse_centaur/) page for his framework in full.)
+
 The hype machine runs on:
 
 - **Fear** — existential risk narratives that make ordinary people feel powerless and dependent on tech experts
@@ -142,6 +144,7 @@ Use these for workshops, study circles, or conversations around the kitchen tabl
 - *Technology and the Virtues* — Shannon Vallor (Oxford University Press)
 - *More Everything Forever* — Adam Becker
 - *The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking*
+- *The Reverse Centaur's Guide to Life After AI* — Cory Doctorow (Farrar, Straus and Giroux, 2026) — and our [Reverse Centaur](/info/reverse_centaur/) page on his framework
 - *Network Sovereignty* — Marisa Elena Duarte (referenced throughout this site)
 - Our own [Technocolonialism](/info/technocolonialism/) and [Neo-Luddism](/info/technofeudalism/) pages for broader context
 
