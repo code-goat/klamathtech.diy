@@ -121,7 +121,7 @@
     "keywords": ["guides","Skills","Advanced"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "561"
+    "wordCount": "1002"
   }]
   </script>
 
@@ -1933,7 +1933,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span>561 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span><span class="px-2 text-primary-500">&middot;</span>
+      <span>1002 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
   
@@ -2627,6 +2627,8 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#linux--the-foundation">Linux — The Foundation</a></li>
+    <li><a href="#nixbook--set-and-forget-linux-for-everyone">nixbook — Set-and-Forget Linux for Everyone</a></li>
+    <li><a href="#nixos--for-advanced-users-who-want-full-control">NixOS — For Advanced Users Who Want Full Control</a></li>
     <li><a href="#tails--leave-no-trace">Tails — Leave No Trace</a></li>
     <li><a href="#qubes-os--isolation-through-compartmentalization">Qubes OS — Isolation Through Compartmentalization</a></li>
     <li><a href="#which-should-you-use">Which Should You Use?</a></li>
@@ -2645,6 +2647,8 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#linux--the-foundation">Linux — The Foundation</a></li>
+    <li><a href="#nixbook--set-and-forget-linux-for-everyone">nixbook — Set-and-Forget Linux for Everyone</a></li>
+    <li><a href="#nixos--for-advanced-users-who-want-full-control">NixOS — For Advanced Users Who Want Full Control</a></li>
     <li><a href="#tails--leave-no-trace">Tails — Leave No Trace</a></li>
     <li><a href="#qubes-os--isolation-through-compartmentalization">Qubes OS — Isolation Through Compartmentalization</a></li>
     <li><a href="#which-should-you-use">Which Should You Use?</a></li>
@@ -2870,6 +2874,64 @@
  program installs Linux on refurbished computers for exactly this reason. If you have received a computer through our program, it is already running Linux.</p>
 <hr>
 
+<h2 class="relative group">nixbook — Set-and-Forget Linux for Everyone 
+    <div id="nixbook--set-and-forget-linux-for-everyone" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#nixbook--set-and-forget-linux-for-everyone" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p><strong>nixbook</strong> (<a
+  href="https://github.com/mkellyxp/nixbook"
+    target="_blank"
+  >github.com/mkellyxp/nixbook</a>
+) is built on top of NixOS but designed for people who never want to think about their operating system. The goal is a &ldquo;Chromebook-like&rdquo; experience: install it, forget about it, and it takes care of itself.</p>
+<p>It installs a familiar Cinnamon desktop (similar to Linux Mint), Firefox, LibreOffice, and Zoom out of the box. Updates happen automatically every week and apply on reboot. If an update ever breaks something, the system can roll back up to four weeks — without any user intervention or technical knowledge required.</p>
+<p><strong>Why it matters for community use:</strong></p>
+<ul>
+<li>Works on old hardware, including Chromebooks</li>
+<li>Two versions: <strong>nixbook</strong> (4 GB RAM / 32 GB storage recommended) and <strong>nixbook lite</strong> (2 GB RAM)</li>
+<li>A <strong>Powerwash</strong> option wipes personal data cleanly — useful when passing a computer to someone new</li>
+<li>Auto-updates mean community members don&rsquo;t fall behind on security patches</li>
+<li>No telemetry, no Microsoft or Apple data collection</li>
+</ul>
+<p>This makes nixbook a strong candidate for the computers the Collective distributes through <a
+  href="/projects/upcycle/">UpRiv|Upcycle</a>
+ — easier to hand to someone and know it will stay current.</p>
+<p><strong>One important caveat: nixbook does not currently support full disk encryption.</strong> For most everyday users this is an acceptable trade-off. If you need encryption, NixOS and Ubuntu both support full disk encryption during installation and are solid choices for privacy-conscious everyday use. If you are in a high-risk situation where device seizure is a real concern, use Tails or Qubes instead.</p>
+<p><strong><a
+  href="https://s3.membervaultcdn.com/nixbook/nixbook-installer-25.11.iso"
+    target="_blank"
+  >Download nixbook ISO →</a>
+</strong></p>
+<hr>
+
+<h2 class="relative group">NixOS — For Advanced Users Who Want Full Control 
+    <div id="nixos--for-advanced-users-who-want-full-control" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#nixos--for-advanced-users-who-want-full-control" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p><strong>NixOS</strong> (<a
+  href="https://nixos.org"
+    target="_blank"
+  >nixos.org</a>
+) is the foundation nixbook is built on, and worth understanding on its own terms for technically sophisticated users. Where nixbook abstracts the complexity away, NixOS exposes it — and that is the point.</p>
+<p>NixOS is <strong>declarative</strong>: the entire state of the system is defined in a single text file. Every installed package, every running service, every configuration option is auditable, shareable, and exactly reproducible on another machine. If you want to know precisely what your computer is doing and why, NixOS gives you that.</p>
+<ul>
+<li><strong>Atomic upgrades with rollback</strong> — broken update? Boot into the previous generation from the boot menu.</li>
+<li><strong>Immutable software store</strong> — packages cannot be silently modified after install, reducing supply chain attack surface.</li>
+<li><strong>Reproducible builds</strong> — working toward independently verifiable binaries.</li>
+<li><strong>No telemetry.</strong></li>
+</ul>
+<p>NixOS is not a beginner OS. It has its own configuration language and a real learning curve. It is the right choice for people who want maximum transparency and are comfortable building and maintaining their own system configuration.</p>
+<hr>
+
 <h2 class="relative group">Tails — Leave No Trace 
     <div id="tails--leave-no-trace" class="anchor"></div>
     
@@ -2945,12 +3007,20 @@
   </thead>
   <tbody>
       <tr>
-          <td>Everyday privacy-conscious use</td>
-          <td>Linux Mint or Ubuntu</td>
+          <td>Everyday use, non-technical user</td>
+          <td>nixbook</td>
+      </tr>
+      <tr>
+          <td>Everyday use, want full disk encryption</td>
+          <td>Ubuntu or NixOS</td>
       </tr>
       <tr>
           <td>Received a Collective computer</td>
           <td>Already running Linux — you&rsquo;re set</td>
+      </tr>
+      <tr>
+          <td>Want full auditability and reproducibility</td>
+          <td>NixOS</td>
       </tr>
       <tr>
           <td>Need to work on a potentially compromised machine</td>

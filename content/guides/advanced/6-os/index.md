@@ -36,6 +36,42 @@ Linux runs well on most computers from the past decade — including hardware th
 
 ---
 
+## nixbook — Set-and-Forget Linux for Everyone
+
+**nixbook** ([github.com/mkellyxp/nixbook](https://github.com/mkellyxp/nixbook)) is built on top of NixOS but designed for people who never want to think about their operating system. The goal is a "Chromebook-like" experience: install it, forget about it, and it takes care of itself.
+
+It installs a familiar Cinnamon desktop (similar to Linux Mint), Firefox, LibreOffice, and Zoom out of the box. Updates happen automatically every week and apply on reboot. If an update ever breaks something, the system can roll back up to four weeks — without any user intervention or technical knowledge required.
+
+**Why it matters for community use:**
+- Works on old hardware, including Chromebooks
+- Two versions: **nixbook** (4 GB RAM / 32 GB storage recommended) and **nixbook lite** (2 GB RAM)
+- A **Powerwash** option wipes personal data cleanly — useful when passing a computer to someone new
+- Auto-updates mean community members don't fall behind on security patches
+- No telemetry, no Microsoft or Apple data collection
+
+This makes nixbook a strong candidate for the computers the Collective distributes through [UpRiv\|Upcycle](/projects/upcycle/) — easier to hand to someone and know it will stay current.
+
+**One important caveat: nixbook does not currently support full disk encryption.** For most everyday users this is an acceptable trade-off. If you need encryption, NixOS and Ubuntu both support full disk encryption during installation and are solid choices for privacy-conscious everyday use. If you are in a high-risk situation where device seizure is a real concern, use Tails or Qubes instead.
+
+**[Download nixbook ISO →](https://s3.membervaultcdn.com/nixbook/nixbook-installer-25.11.iso)**
+
+---
+
+## NixOS — For Advanced Users Who Want Full Control
+
+**NixOS** ([nixos.org](https://nixos.org)) is the foundation nixbook is built on, and worth understanding on its own terms for technically sophisticated users. Where nixbook abstracts the complexity away, NixOS exposes it — and that is the point.
+
+NixOS is **declarative**: the entire state of the system is defined in a single text file. Every installed package, every running service, every configuration option is auditable, shareable, and exactly reproducible on another machine. If you want to know precisely what your computer is doing and why, NixOS gives you that.
+
+- **Atomic upgrades with rollback** — broken update? Boot into the previous generation from the boot menu.
+- **Immutable software store** — packages cannot be silently modified after install, reducing supply chain attack surface.
+- **Reproducible builds** — working toward independently verifiable binaries.
+- **No telemetry.**
+
+NixOS is not a beginner OS. It has its own configuration language and a real learning curve. It is the right choice for people who want maximum transparency and are comfortable building and maintaining their own system configuration.
+
+---
+
 ## Tails — Leave No Trace
 
 **Tails** is a Linux-based operating system designed for a specific purpose: **leave no trace on the computer you use it on.**
@@ -79,8 +115,10 @@ Qubes is considered by many security researchers to be the most secure desktop O
 
 | Situation | Recommendation |
 |---|---|
-| Everyday privacy-conscious use | Linux Mint or Ubuntu |
+| Everyday use, non-technical user | nixbook |
+| Everyday use, want full disk encryption | Ubuntu or NixOS |
 | Received a Collective computer | Already running Linux — you're set |
+| Want full auditability and reproducibility | NixOS |
 | Need to work on a potentially compromised machine | Tails from USB |
 | High-risk situation, sophisticated adversary | Qubes OS |
 | Need to leave absolutely no trace | Tails |
