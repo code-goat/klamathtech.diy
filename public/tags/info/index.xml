@@ -2,73 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Info on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
-    <link>http://localhost:1313/tags/info/</link>
+    <link>https://klamathtech.diy/tags/info/</link>
     <description>Recent content in Info on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
-    <copyright>© 2025 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <atom:link href="http://localhost:1313/tags/info/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
+    <atom:link href="https://klamathtech.diy/tags/info/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://klamathtech.diy/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://klamathtech.diy/about/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/about/feature.png" />
+    </item>
+    
+    <item>
+      <title>Age Verification Laws: Why &#39;Protecting Kids Online&#39; Is the Wrong Tool</title>
+      <link>https://klamathtech.diy/info/age_verification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/info/age_verification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI Reality Check: Staying Grounded in the Age of Machine Hype</title>
+      <link>https://klamathtech.diy/info/ai_literacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/info/ai_literacy/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>Neo-Luddism: Peasant Revolts Against Predatory Technology</title>
-      <link>http://localhost:1313/info/technofeudalism/</link>
+      <link>https://klamathtech.diy/info/technofeudalism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/technofeudalism/</guid>
+      <guid>https://klamathtech.diy/info/technofeudalism/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technofeudalism/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/technofeudalism/feature.jpg" />
     </item>
     
     <item>
       <title>Technocolonialism: Digital Empires and the Legacy of Colonialism</title>
-      <link>http://localhost:1313/info/technocolonialism/</link>
+      <link>https://klamathtech.diy/info/technocolonialism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/technocolonialism/</guid>
+      <guid>https://klamathtech.diy/info/technocolonialism/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technocolonialism/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/technocolonialism/feature.png" />
     </item>
     
     <item>
       <title>The History of Hacker Culture</title>
-      <link>http://localhost:1313/info/hacker_manifesto/</link>
+      <link>https://klamathtech.diy/info/hacker_manifesto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/hacker_manifesto/</guid>
+      <guid>https://klamathtech.diy/info/hacker_manifesto/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/hacker_manifesto/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/hacker_manifesto/feature.png" />
+    </item>
+    
+    <item>
+      <title>The Reverse Centaur: Who Does Technology Work For?</title>
+      <link>https://klamathtech.diy/info/reverse_centaur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/info/reverse_centaur/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>What is &#39;Data Back&#39;?</title>
-      <link>http://localhost:1313/info/data_back/</link>
+      <link>https://klamathtech.diy/info/data_back/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/data_back/</guid>
+      <guid>https://klamathtech.diy/info/data_back/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/data_back/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/data_back/feature.png" />
     </item>
     
     <item>
       <title>What is a &#39;Feminist Server Stack&#39;?</title>
-      <link>http://localhost:1313/info/femme_srv/</link>
+      <link>https://klamathtech.diy/info/femme_srv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/femme_srv/</guid>
+      <guid>https://klamathtech.diy/info/femme_srv/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/femme_srv/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/femme_srv/feature.png" />
     </item>
     
   </channel>

@@ -2,23 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advanced Privacy on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
-    <link>http://localhost:1313/series/advanced-privacy/</link>
+    <link>https://klamathtech.diy/series/advanced-privacy/</link>
     <description>Recent content in Advanced Privacy on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
-    <copyright>© 2025 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/advanced-privacy/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/series/advanced-privacy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Advanced Privacy</title>
-      <link>http://localhost:1313/guides/advanced/</link>
+      <title>2.01 Threat Modeling</title>
+      <link>https://klamathtech.diy/guides/advanced/1-threat-model/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/advanced/</guid>
+      <guid>https://klamathtech.diy/guides/advanced/1-threat-model/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/advanced/feature.png" />
+      
+    </item>
+    
+    <item>
+      <title>2.02 VPNs</title>
+      <link>https://klamathtech.diy/guides/advanced/2-vpn/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/2-vpn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2.03 Tor</title>
+      <link>https://klamathtech.diy/guides/advanced/3-tor/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/3-tor/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2.04 I2P</title>
+      <link>https://klamathtech.diy/guides/advanced/4-i2p/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/4-i2p/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2.05 SimpleX Chat</title>
+      <link>https://klamathtech.diy/guides/advanced/5-simplex/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/5-simplex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2.06 Secure Operating Systems</title>
+      <link>https://klamathtech.diy/guides/advanced/6-os/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/6-os/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2.07 Mobile Devices</title>
+      <link>https://klamathtech.diy/guides/advanced/7-mobile/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/7-mobile/</guid>
+      <description></description>
+      
     </item>
     
   </channel>

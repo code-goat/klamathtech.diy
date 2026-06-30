@@ -2,141 +2,221 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://klamathtech.diy/tags/</link>
     <description>Recent content in Tags on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
-    <copyright>© 2025 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/tags/about/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <title>Android</title>
+      <link>https://klamathtech.diy/tags/android/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/about/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/tags/projects/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/projects/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Service</title>
-      <link>http://localhost:1313/tags/service/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/service/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Advanced</title>
-      <link>http://localhost:1313/tags/advanced/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/advanced/</guid>
+      <guid>https://klamathtech.diy/tags/android/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Guides</title>
-      <link>http://localhost:1313/tags/guides/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <link>https://klamathtech.diy/tags/guides/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/guides/</guid>
+      <guid>https://klamathtech.diy/tags/guides/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Privacy 101</title>
-      <link>http://localhost:1313/tags/privacy-101/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <title>Mobile Privacy</title>
+      <link>https://klamathtech.diy/tags/mobile-privacy/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/privacy-101/</guid>
+      <guid>https://klamathtech.diy/tags/mobile-privacy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Skills</title>
-      <link>http://localhost:1313/tags/skills/</link>
+      <link>https://klamathtech.diy/tags/skills/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/skills/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://klamathtech.diy/tags/about/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://klamathtech.diy/tags/projects/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://klamathtech.diy/tags/service/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/service/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Advanced</title>
+      <link>https://klamathtech.diy/tags/advanced/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/skills/</guid>
+      <guid>https://klamathtech.diy/tags/advanced/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy 101</title>
+      <link>https://klamathtech.diy/tags/privacy-101/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/privacy-101/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://klamathtech.diy/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Collective</title>
-      <link>http://localhost:1313/tags/collective/</link>
+      <link>https://klamathtech.diy/tags/collective/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/collective/</guid>
+      <guid>https://klamathtech.diy/tags/collective/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Digital Literacy</title>
+      <link>https://klamathtech.diy/tags/digital-literacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/digital-literacy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Digital Rights</title>
+      <link>https://klamathtech.diy/tags/digital-rights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/digital-rights/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docs</title>
-      <link>http://localhost:1313/tags/docs/</link>
+      <link>https://klamathtech.diy/tags/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/docs/</guid>
+      <guid>https://klamathtech.diy/tags/docs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Free Speech</title>
+      <link>https://klamathtech.diy/tags/free-speech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/free-speech/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Info</title>
-      <link>http://localhost:1313/tags/info/</link>
+      <link>https://klamathtech.diy/tags/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/info/</guid>
+      <guid>https://klamathtech.diy/tags/info/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Labor</title>
+      <link>https://klamathtech.diy/tags/labor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/labor/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mailing List</title>
-      <link>http://localhost:1313/tags/mailing-list/</link>
+      <link>https://klamathtech.diy/tags/mailing-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/mailing-list/</guid>
+      <guid>https://klamathtech.diy/tags/mailing-list/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Policy</title>
+      <link>https://klamathtech.diy/tags/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/tags/policy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Subscribe</title>
-      <link>http://localhost:1313/tags/subscribe/</link>
+      <link>https://klamathtech.diy/tags/subscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/subscribe/</guid>
+      <guid>https://klamathtech.diy/tags/subscribe/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Writings</title>
-      <link>http://localhost:1313/tags/writings/</link>
+      <link>https://klamathtech.diy/tags/writings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/tags/writings/</guid>
+      <guid>https://klamathtech.diy/tags/writings/</guid>
       <description></description>
       
     </item>

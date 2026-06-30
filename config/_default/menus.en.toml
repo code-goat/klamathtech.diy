@@ -22,19 +22,19 @@ weight = 10
 
 [[main]]
 name = "Projects"
-pre = "fork"
+pre = "heart"
 pageRef = "projects"
 weight = 20
 
 [[main]]
 name = "Info/Writings"
-pre = "edit"
+pre = "lightbulb"
 pageRef = "info"
 weight = 30
 
 [[main]]
 name = "Howto/Guides"
-pre = "bars"
+pre = "shield"
 pageref = "guides"
 weight = 40
 
@@ -50,14 +50,14 @@ weight = 10
 
 [[main]]
 name = "UpRiv|Upcycle: Community E-Waste Reclamation Program"
-pre = "fork"
+pre = "sun"
 parent = "Projects"
 pageRef = "projects/upcycle"
 weight = 20
 
 [[main]]
 name = "Community-Owned Media"
-pre = "youtube"
+pre = "rss-square"
 parent = "Projects"
 pageRef = "projects/media"
 weight = 30
@@ -71,7 +71,7 @@ weight = 40
 
 [[main]]
 name = "Solar-Powered, Mutual-Aid Comms Network"
-pre = "rss"
+pre = "globe"
 parent = "Projects"
 pageRef = "projects/mesh"
 weight = 50
@@ -88,87 +88,112 @@ weight = 60
 
 [[main]]
 name = "Privacy 101"
-pre = "ghost"
+pre = "lock"
 parent = "Howto/Guides"
 pageRef = "guides/privacy101/1-intro/"
-weight = 20
+weight = 10
 
 [[main]]
 name = "Advanced Privacy"
 pre = "pgpkey"
 parent = "Howto/Guides"
-pageRef = "guides/advanced"
+pageRef = "guides/advanced/1-threat-model/"
+weight = 20
+
+[[main]]
+name = "Android Privacy Guide"
+pre = "phone"
+parent = "Howto/Guides"
+pageRef = "guides/android"
 weight = 30
 
 #
 ## Info/Writings
 
 [[main]]
-name = "Hacker Culture"
-pre = "edit"
-parent = "Info/Writings"
-pageRef = "info/hacker_manifesto"
-weight = 20
-
-[[main]]
 name = "Points of Unity"
-pre = "edit"
+pre = "scale-balanced"
 parent = "Info/Writings"
 pageRef = "info/points_of_unity"
 weight = 10
 
 [[main]]
-name = "What is Techno-Colonialism?"
-pre = "edit"
+name = "AI Reality Check"
+pre = "eye"
 parent = "Info/Writings"
-pageRef = "info/technocolonialism"
+pageRef = "info/ai_literacy"
 weight = 20
 
 [[main]]
-name = "What is #Data Back?"
-pre = "edit"
+name = "The Reverse Centaur"
+pre = "triangle-exclamation"
 parent = "Info/Writings"
-pageRef = "info/data_back"
+pageRef = "info/reverse_centaur"
+weight = 22
+
+[[main]]
+name = "What is Techno-Colonialism?"
+pre = "globe"
+parent = "Info/Writings"
+pageRef = "info/technocolonialism"
 weight = 30
 
 [[main]]
 name = "Neo-Luddism: Peasant Revolts Against Predatory Tech"
-pre = "edit"
+pre = "fire"
 parent = "Info/Writings"
 pageRef = "info/technofeudalism"
 weight = 40
 
 [[main]]
-name = "What is a 'Feminist Server Stack'?"
-pre = "edit"
+name = "What is #Data Back?"
+pre = "shield"
 parent = "Info/Writings"
-pageRef = "info/femme_srv"
+pageRef = "info/data_back"
+weight = 50
+
+[[main]]
+name = "Age Verification Laws"
+pre = "triangle-exclamation"
+parent = "Info/Writings"
+pageRef = "info/age_verification"
 weight = 60
 
+[[main]]
+name = "What is a 'Feminist Server Stack'?"
+pre = "heart"
+parent = "Info/Writings"
+pageRef = "info/femme_srv"
+weight = 70
 
- [[main]]
- name = "Maker Space Culture"
- pre = "edit"
- parent = "Info/Writings"
- pageRef = "info/makers"
- weight = 60
+[[main]]
+name = "Hacker Culture"
+pre = "bug"
+parent = "Info/Writings"
+pageRef = "info/hacker_manifesto"
+weight = 80
+
+[[main]]
+name = "Maker Space Culture"
+pre = "wand-magic-sparkles"
+parent = "Info/Writings"
+pageRef = "info/makers"
+weight = 90
 
 [[main]]
 name = "Modern-day Oracles or Bullshit Machines: How to thrive in a ChatGPT world"
-pre = "edit"
+pre = "poo"
 parent = "Info/Writings"
 url = "https://thebullshitmachines.com/index.html"
-weight = 60
+weight = 100
 
 #
 ## SUB-NAV
 
 [[subnavigation]]
-  #name = "🅂🅄🄱🅂🄲🅁🄸🄱🄴"
   name = "SUBSCRIBE"
   pre = "envelope"
   pageRef = "subscribe"
-  #url = "https://list.klamathtech.diy/subscription/form"
   weight = 30
 
 [[subnavigation]]
@@ -179,21 +204,9 @@ weight = 60
 #  #url = "https://list.klamathtech.diy/subscription/form"
 #  weight = 20
 
-#[[main]]
-#name = "Categories"
-#pageRef = "categories"
-#weight = 20
-
-#[[main]]
-#name = "Tags"
-#pageRef = "tags"
-#weight = 30
-
-
 #-- Footer Menu --
 #The footer menu is displayed at the bottom of the page, just before
 #the copyright notice. Configure as per the main menu above.
-
 
 [[footer]]
 name = "Tags"
@@ -208,4 +221,4 @@ weight = 20
 [[footer]]
 name = "Authors"
 pageRef = "authors"
-weight = 20
+weight = 30

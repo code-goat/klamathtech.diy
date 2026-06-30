@@ -3,170 +3,233 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/projects/workshops/</loc>
+    <loc>https://klamathtech.diy/guides/android/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/projects/workshops/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/media/</loc>
+    <loc>https://klamathtech.diy/projects/media/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/code-camp/</loc>
+    <loc>https://klamathtech.diy/projects/code-camp/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/mesh/</loc>
+    <loc>https://klamathtech.diy/projects/mesh/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/secure-shred/</loc>
+    <loc>https://klamathtech.diy/projects/secure-shred/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/upcycle/</loc>
+    <loc>https://klamathtech.diy/projects/upcycle/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/privacy101/1-intro/</loc>
+    <loc>https://klamathtech.diy/guides/privacy101/1-intro/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/advanced/</loc>
+    <loc>https://klamathtech.diy/guides/advanced/1-threat-model/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://klamathtech.diy/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/subscribe/</loc>
+    <loc>https://klamathtech.diy/info/age_verification/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/info/technofeudalism/</loc>
+    <loc>https://klamathtech.diy/info/ai_literacy/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/info/points_of_unity/</loc>
+    <loc>https://klamathtech.diy/subscribe/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/info/technocolonialism/</loc>
+    <loc>https://klamathtech.diy/info/technofeudalism/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/info/hacker_manifesto/</loc>
+    <loc>https://klamathtech.diy/info/points_of_unity/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/info/data_back/</loc>
+    <loc>https://klamathtech.diy/info/technocolonialism/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/info/femme_srv/</loc>
+    <loc>https://klamathtech.diy/info/hacker_manifesto/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/privacy101/2-browser/</loc>
-    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
+    <loc>https://klamathtech.diy/info/reverse_centaur/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/privacy101/3-search/</loc>
-    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
+    <loc>https://klamathtech.diy/info/data_back/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/privacy101/4-password_manager/</loc>
+    <loc>https://klamathtech.diy/info/femme_srv/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/guides/advanced/2-vpn/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/privacy101/5-email/</loc>
+    <loc>https://klamathtech.diy/guides/privacy101/2-browser/</loc>
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/privacy101/6-messaging/</loc>
-    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/info/</loc>
-    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/info/makers/</loc>
-    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/guides/</loc>
+    <loc>https://klamathtech.diy/guides/advanced/3-tor/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/fern/</loc>
+    <loc>https://klamathtech.diy/guides/privacy101/3-search/</loc>
+    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/_index-bak/</loc>
+    <loc>https://klamathtech.diy/guides/privacy101/4-password_manager/</loc>
+    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/collective/</loc>
+    <loc>https://klamathtech.diy/guides/advanced/4-i2p/</loc>
+    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/news/</loc>
+    <loc>https://klamathtech.diy/guides/advanced/5-simplex/</loc>
+    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/guides/privacy101/5-email/</loc>
+    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/guides/advanced/6-os/</loc>
+    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/guides/privacy101/6-messaging/</loc>
+    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/guides/advanced/7-mobile/</loc>
+    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/guides/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/projects/</loc>
+    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/info/</loc>
+    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/info/makers/</loc>
+    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/guides/advanced/</loc>
+    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/authors/fern/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/_index-bak/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/authors/collective/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/news/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

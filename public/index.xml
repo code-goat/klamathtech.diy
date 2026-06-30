@@ -2,263 +2,363 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Klamath River Tech Collective on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
-    <link>http://localhost:1313/</link>
+    <link>https://klamathtech.diy/</link>
     <description>Recent content in Klamath River Tech Collective on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
-    <copyright>© 2025 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Android Privacy: From Stock to Sovereign</title>
+      <link>https://klamathtech.diy/guides/android/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/android/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Community Workshops &amp; Trainings</title>
-      <link>http://localhost:1313/projects/workshops/</link>
+      <link>https://klamathtech.diy/projects/workshops/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/projects/workshops/</guid>
+      <guid>https://klamathtech.diy/projects/workshops/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/workshops/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/projects/workshops/feature.png" />
     </item>
     
     <item>
       <title>Community-Owned Media</title>
-      <link>http://localhost:1313/projects/media/</link>
+      <link>https://klamathtech.diy/projects/media/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/projects/media/</guid>
+      <guid>https://klamathtech.diy/projects/media/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/media/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/projects/media/feature.png" />
     </item>
     
     <item>
       <title>Hack &amp; Code Camp</title>
-      <link>http://localhost:1313/projects/code-camp/</link>
+      <link>https://klamathtech.diy/projects/code-camp/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/projects/code-camp/</guid>
+      <guid>https://klamathtech.diy/projects/code-camp/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/code-camp/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/projects/code-camp/feature.png" />
     </item>
     
     <item>
       <title>Mutual-Aid Comms Network</title>
-      <link>http://localhost:1313/projects/mesh/</link>
+      <link>https://klamathtech.diy/projects/mesh/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/projects/mesh/</guid>
+      <guid>https://klamathtech.diy/projects/mesh/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mesh/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/projects/mesh/feature.png" />
     </item>
     
     <item>
       <title>Secure Data Erasure Service</title>
-      <link>http://localhost:1313/projects/secure-shred/</link>
+      <link>https://klamathtech.diy/projects/secure-shred/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/projects/secure-shred/</guid>
+      <guid>https://klamathtech.diy/projects/secure-shred/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/secure-shred/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/projects/secure-shred/feature.png" />
     </item>
     
     <item>
       <title>UpRiv|Upcycle: Community E-Waste Reclamation Program</title>
-      <link>http://localhost:1313/projects/upcycle/</link>
+      <link>https://klamathtech.diy/projects/upcycle/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/projects/upcycle/</guid>
+      <guid>https://klamathtech.diy/projects/upcycle/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/upcycle/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/projects/upcycle/feature.png" />
     </item>
     
     <item>
       <title>1.01 Privacy - Intro</title>
-      <link>http://localhost:1313/guides/privacy101/1-intro/</link>
+      <link>https://klamathtech.diy/guides/privacy101/1-intro/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/1-intro/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/1-intro/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/1-intro/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/1-intro/feature.png" />
     </item>
     
     <item>
-      <title>Advanced Privacy</title>
-      <link>http://localhost:1313/guides/advanced/</link>
+      <title>2.01 Threat Modeling</title>
+      <link>https://klamathtech.diy/guides/advanced/1-threat-model/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/advanced/</guid>
+      <guid>https://klamathtech.diy/guides/advanced/1-threat-model/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/advanced/feature.png" />
+      
     </item>
     
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://klamathtech.diy/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://klamathtech.diy/about/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/about/feature.png" />
+    </item>
+    
+    <item>
+      <title>Age Verification Laws: Why &#39;Protecting Kids Online&#39; Is the Wrong Tool</title>
+      <link>https://klamathtech.diy/info/age_verification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/info/age_verification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI Reality Check: Staying Grounded in the Age of Machine Hype</title>
+      <link>https://klamathtech.diy/info/ai_literacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/info/ai_literacy/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>Mailing List</title>
-      <link>http://localhost:1313/subscribe/</link>
+      <link>https://klamathtech.diy/subscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/subscribe/</guid>
+      <guid>https://klamathtech.diy/subscribe/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/subscribe/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/subscribe/feature.jpg" />
     </item>
     
     <item>
       <title>Neo-Luddism: Peasant Revolts Against Predatory Technology</title>
-      <link>http://localhost:1313/info/technofeudalism/</link>
+      <link>https://klamathtech.diy/info/technofeudalism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/technofeudalism/</guid>
+      <guid>https://klamathtech.diy/info/technofeudalism/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technofeudalism/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/technofeudalism/feature.jpg" />
     </item>
     
     <item>
       <title>Points of Unity</title>
-      <link>http://localhost:1313/info/points_of_unity/</link>
+      <link>https://klamathtech.diy/info/points_of_unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/points_of_unity/</guid>
+      <guid>https://klamathtech.diy/info/points_of_unity/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/points_of_unity/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/points_of_unity/feature.png" />
     </item>
     
     <item>
       <title>Technocolonialism: Digital Empires and the Legacy of Colonialism</title>
-      <link>http://localhost:1313/info/technocolonialism/</link>
+      <link>https://klamathtech.diy/info/technocolonialism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/technocolonialism/</guid>
+      <guid>https://klamathtech.diy/info/technocolonialism/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/technocolonialism/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/technocolonialism/feature.png" />
     </item>
     
     <item>
       <title>The History of Hacker Culture</title>
-      <link>http://localhost:1313/info/hacker_manifesto/</link>
+      <link>https://klamathtech.diy/info/hacker_manifesto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/hacker_manifesto/</guid>
+      <guid>https://klamathtech.diy/info/hacker_manifesto/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/hacker_manifesto/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/hacker_manifesto/feature.png" />
+    </item>
+    
+    <item>
+      <title>The Reverse Centaur: Who Does Technology Work For?</title>
+      <link>https://klamathtech.diy/info/reverse_centaur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/info/reverse_centaur/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>What is &#39;Data Back&#39;?</title>
-      <link>http://localhost:1313/info/data_back/</link>
+      <link>https://klamathtech.diy/info/data_back/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/data_back/</guid>
+      <guid>https://klamathtech.diy/info/data_back/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/data_back/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/data_back/feature.png" />
     </item>
     
     <item>
       <title>What is a &#39;Feminist Server Stack&#39;?</title>
-      <link>http://localhost:1313/info/femme_srv/</link>
+      <link>https://klamathtech.diy/info/femme_srv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/femme_srv/</guid>
+      <guid>https://klamathtech.diy/info/femme_srv/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/femme_srv/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/femme_srv/feature.png" />
+    </item>
+    
+    <item>
+      <title>2.02 VPNs</title>
+      <link>https://klamathtech.diy/guides/advanced/2-vpn/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/2-vpn/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>1.02 Internet Browser</title>
-      <link>http://localhost:1313/guides/privacy101/2-browser/</link>
+      <link>https://klamathtech.diy/guides/privacy101/2-browser/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/2-browser/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/2-browser/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/2-browser/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/2-browser/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2.03 Tor</title>
+      <link>https://klamathtech.diy/guides/advanced/3-tor/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/3-tor/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>1.03 Search Engine</title>
-      <link>http://localhost:1313/guides/privacy101/3-search/</link>
+      <link>https://klamathtech.diy/guides/privacy101/3-search/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/3-search/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/3-search/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/3-search/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/3-search/feature.jpg" />
     </item>
     
     <item>
       <title>1.04 Password Manager</title>
-      <link>http://localhost:1313/guides/privacy101/4-password_manager/</link>
+      <link>https://klamathtech.diy/guides/privacy101/4-password_manager/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/4-password_manager/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/4-password_manager/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/4-password_manager/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/4-password_manager/feature.png" />
+    </item>
+    
+    <item>
+      <title>2.04 I2P</title>
+      <link>https://klamathtech.diy/guides/advanced/4-i2p/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/4-i2p/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2.05 SimpleX Chat</title>
+      <link>https://klamathtech.diy/guides/advanced/5-simplex/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/5-simplex/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>1.05 Email</title>
-      <link>http://localhost:1313/guides/privacy101/5-email/</link>
+      <link>https://klamathtech.diy/guides/privacy101/5-email/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/5-email/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/5-email/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/5-email/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/5-email/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2.06 Secure Operating Systems</title>
+      <link>https://klamathtech.diy/guides/advanced/6-os/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/6-os/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>1.06 Messaging</title>
-      <link>http://localhost:1313/guides/privacy101/6-messaging/</link>
+      <link>https://klamathtech.diy/guides/privacy101/6-messaging/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/6-messaging/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/6-messaging/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/6-messaging/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/6-messaging/feature.jpg" />
     </item>
     
     <item>
-      <title>Maker Spaces_edit</title>
-      <link>http://localhost:1313/info/makers/</link>
+      <title>2.07 Mobile Devices</title>
+      <link>https://klamathtech.diy/guides/advanced/7-mobile/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/7-mobile/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Maker Spaces</title>
+      <link>https://klamathtech.diy/info/makers/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/makers/</guid>
+      <guid>https://klamathtech.diy/info/makers/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/makers/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/makers/feature.png" />
     </item>
     
     <item>
       <title>Fern</title>
-      <link>http://localhost:1313/authors/fern/</link>
+      <link>https://klamathtech.diy/authors/fern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/authors/fern/</guid>
+      <guid>https://klamathtech.diy/authors/fern/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/authors/fern/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/authors/fern/feature.png" />
     </item>
     
     <item>
       <title>Klamath River Tech Collective</title>
-      <link>http://localhost:1313/_index-bak/</link>
+      <link>https://klamathtech.diy/_index-bak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/_index-bak/</guid>
+      <guid>https://klamathtech.diy/_index-bak/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Klamath Tech Collective</title>
-      <link>http://localhost:1313/authors/collective/</link>
+      <link>https://klamathtech.diy/authors/collective/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/authors/collective/</guid>
+      <guid>https://klamathtech.diy/authors/collective/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/authors/collective/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/authors/collective/feature.png" />
     </item>
     
   </channel>

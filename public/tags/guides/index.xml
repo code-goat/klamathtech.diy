@@ -2,83 +2,163 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guides on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
-    <link>http://localhost:1313/tags/guides/</link>
+    <link>https://klamathtech.diy/tags/guides/</link>
     <description>Recent content in Guides on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
-    <copyright>© 2025 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/guides/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/guides/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>1.01 Privacy - Intro</title>
-      <link>http://localhost:1313/guides/privacy101/1-intro/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <title>Android Privacy: From Stock to Sovereign</title>
+      <link>https://klamathtech.diy/guides/android/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/1-intro/</guid>
+      <guid>https://klamathtech.diy/guides/android/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/1-intro/feature.png" />
+      
     </item>
     
     <item>
-      <title>Advanced Privacy</title>
-      <link>http://localhost:1313/guides/advanced/</link>
+      <title>1.01 Privacy - Intro</title>
+      <link>https://klamathtech.diy/guides/privacy101/1-intro/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/advanced/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/1-intro/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/advanced/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/1-intro/feature.png" />
+    </item>
+    
+    <item>
+      <title>2.01 Threat Modeling</title>
+      <link>https://klamathtech.diy/guides/advanced/1-threat-model/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/1-threat-model/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2.02 VPNs</title>
+      <link>https://klamathtech.diy/guides/advanced/2-vpn/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/2-vpn/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>1.02 Internet Browser</title>
-      <link>http://localhost:1313/guides/privacy101/2-browser/</link>
+      <link>https://klamathtech.diy/guides/privacy101/2-browser/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/2-browser/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/2-browser/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/2-browser/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/2-browser/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2.03 Tor</title>
+      <link>https://klamathtech.diy/guides/advanced/3-tor/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/3-tor/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>1.03 Search Engine</title>
-      <link>http://localhost:1313/guides/privacy101/3-search/</link>
+      <link>https://klamathtech.diy/guides/privacy101/3-search/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/3-search/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/3-search/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/3-search/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/3-search/feature.jpg" />
     </item>
     
     <item>
       <title>1.04 Password Manager</title>
-      <link>http://localhost:1313/guides/privacy101/4-password_manager/</link>
+      <link>https://klamathtech.diy/guides/privacy101/4-password_manager/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/4-password_manager/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/4-password_manager/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/4-password_manager/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/4-password_manager/feature.png" />
+    </item>
+    
+    <item>
+      <title>2.04 I2P</title>
+      <link>https://klamathtech.diy/guides/advanced/4-i2p/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/4-i2p/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2.05 SimpleX Chat</title>
+      <link>https://klamathtech.diy/guides/advanced/5-simplex/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/5-simplex/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>1.05 Email</title>
-      <link>http://localhost:1313/guides/privacy101/5-email/</link>
+      <link>https://klamathtech.diy/guides/privacy101/5-email/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/5-email/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/5-email/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/5-email/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/5-email/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2.06 Secure Operating Systems</title>
+      <link>https://klamathtech.diy/guides/advanced/6-os/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/6-os/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>1.06 Messaging</title>
-      <link>http://localhost:1313/guides/privacy101/6-messaging/</link>
+      <link>https://klamathtech.diy/guides/privacy101/6-messaging/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/guides/privacy101/6-messaging/</guid>
+      <guid>https://klamathtech.diy/guides/privacy101/6-messaging/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/privacy101/6-messaging/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/guides/privacy101/6-messaging/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>2.07 Mobile Devices</title>
+      <link>https://klamathtech.diy/guides/advanced/7-mobile/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/7-mobile/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Advanced Privacy</title>
+      <link>https://klamathtech.diy/guides/advanced/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/guides/advanced/</guid>
+      <description></description>
+      
     </item>
     
   </channel>
