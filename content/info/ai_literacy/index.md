@@ -140,6 +140,7 @@ Use these for workshops, study circles, or conversations around the kitchen tabl
 
 ## Further Reading & Resources
 
+- [Animism, AI & Consciousness](/info/ai_animism/) — if animist traditions hold that rocks and rivers have spirit, does AI? A companion piece that approaches the question from a different direction
 - [AI Problems Index — Real Issues](https://ai-problems-index.vercel.app/real-issues) — documented AI harms and failures, updated regularly
 - *Technology and the Virtues* — Shannon Vallor (Oxford University Press)
 - *More Everything Forever* — Adam Becker

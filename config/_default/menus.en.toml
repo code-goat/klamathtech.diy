@@ -132,6 +132,13 @@ pageRef = "info/reverse_centaur"
 weight = 22
 
 [[main]]
+name = "Animism, AI & Consciousness"
+pre = "sun"
+parent = "Info/Writings"
+pageRef = "info/ai_animism"
+weight = 26
+
+[[main]]
 name = "What is Techno-Colonialism?"
 pre = "globe"
 parent = "Info/Writings"
