@@ -9,7 +9,7 @@
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <atom:link href="https://klamathtech.diy/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/history/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>From ARPANET to Sovereignty: A Critical History of the Internet</title>
@@ -19,6 +19,16 @@
       <guid>https://klamathtech.diy/info/internet_history/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/internet_history/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Surveillance Valley: The Secret Military History of the Internet</title>
+      <link>https://klamathtech.diy/links/surveillance-valley/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/surveillance-valley/</guid>
+      <description>Levine&amp;rsquo;s investigation into the ARPANET&amp;rsquo;s origins and the unbroken line between the internet&amp;rsquo;s military-surveillance roots and today&amp;rsquo;s tech industry. Essential background for anyone serious about understanding what the network actually is.</description>
+      
     </item>
     
   </channel>

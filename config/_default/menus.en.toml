@@ -211,6 +211,12 @@ weight = 100
   weight = 30
 
 [[subnavigation]]
+  name = "NEWS"
+  pre = "rss-square"
+  pageRef = "links"
+  weight = 25
+
+[[subnavigation]]
 #  name = "🄳🄾🄽🄰🅃🄴"
 #  name = "DONATE"
 #  pre = "donation"

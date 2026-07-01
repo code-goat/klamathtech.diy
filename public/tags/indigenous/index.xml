@@ -9,7 +9,7 @@
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <atom:link href="https://klamathtech.diy/tags/indigenous/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/indigenous/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>From ARPANET to Sovereignty: A Critical History of the Internet</title>
@@ -29,6 +29,16 @@
       <guid>https://klamathtech.diy/info/ai_animism/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/ai_animism/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Indigenous Mapping Collective</title>
+      <link>https://klamathtech.diy/links/indigenous-mapping-collective/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/indigenous-mapping-collective/</guid>
+      <description>Community-led mapping initiatives centering Indigenous peoples&amp;rsquo; relationships to land. A model for what it looks like when technically skilled people work in genuine solidarity — transferring capacity rather than extracting data.</description>
+      
     </item>
     
   </channel>

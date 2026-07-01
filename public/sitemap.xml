@@ -188,13 +188,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://klamathtech.diy/guides/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <loc>https://klamathtech.diy/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://klamathtech.diy/</loc>
+    <loc>https://klamathtech.diy/links/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://klamathtech.diy/guides/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
