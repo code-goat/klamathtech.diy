@@ -89,6 +89,8 @@ The Indigenous Data Alliance and Te Kāhui Raraunga (Māori Data Alliance) offer
 
 This is the counter to extractive tech — not just refusing AI, but building alternatives that are genuinely in relationship with community. Technology shaped by the community's own processes. Infrastructure that belongs somewhere and is accountable to someone who can be named.
 
+Legal scholars have arrived at related conclusions from a different direction. Salomé Viljoen argues that data production is fundamentally relational — it doesn't just describe individuals, it constitutes social relations between people, placing them into populations governed by whoever controls the data. Governing it justly requires democratic rather than individualist frameworks. The animist question — *what are this technology's obligations, and to whom?* — and the legal question — *who governs the relations it creates, and are those relations just?* — point the same direction.
+
 The Collective's work points in this direction. Refurbished computers running open-source software, placed in community hands — hardware the user controls, that cannot be remotely updated into a surveillance tool, that doesn't phone home to a corporation. Workshops that teach people to understand their tools. A mesh network that stays in community hands. None of this is as spectacular as a large language model. But it is, in the animist sense, more relational: it has obligations to the community it serves, it can be questioned and modified, it is accountable.
 
 A tool you own and understand has a different relationship to you than a tool that owns and understands you.
@@ -110,6 +112,7 @@ Both frameworks — materialist and animist — point the same direction: away f
 ## Further Reading
 
 - Kimmerer, Robin Wall. *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teaching of Plants.* Milkweed Editions, 2013.
+- Viljoen, Salomé. "A Relational Theory of Data Governance." *Yale Law Journal* 131:573, 2021.
 - Indigenous Data Alliance & Te Kāhui Raraunga Charitable Trust. *Relational Infrastructures for Sovereign Data Storage: Te Pā Tūwatawata.* IDA, 2026.
 - Duarte, Marisa Elena. *Network Sovereignty: Building the Internet Across Indian Country.* University of Washington Press, 2017.
 - Porębski, A. & Figura, J. "There is no such thing as conscious artificial intelligence." *Humanities and Social Sciences Communications*, 2025. — and our [AI Reality Check](/info/ai_literacy/) for the materialist case in full.

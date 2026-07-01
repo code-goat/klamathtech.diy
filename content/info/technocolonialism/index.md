@@ -32,6 +32,8 @@ Colonial powers often treated colonized lands as laboratories for experimentatio
 
 Much as the colonial powers justified their actions with rhetoric about “civilizing missions” and “progress,” today’s tech empires claim to be connecting the world, fostering development, and empowering the underserved. But beneath this benevolent veneer lies a system that perpetuates extraction, dependency, and cultural erasure-echoing the very dynamics of settler colonialism and imperial conquest[^2][^5].
 
+What digital self-determination requires, concretely, is moving from individual data-subject rights to democratic governance of the data relations that shape community life. Legal scholar Salomé Viljoen argues that data production is fundamentally *relational*: its real purpose and effect is not to collect information about individuals, but to place people into population-based relations with one another — relations that determine credit, insurance, policing, resource allocation, hiring, and representation. Those relations are governed by whoever controls the data. When technocolonialism controls the data infrastructure of a community or a territory, it governs those relations — not the community itself. The question data sovereignty asks is not "did I consent?" but "who governs the relations that data about us creates, and are those relations just?"[^14]
+
 To resist technocolonialism is to demand digital self-determination: the right of communities to control their own data, infrastructures, and technological futures. It is a call to decolonize the digital world, challenge extractive practices, and build technologies that serve the needs and values of all peoples-not just the interests of distant digital empires.[^8][^9][^10][^11][^12][^13]
 
 ---
@@ -48,3 +50,4 @@ To resist technocolonialism is to demand digital self-determination: the right o
 [^11]: [Colonialism and Science (University of Glasgow, PDF)](https://www.gla.ac.uk/media/Media_834239_smxx.pdf)
 [^12]: [Confronting colonial history: toward healing, just, and equitable conservation (Ecology & Society)](https://ecologyandsociety.org/vol30/iss1/art33/)
 [^13]: [M̓ṇúxvʔit model for centering Indigenous knowledge and governance (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11588997/)
+[^14]: Viljoen, Salomé. "A Relational Theory of Data Governance." *Yale Law Journal* 131:573, 2021.

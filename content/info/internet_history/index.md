@@ -97,6 +97,8 @@ When outside contractors and corporate platforms hold the technical infrastructu
 
 **Traditional ecological knowledge is not separable from the protocols that govern it.** In living Indigenous knowledge systems, knowing something comes with obligations about how that knowledge moves — who holds it, who may access it, under what circumstances it is shared, what relationships are required before it is disclosed. A database built by someone who doesn't understand these protocols will either exclude TEK entirely (because the contractor doesn't know how to ask) or incorporate it carelessly, stripping it of its relational context and making it available in ways the knowledge-holder never intended.
 
+There is also a structural problem with how data governance law approaches this. Data about land, species, traditional practices, and community members is routinely used by agencies, researchers, and corporations to generate population-level inferences that shape how the community is treated, governed, and resourced — decisions that fall on the whole group, not on individual data subjects. Legal scholar Salomé Viljoen calls this the **sociality problem**: current law governs the individual's relationship to a data collector, while the actual harm falls on the collective. Individual consent frameworks can't govern community data because community interests don't belong to any individual who can click "accept." What data sovereignty requires, structurally, is democratic governance of data at the community level — not better privacy settings.
+
 The person best positioned to build a database that properly handles Karuk traditional ecological knowledge is someone who already understands what that knowledge is, how it moves through the community, and what obligations surround it. That person may be a fisheries monitor, a language keeper, a fire practitioner, a basket weaver who also watches the birds. They can also learn to be a database administrator. A GIS analyst. A network administrator. A security practitioner. These are learnable skills — not magic, not reserved for a credentialed class of outsiders. They are tools, and tools can be taught.
 
 The skills that ecological and social sovereignty require right now include:
@@ -135,6 +137,7 @@ The internet was built by the Pentagon. Cypherpunks and Zapatistas and tribal br
 
 ## Further Reading
 
+- Viljoen, Salomé. "A Relational Theory of Data Governance." *Yale Law Journal* 131:573, 2021.
 - Levine, Yasha. *Surveillance Valley: The Secret Military History of the Internet.* PublicAffairs, 2018.
 - Rankin, Joy Lisi. *A People's History of Computing in the United States.* Harvard University Press, 2018.
 - Wu, Tim. *The Master Switch: The Rise and Fall of Information Empires.* Knopf, 2010.
