@@ -9,27 +9,25 @@
 
   <div class="divide-y divide-neutral-200 dark:divide-neutral-700">
     {{ range .Pages.ByDate.Reverse }}
-    <article class="py-5">
-      <a href="{{ .Params.externalUrl }}" target="_blank" rel="external noopener" class="group block">
-        <h2 class="text-base font-semibold text-neutral-800 dark:text-neutral group-hover:underline decoration-primary-500 underline-offset-2 leading-snug">
-          {{ .Title }}
-          <span class="text-xs align-top text-neutral-400 dark:text-neutral-500">&#8599;</span>
-        </h2>
-      </a>
-      <div class="mt-1 flex flex-wrap items-center gap-x-2 text-xs text-neutral-400 dark:text-neutral-500">
+    <article class="py-3">
+      <div class="flex flex-wrap items-baseline gap-x-2">
+        <a href="{{ .Params.externalUrl }}" target="_blank" rel="external noopener"
+           class="text-sm font-semibold text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+          {{ .Title }}<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+        </a>
         {{ with .Params.source }}
-        <span class="text-primary-600 dark:text-primary-400 font-medium">{{ . }}</span>
-        <span>·</span>
+        <span class="text-xs text-primary-600 dark:text-primary-400">{{ . }}</span>
         {{ end }}
-        <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-        {{ range .Params.tags }}
-        <span>·</span>
-        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="hover:text-primary-600 dark:hover:text-primary-400">{{ . }}</a>
-        {{ end }}
+        <span class="text-xs text-neutral-400 dark:text-neutral-500">{{ .Date.Format "Jan 2006" }}</span>
       </div>
       {{ with .Summary }}
-      <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-400 leading-relaxed">{{ . | plainify }}</p>
+      <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">{{ . | plainify | truncate 160 }}</p>
       {{ end }}
+      <div class="mt-1 flex flex-wrap gap-x-2 text-xs text-neutral-400 dark:text-neutral-500">
+        {{ range .Params.tags }}
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="hover:text-primary-600 dark:hover:text-primary-400">#{{ . }}</a>
+        {{ end }}
+      </div>
     </article>
     {{ end }}
   </div>
