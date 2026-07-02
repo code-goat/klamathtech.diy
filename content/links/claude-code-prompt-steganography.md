@@ -3,7 +3,7 @@ title: "Claude Code Prompt Steganography"
 date: 2026-07-01
 externalUrl: "https://thereallo.dev/blog/claude-code-prompt-steganography"
 source: "thereallo.dev"
-summary: "Security research examining how hidden instructions can be embedded in AI coding assistant prompts — content invisible to users but readable by the model. Raises important questions about transparency and trust when AI tools operate on your codebase without full visibility into what they've been instructed to do."
+summary: "A developer inspecting Claude Code for privacy reasons found that it steganographically embeds hidden markers in its system prompts — identifiers derived from your API base URL and timezone, invisible to users but present in every request. When a coding agent has filesystem, shell, and git access to your work, the binary shipping it should be transparent about what it's sending."
 tags: ["AI", "surveillance", "security", "tech-critique"]
 showReadingTime: false
 showDate: true
