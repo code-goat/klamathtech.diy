@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="max-w-prose mx-auto">
+<div class="w-full">
   <header class="mb-8">
     <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
     {{ with .Description }}
@@ -7,29 +7,35 @@
     {{ end }}
   </header>
 
-  <div class="divide-y divide-neutral-200 dark:divide-neutral-700">
-    {{ range .Pages.ByDate.Reverse }}
-    <article class="py-3">
-      <div class="flex flex-wrap items-baseline gap-x-2">
+  {{ $categories := slice "Surveillance & Privacy" "Digital Rights" "Indigenous Data Sovereignty" "Tech Critique" "Indie Web & Community Internet" "Feminist & Community Tech" }}
+
+  {{ range $categories }}
+  {{ $cat := . }}
+  {{ $pages := where $.Pages "Params.category" $cat }}
+  {{ if $pages }}
+  <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
+    <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
+      <span class="font-semibold text-neutral-800 dark:text-neutral">{{ $cat }}</span>
+      <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">{{ len $pages }}</span>
+    </summary>
+    <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
+      {{ range $pages.ByDate.Reverse }}
+      <li class="px-4 py-3">
         <a href="{{ .Params.externalUrl }}" target="_blank" rel="external noopener"
-           class="text-sm font-semibold text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
           {{ .Title }}<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
         </a>
         {{ with .Params.source }}
-        <span class="text-xs text-primary-600 dark:text-primary-400">{{ . }}</span>
+        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— {{ . }}</span>
         {{ end }}
-        <span class="text-xs text-neutral-400 dark:text-neutral-500">{{ .Date.Format "Jan 2006" }}</span>
-      </div>
-      {{ with .Summary }}
-      <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">{{ . | plainify | truncate 160 }}</p>
+        {{ with .Summary }}
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">{{ . | plainify | truncate 180 }}</p>
+        {{ end }}
+      </li>
       {{ end }}
-      <div class="mt-1 flex flex-wrap gap-x-2 text-xs text-neutral-400 dark:text-neutral-500">
-        {{ range .Params.tags }}
-        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="hover:text-primary-600 dark:hover:text-primary-400">#{{ . }}</a>
-        {{ end }}
-      </div>
-    </article>
-    {{ end }}
-  </div>
+    </ul>
+  </details>
+  {{ end }}
+  {{ end }}
 </div>
 {{ end }}

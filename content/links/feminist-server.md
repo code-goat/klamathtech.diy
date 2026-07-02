@@ -5,6 +5,7 @@ externalUrl: "https://ftx.apc.org/books/en-sexuality-and-internet-governance/pag
 source: "Association for Progressive Communications"
 summary: "What would it mean to build digital infrastructure that embodies feminist values — not just in content policy but in governance, ownership, and who the infrastructure serves? Examines feminist server collectives as an alternative model to corporate platforms and explores what accountable, community-governed technology looks like in practice."
 tags: ["feminism", "tech-critique", "digital-rights", "internet"]
+category: "Feminist & Community Tech"
 showReadingTime: false
 showDate: true
 build:
