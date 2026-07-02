@@ -11,6 +11,87 @@
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
     <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/links/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Website to End All Websites</title>
+      <link>https://henry.codes/writing/a-website-to-destroy-all-websites/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://henry.codes/writing/a-website-to-destroy-all-websites/</guid>
+      <description>A personal essay/manifesto arguing that the internet has been industrialized and monopolized by corporate platforms that exploit users rather than serve them — and that the answer is building hand-coded personal websites using open protocols like RSS and ActivityPub. Draws on Ivan Illich&amp;rsquo;s concept of &amp;lsquo;convivial tools&amp;rsquo; that enhance human creativity rather than capture it.</description>
+    </item>
+    
+    <item>
+      <title>AI: Real Problems Index</title>
+      <link>https://ai-problems-index.vercel.app/real-issues</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://ai-problems-index.vercel.app/real-issues</guid>
+      <description>A running index of documented real-world harms from AI systems — not speculation about future risks, but concrete cases of bias, discrimination, misinformation, environmental damage, labor exploitation, and rights violations happening now. A useful counter to the hype cycle.</description>
+    </item>
+    
+    <item>
+      <title>CARE Principles for Indigenous Data Governance</title>
+      <link>https://www.gida-global.org/care</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://www.gida-global.org/care</guid>
+      <description>The CARE Principles — Collective Benefit, Authority to Control, Responsibility, Ethics — are a governance framework developed by Indigenous data scholars to center Indigenous peoples in all decisions about their data. A complement and counterweight to the FAIR data principles that dominate academic and government data practice.</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Prompt Steganography</title>
+      <link>https://thereallo.dev/blog/claude-code-prompt-steganography</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://thereallo.dev/blog/claude-code-prompt-steganography</guid>
+      <description>Security research examining how hidden instructions can be embedded in AI coding assistant prompts — content invisible to users but readable by the model. Raises important questions about transparency and trust when AI tools operate on your codebase without full visibility into what they&amp;rsquo;ve been instructed to do.</description>
+    </item>
+    
+    <item>
+      <title>DataBack: Recognize and Reclaim Indigenous Data Sovereignty</title>
+      <link>https://animikii.com/insights/databack-recognize-and-reclaim-indigenous-data-sovereignty</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://animikii.com/insights/databack-recognize-and-reclaim-indigenous-data-sovereignty</guid>
+      <description>An introduction to the #DataBack movement — what it means for Indigenous communities to reclaim authority over data about their lands, cultures, and peoples. Situates data sovereignty within the broader LandBack and CashBack frameworks and explains why control of data is inseparable from political and cultural self-determination.</description>
+    </item>
+    
+    <item>
+      <title>EFF: Age Verification</title>
+      <link>https://www.eff.org/issues/age-verification</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://www.eff.org/issues/age-verification</guid>
+      <description>The EFF&amp;rsquo;s ongoing coverage and analysis of age verification legislation — tracking bills across states and Congress, explaining the surveillance and free speech implications, and documenting legal challenges. A reliable reference for understanding the landscape of these laws and the harms they cause.</description>
+    </item>
+    
+    <item>
+      <title>Have I Been Flocked?</title>
+      <link>https://haveibeenflocked.com/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://haveibeenflocked.com/</guid>
+      <description>Search whether your license plate has been captured in Flock Safety&amp;rsquo;s automated license plate reader (ALPR) database — over 208 million documented searches. Publishes public records on how law enforcement agencies use Flock surveillance, including searches tied to First Amendment activities and immigration enforcement.</description>
+    </item>
+    
+    <item>
+      <title>IndieWeb — Own Your Data</title>
+      <link>https://indieweb.org/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://indieweb.org/</guid>
+      <description>A community and movement built around the principle that people should own their own data and content — publishing on their own domains, using open standards to connect and communicate, rather than depending on corporate platforms that can disappear or change the rules without notice. Practical guides, standards, and community resources.</description>
+    </item>
+    
+    <item>
+      <title>Indigenous Knowledge, Western Science, and the US Colonial Project</title>
+      <link>https://magazine.scienceforthepeople.org/vol23-1/indigenous-knowledge-western-science-and-the-us-colonial-project/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://magazine.scienceforthepeople.org/vol23-1/indigenous-knowledge-western-science-and-the-us-colonial-project/</guid>
+      <description>How Western scientific institutions have historically appropriated, dismissed, and suppressed Indigenous knowledge systems while simultaneously depending on Indigenous land and labor. Examines the colonial structure of American science and what genuine knowledge sovereignty would require.</description>
+    </item>
+    
+    <item>
       <title>Indigenous Mapping Collective</title>
       <link>https://www.indigenousmaps.com/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
@@ -20,12 +101,84 @@
     </item>
     
     <item>
+      <title>Keeping Indigenous Science Knowledge out of a Colonial Mold</title>
+      <link>https://eos.org/articles/keeping-indigenous-science-knowledge-out-of-a-colonial-mold</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://eos.org/articles/keeping-indigenous-science-knowledge-out-of-a-colonial-mold</guid>
+      <description>How researchers and Indigenous communities are working to document and protect traditional ecological knowledge without forcing it into Western scientific frameworks that strip it of relational context. Addresses the real tension between making TEK legible to outside institutions and maintaining community control over how it moves.</description>
+    </item>
+    
+    <item>
+      <title>Never Again Tech — Tech Worker Pledge</title>
+      <link>https://neveragain.tech/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://neveragain.tech/</guid>
+      <description>A public pledge by technology workers to refuse to build databases of people by race, religion, or national origin; refuse to build tools for mass surveillance; and resist government use of their skills to target people for discriminatory programs. Thousands of signatories from companies including Google, Microsoft, and Amazon.</description>
+    </item>
+    
+    <item>
+      <title>Sentinels Network</title>
+      <link>https://www.sentinelsnetwork.com/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://www.sentinelsnetwork.com/</guid>
+      <description>A platform built for and by Indigenous communities to monitor, manage, and protect their lands and waters using community-controlled data infrastructure. A concrete example of what Indigenous data sovereignty looks like in practice — ecological monitoring on Indigenous terms, governed by Indigenous protocols.</description>
+    </item>
+    
+    <item>
       <title>Surveillance Valley: The Secret Military History of the Internet</title>
       <link>https://surveillancevalley.com/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
       <guid>https://surveillancevalley.com/</guid>
       <description>Levine&amp;rsquo;s investigation into the ARPANET&amp;rsquo;s origins and the unbroken line between the internet&amp;rsquo;s military-surveillance roots and today&amp;rsquo;s tech industry. Essential background for anyone serious about understanding what the network actually is.</description>
+    </item>
+    
+    <item>
+      <title>The New Luddites</title>
+      <link>https://dalab.xyz/en/blog/the-new-luddites/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://dalab.xyz/en/blog/the-new-luddites/</guid>
+      <description>An examination of the growing neo-Luddite movement — people choosing to reject or limit their engagement with surveillance capitalism&amp;rsquo;s tools, not out of technophobia but out of political clarity about what those tools do. Situates this in the history of the original Luddites as a labor and rights movement, not an anti-technology one.</description>
+    </item>
+    
+    <item>
+      <title>The Road to Techno-Colonialism</title>
+      <link>https://www.internetjustsociety.org/the-road-to-techno-colonialism</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://www.internetjustsociety.org/the-road-to-techno-colonialism</guid>
+      <description>Traces how tech corporations replicate the patterns of colonial extraction — entering new markets, crowding out local alternatives, creating dependency, and extracting value back to distant centers — while framing this as development and connectivity. Useful grounding for understanding why digital infrastructure is never politically neutral.</description>
+    </item>
+    
+    <item>
+      <title>What is a Feminist Server?</title>
+      <link>https://ftx.apc.org/books/en-sexuality-and-internet-governance/page/feminist-server</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://ftx.apc.org/books/en-sexuality-and-internet-governance/page/feminist-server</guid>
+      <description>What would it mean to build digital infrastructure that embodies feminist values — not just in content policy but in governance, ownership, and who the infrastructure serves? Examines feminist server collectives as an alternative model to corporate platforms and explores what accountable, community-governed technology looks like in practice.</description>
+    </item>
+    
+    <item>
+      <title>Age Verification Is Just a Precursor to Attribution of Speech</title>
+      <link>https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</guid>
+      <description>Age verification laws ostensibly protect children but actually build identity attribution infrastructure — systems that automatically link digital accounts to real identities. Once in place, that infrastructure will be turned toward political speech and dissent. The child safety framing is the door; surveillance is what walks through it.</description>
+    </item>
+    
+    <item>
+      <title>How Did Free Software Build a Social Movement?</title>
+      <link>https://blog.jwf.io/2020/04/how-did-free-software-build-a-social-movement/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://blog.jwf.io/2020/04/how-did-free-software-build-a-social-movement/</guid>
+      <description>A history of how the free and open-source software movement grew from technical practice into political organizing — the values, the licenses, the communities, and the fights over what &amp;lsquo;free&amp;rsquo; actually means. Useful context for understanding why software freedom and community autonomy are connected questions.</description>
     </item>
     
   </channel>

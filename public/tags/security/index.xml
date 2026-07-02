@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
+    <link>https://klamathtech.diy/tags/security/</link>
+    <description>Recent content in Security on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
+    <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
+    <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Claude Code Prompt Steganography</title>
+      <link>https://klamathtech.diy/links/claude-code-prompt-steganography/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/claude-code-prompt-steganography/</guid>
+      <description>Security research examining how hidden instructions can be embedded in AI coding assistant prompts — content invisible to users but readable by the model. Raises important questions about transparency and trust when AI tools operate on your codebase without full visibility into what they&amp;rsquo;ve been instructed to do.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

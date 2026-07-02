@@ -9,7 +9,7 @@
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <atom:link href="https://klamathtech.diy/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI Reality Check: Staying Grounded in the Age of Machine Hype</title>
@@ -39,6 +39,26 @@
       <guid>https://klamathtech.diy/info/reverse_centaur/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/reverse_centaur/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>AI: Real Problems Index</title>
+      <link>https://klamathtech.diy/links/ai-real-problems/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/ai-real-problems/</guid>
+      <description>A running index of documented real-world harms from AI systems — not speculation about future risks, but concrete cases of bias, discrimination, misinformation, environmental damage, labor exploitation, and rights violations happening now. A useful counter to the hype cycle.</description>
+      
+    </item>
+    
+    <item>
+      <title>Claude Code Prompt Steganography</title>
+      <link>https://klamathtech.diy/links/claude-code-prompt-steganography/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/claude-code-prompt-steganography/</guid>
+      <description>Security research examining how hidden instructions can be embedded in AI coding assistant prompts — content invisible to users but readable by the model. Raises important questions about transparency and trust when AI tools operate on your codebase without full visibility into what they&amp;rsquo;ve been instructed to do.</description>
+      
     </item>
     
   </channel>

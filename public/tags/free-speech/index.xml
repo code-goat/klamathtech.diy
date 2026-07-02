@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Free Speech on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
+    <title>Free-Speech on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
     <link>https://klamathtech.diy/tags/free-speech/</link>
-    <description>Recent content in Free Speech on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
+    <description>Recent content in Free-Speech on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <atom:link href="https://klamathtech.diy/tags/free-speech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/free-speech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Age Verification Laws: Why &#39;Protecting Kids Online&#39; Is the Wrong Tool</title>
@@ -19,6 +19,26 @@
       <guid>https://klamathtech.diy/info/age_verification/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/age_verification/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>EFF: Age Verification</title>
+      <link>https://klamathtech.diy/links/eff-age-verification/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/eff-age-verification/</guid>
+      <description>The EFF&amp;rsquo;s ongoing coverage and analysis of age verification legislation — tracking bills across states and Congress, explaining the surveillance and free speech implications, and documenting legal challenges. A reliable reference for understanding the landscape of these laws and the harms they cause.</description>
+      
+    </item>
+    
+    <item>
+      <title>Age Verification Is Just a Precursor to Attribution of Speech</title>
+      <link>https://klamathtech.diy/links/age-verification-attribution-of-speech/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/age-verification-attribution-of-speech/</guid>
+      <description>Age verification laws ostensibly protect children but actually build identity attribution infrastructure — systems that automatically link digital accounts to real identities. Once in place, that infrastructure will be turned toward political speech and dissent. The child safety framing is the door; surveillance is what walks through it.</description>
+      
     </item>
     
   </channel>

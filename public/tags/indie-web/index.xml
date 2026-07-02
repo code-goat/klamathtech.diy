@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indie-Web on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
+    <link>https://klamathtech.diy/tags/indie-web/</link>
+    <description>Recent content in Indie-Web on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
+    <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
+    <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/indie-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Website to End All Websites</title>
+      <link>https://klamathtech.diy/links/a-website-to-end-all-websites/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/a-website-to-end-all-websites/</guid>
+      <description>A personal essay/manifesto arguing that the internet has been industrialized and monopolized by corporate platforms that exploit users rather than serve them — and that the answer is building hand-coded personal websites using open protocols like RSS and ActivityPub. Draws on Ivan Illich&amp;rsquo;s concept of &amp;lsquo;convivial tools&amp;rsquo; that enhance human creativity rather than capture it.</description>
+      
+    </item>
+    
+    <item>
+      <title>IndieWeb — Own Your Data</title>
+      <link>https://klamathtech.diy/links/indieweb/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/indieweb/</guid>
+      <description>A community and movement built around the principle that people should own their own data and content — publishing on their own domains, using open standards to connect and communicate, rather than depending on corporate platforms that can disappear or change the rules without notice. Practical guides, standards, and community resources.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
