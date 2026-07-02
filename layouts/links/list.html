@@ -1,0 +1,37 @@
+{{ define "main" }}
+<div class="max-w-prose mx-auto">
+  <header class="mb-8">
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+    {{ with .Description }}
+    <p class="mt-2 text-neutral-500 dark:text-neutral-400">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  <div class="divide-y divide-neutral-200 dark:divide-neutral-700">
+    {{ range .Pages.ByDate.Reverse }}
+    <article class="py-5">
+      <a href="{{ .Params.externalUrl }}" target="_blank" rel="external noopener" class="group block">
+        <h2 class="text-base font-semibold text-neutral-800 dark:text-neutral group-hover:underline decoration-primary-500 underline-offset-2 leading-snug">
+          {{ .Title }}
+          <span class="text-xs align-top text-neutral-400 dark:text-neutral-500">&#8599;</span>
+        </h2>
+      </a>
+      <div class="mt-1 flex flex-wrap items-center gap-x-2 text-xs text-neutral-400 dark:text-neutral-500">
+        {{ with .Params.source }}
+        <span class="text-primary-600 dark:text-primary-400 font-medium">{{ . }}</span>
+        <span>·</span>
+        {{ end }}
+        <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+        {{ range .Params.tags }}
+        <span>·</span>
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="hover:text-primary-600 dark:hover:text-primary-400">{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ with .Summary }}
+      <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-400 leading-relaxed">{{ . | plainify }}</p>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
