@@ -9,7 +9,133 @@
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/links/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Fundamental Flaw Leaves LLMs Strikingly Vulnerable To Attack</title>
+      <link>https://m.slashdot.org/story/456650</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://m.slashdot.org/story/456650</guid>
+      <description>Researchers presented findings at ICML showing that LLMs have a structural weakness in how they distinguish instructions from different sources — attackers can exploit that confusion to bypass safety guardrails. The researchers argue the flaw may not be patchable through better training alone, since it&amp;rsquo;s rooted in how the models process &amp;lsquo;roles&amp;rsquo; at all, not a fixable bug in one system.</description>
+    </item>
+    
+    <item>
+      <title>Abya Yala Network: Enabling Community-Owned Internet Infrastructure Across the Americas</title>
+      <link>https://calyx.org/news/2026/sepal-fund-grantee-spotlight-abya-yala</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://calyx.org/news/2026/sepal-fund-grantee-spotlight-abya-yala</guid>
+      <description>The Abya Yala Network helps Indigenous peoples, environmental defenders, and grassroots groups across the Americas build and run their own communication infrastructure — training communities to &amp;lsquo;be their own (and each other&amp;rsquo;s) system administrators&amp;rsquo; with open-source tools instead of depending on corporate platforms. A concrete, funded example of the community-owned-infrastructure model this site keeps pointing toward.</description>
+    </item>
+    
+    <item>
+      <title>Are Wars Blurring Lines Between Corporate and National Security?</title>
+      <link>https://m.slashdot.org/story/456004</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://m.slashdot.org/story/456004</guid>
+      <description>Modern conflict increasingly targets privately-owned infrastructure — subsea cables, power stations, ports, data centers — collapsing the line between corporate assets and national security. NATO is now funding protection of private infrastructure as a defense expenditure, raising the question of who actually controls, and who&amp;rsquo;s liable for, the physical backbone the internet and power grid run on.</description>
+    </item>
+    
+    <item>
+      <title>Automatic Transmission: A Privacy Study of Connected Vehicles</title>
+      <link>https://automatictransmission.khoury.northeastern.edu/index.html#dataset</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://automatictransmission.khoury.northeastern.edu/index.html#dataset</guid>
+      <description>Billed as the first large-scale measurement study of the connected-vehicle ecosystem, this Northeastern/Consumer Reports research examined 21 vehicles and 30 companion apps and found most cars contact advertising and tracking domains by default — with companion apps substantially expanding what&amp;rsquo;s collected beyond what manufacturers disclose. The gap between stated privacy policy and actual data flows is the headline finding.</description>
+    </item>
+    
+    <item>
+      <title>Become the Thousand Servers</title>
+      <link>https://sabot.media/guides/become-the-thousand-servers/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://sabot.media/guides/become-the-thousand-servers/</guid>
+      <description>A field guide arguing that infrastructure resilience comes from spreading technical knowledge across a group, not from concentrating it in one skilled person or one well-maintained server. It walks through mapping dependencies, managing backups, and migrating services, aiming to make collective projects survive the disappearance of any single person or provider: &amp;lsquo;one person learning something, teaching someone else, and watching that knowledge move outward.&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>Edward Snowden Reveals How They Spy on You</title>
+      <link>https://m.youtube.com/watch?v=Ozog_UiKzSU</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://m.youtube.com/watch?v=Ozog_UiKzSU</guid>
+      <description>A video built around Edward Snowden&amp;rsquo;s account of NSA mass-surveillance programs — the scope of bulk data and metadata collection he exposed in 2013. Published by the channel Thinkable rather than an outlet directly affiliated with Snowden, so treat it as a secondary explainer/compilation rather than primary reporting.</description>
+    </item>
+    
+    <item>
+      <title>FSF Shares Update on &#39;LibrePhone&#39; and New Automated Site Monitoring Tool</title>
+      <link>https://m.slashdot.org/story/455998</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://m.slashdot.org/story/455998</guid>
+      <description>The Free Software Foundation&amp;rsquo;s LibrePhone project is reverse-engineering the proprietary firmware blobs inside smartphones — lead developer Rob Savoye has already extracted and analyzed radio firmware from over 200 LineageOS-supported devices. It&amp;rsquo;s a reminder that even &amp;lsquo;open&amp;rsquo; phones still run closed, unauditable code on the WiFi, Bluetooth, and cellular radios — exactly the layer where most interception and tracking happens.</description>
+    </item>
+    
+    <item>
+      <title>Geek Feminism Wiki</title>
+      <link>https://geekfeminism.fandom.com/wiki/Geek_Feminism_Wiki</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://geekfeminism.fandom.com/wiki/Geek_Feminism_Wiki</guid>
+      <description>A resource for and about women in geek communities, running since May 2008 and covering harassment policies, sexism in tech and SFF fandom, and related &amp;lsquo;issues&amp;rsquo; and &amp;lsquo;resources&amp;rsquo; categories. The wiki has been in archival mode since the mid-2010s — new edits are restricted and the wiki itself flags that its 2009–2012 content &amp;rsquo;likely reflects many undesirable biases, such as racism and ableism,&amp;rsquo; kept available as a historical record rather than a maintained resource.</description>
+    </item>
+    
+    <item>
+      <title>GoDaddy Warns India&#39;s Crackdown on Fake Site Registrars Could Upend Internet Privacy Everywhere</title>
+      <link>https://m.slashdot.org/story/456014</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://m.slashdot.org/story/456014</guid>
+      <description>An Indian court ordered domain registrars to strip default WHOIS privacy protections and hand over owner information within 72 hours to anyone claiming a &amp;rsquo;legitimate interest,&amp;rsquo; ostensibly to fight fraud. GoDaddy and other registrars warn the rule exposes ordinary site owners to harassment and stalking while barely slowing actual scammers — and because domain governance is global, a single national court could end anonymous site registration everywhere.</description>
+    </item>
+    
+    <item>
+      <title>How Tech Scammers Conned Four People Out of $673,000 in Three Days</title>
+      <link>https://m.slashdot.org/story/456032</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://m.slashdot.org/story/456032</guid>
+      <description>Four residents of Clallam County, Washington lost over $673,000 in 72 hours to scammers impersonating Microsoft support, crypto platforms, and federal agents — fake security alerts and fabricated criminal investigations pressured victims into gift cards, crypto transfers, and gold bullion purchases. A hard reminder that scam-recognition has to be part of community digital literacy work, not just technical security.</description>
+    </item>
+    
+    <item>
+      <title>Hundreds Support Legal Defense for Engineer Charged with Destroying Flock Surveillance Cameras</title>
+      <link>https://m.slashdot.org/story/456030</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://m.slashdot.org/story/456030</guid>
+      <description>A US Air Force engineer, Jeffrey Sovern, faces criminal charges for allegedly damaging more than a dozen AI-powered Flock license-plate-reader cameras. His legal defense fund has pulled in over $23,000 from 680+ donors who see the act as a response to unaccountable mass-surveillance infrastructure spreading through small towns with little public input.</description>
+    </item>
+    
+    <item>
+      <title>Now Google Says It Might Use Your Gmail and Google Photos Data to Target Ads</title>
+      <link>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</guid>
+      <description>Google&amp;rsquo;s updated privacy policy ties its new &amp;lsquo;Personal Intelligence&amp;rsquo; AI features to ad targeting: opting in to let Gemini draw on your Gmail and Google Photos for personalized AI recommendations also opens that same data up for more personalized ads. The AI-features pitch and the ad-targeting expansion are, by design, the same consent.</description>
+    </item>
+    
+    <item>
+      <title>Rayhunter</title>
+      <link>https://github.com/EFForg/rayhunter</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://github.com/EFForg/rayhunter</guid>
+      <description>An open-source tool from EFF that detects IMSI catchers (cell-site simulators / Stingrays) — devices that impersonate cell towers to intercept phones. Originally built for the Orbic RC400L mobile hotspot, with community-added support for more hardware since. A concrete, usable way to detect cellular surveillance rather than just read about it.</description>
+    </item>
+    
+    <item>
+      <title>US Police Now Armed With Israeli Spy Vans Simulating Mobile Phone Towers</title>
+      <link>https://m.slashdot.org/story/456410</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://m.slashdot.org/story/456410</guid>
+      <description>Israeli company Cognyte&amp;rsquo;s Falconet technology lets US law enforcement mount cell-tower simulators in ordinary vehicles, intercepting mobile data from every nearby phone without a warrant. The Texas Department of Public Safety bought four equipped Tahoes for $3.8 million, letting police collect detailed movement and communication records during routine patrols — the same class of device the EFF&amp;rsquo;s Rayhunter project (below) is built to detect.</description>
+    </item>
+    
     <item>
       <title>A Website to End All Websites</title>
       <link>https://henry.codes/writing/a-website-to-destroy-all-websites/</link>

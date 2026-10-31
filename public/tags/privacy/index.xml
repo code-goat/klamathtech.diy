@@ -9,7 +9,67 @@
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Automatic Transmission: A Privacy Study of Connected Vehicles</title>
+      <link>https://klamathtech.diy/links/automatic-transmission-connected-car-privacy/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/automatic-transmission-connected-car-privacy/</guid>
+      <description>Billed as the first large-scale measurement study of the connected-vehicle ecosystem, this Northeastern/Consumer Reports research examined 21 vehicles and 30 companion apps and found most cars contact advertising and tracking domains by default — with companion apps substantially expanding what&amp;rsquo;s collected beyond what manufacturers disclose. The gap between stated privacy policy and actual data flows is the headline finding.</description>
+      
+    </item>
+    
+    <item>
+      <title>Edward Snowden Reveals How They Spy on You</title>
+      <link>https://klamathtech.diy/links/snowden-reveals-how-they-spy/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/snowden-reveals-how-they-spy/</guid>
+      <description>A video built around Edward Snowden&amp;rsquo;s account of NSA mass-surveillance programs — the scope of bulk data and metadata collection he exposed in 2013. Published by the channel Thinkable rather than an outlet directly affiliated with Snowden, so treat it as a secondary explainer/compilation rather than primary reporting.</description>
+      
+    </item>
+    
+    <item>
+      <title>GoDaddy Warns India&#39;s Crackdown on Fake Site Registrars Could Upend Internet Privacy Everywhere</title>
+      <link>https://klamathtech.diy/links/godaddy-india-registrar-privacy/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/godaddy-india-registrar-privacy/</guid>
+      <description>An Indian court ordered domain registrars to strip default WHOIS privacy protections and hand over owner information within 72 hours to anyone claiming a &amp;rsquo;legitimate interest,&amp;rsquo; ostensibly to fight fraud. GoDaddy and other registrars warn the rule exposes ordinary site owners to harassment and stalking while barely slowing actual scammers — and because domain governance is global, a single national court could end anonymous site registration everywhere.</description>
+      
+    </item>
+    
+    <item>
+      <title>Now Google Says It Might Use Your Gmail and Google Photos Data to Target Ads</title>
+      <link>https://klamathtech.diy/links/google-gmail-photos-ad-targeting/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/google-gmail-photos-ad-targeting/</guid>
+      <description>Google&amp;rsquo;s updated privacy policy ties its new &amp;lsquo;Personal Intelligence&amp;rsquo; AI features to ad targeting: opting in to let Gemini draw on your Gmail and Google Photos for personalized AI recommendations also opens that same data up for more personalized ads. The AI-features pitch and the ad-targeting expansion are, by design, the same consent.</description>
+      
+    </item>
+    
+    <item>
+      <title>Rayhunter</title>
+      <link>https://klamathtech.diy/links/rayhunter/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/rayhunter/</guid>
+      <description>An open-source tool from EFF that detects IMSI catchers (cell-site simulators / Stingrays) — devices that impersonate cell towers to intercept phones. Originally built for the Orbic RC400L mobile hotspot, with community-added support for more hardware since. A concrete, usable way to detect cellular surveillance rather than just read about it.</description>
+      
+    </item>
+    
+    <item>
+      <title>US Police Now Armed With Israeli Spy Vans Simulating Mobile Phone Towers</title>
+      <link>https://klamathtech.diy/links/israeli-spy-vans-police/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/israeli-spy-vans-police/</guid>
+      <description>Israeli company Cognyte&amp;rsquo;s Falconet technology lets US law enforcement mount cell-tower simulators in ordinary vehicles, intercepting mobile data from every nearby phone without a warrant. The Texas Department of Public Safety bought four equipped Tahoes for $3.8 million, letting police collect detailed movement and communication records during routine patrols — the same class of device the EFF&amp;rsquo;s Rayhunter project (below) is built to detect.</description>
+      
+    </item>
     
     <item>
       <title>Have I Been Flocked?</title>

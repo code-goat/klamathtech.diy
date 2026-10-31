@@ -9,7 +9,27 @@
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/free-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/free-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FSF Shares Update on &#39;LibrePhone&#39; and New Automated Site Monitoring Tool</title>
+      <link>https://klamathtech.diy/links/fsf-librephone-update/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/fsf-librephone-update/</guid>
+      <description>The Free Software Foundation&amp;rsquo;s LibrePhone project is reverse-engineering the proprietary firmware blobs inside smartphones — lead developer Rob Savoye has already extracted and analyzed radio firmware from over 200 LineageOS-supported devices. It&amp;rsquo;s a reminder that even &amp;lsquo;open&amp;rsquo; phones still run closed, unauditable code on the WiFi, Bluetooth, and cellular radios — exactly the layer where most interception and tracking happens.</description>
+      
+    </item>
+    
+    <item>
+      <title>Rayhunter</title>
+      <link>https://klamathtech.diy/links/rayhunter/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/rayhunter/</guid>
+      <description>An open-source tool from EFF that detects IMSI catchers (cell-site simulators / Stingrays) — devices that impersonate cell towers to intercept phones. Originally built for the Orbic RC400L mobile hotspot, with community-added support for more hardware since. A concrete, usable way to detect cellular surveillance rather than just read about it.</description>
+      
+    </item>
     
     <item>
       <title>How Did Free Software Build a Social Movement?</title>

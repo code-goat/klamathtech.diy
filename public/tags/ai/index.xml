@@ -9,7 +9,7 @@
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI Reality Check: Staying Grounded in the Age of Machine Hype</title>
@@ -39,6 +39,26 @@
       <guid>https://klamathtech.diy/info/reverse_centaur/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/reverse_centaur/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>A Fundamental Flaw Leaves LLMs Strikingly Vulnerable To Attack</title>
+      <link>https://klamathtech.diy/links/llms-vulnerable-to-attack/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/llms-vulnerable-to-attack/</guid>
+      <description>Researchers presented findings at ICML showing that LLMs have a structural weakness in how they distinguish instructions from different sources — attackers can exploit that confusion to bypass safety guardrails. The researchers argue the flaw may not be patchable through better training alone, since it&amp;rsquo;s rooted in how the models process &amp;lsquo;roles&amp;rsquo; at all, not a fixable bug in one system.</description>
+      
+    </item>
+    
+    <item>
+      <title>Now Google Says It Might Use Your Gmail and Google Photos Data to Target Ads</title>
+      <link>https://klamathtech.diy/links/google-gmail-photos-ad-targeting/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
+      <guid>https://klamathtech.diy/links/google-gmail-photos-ad-targeting/</guid>
+      <description>Google&amp;rsquo;s updated privacy policy ties its new &amp;lsquo;Personal Intelligence&amp;rsquo; AI features to ad targeting: opting in to let Gemini draw on your Gmail and Google Photos for personalized AI recommendations also opens that same data up for more personalized ads. The AI-features pitch and the ad-targeting expansion are, by design, the same consent.</description>
+      
     </item>
     
     <item>
