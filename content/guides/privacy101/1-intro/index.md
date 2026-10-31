@@ -34,9 +34,9 @@ Privacy has always done more than block advertisers, too. It's one of the oldest
 Closer to home, the stakes are concrete too:
 
 - **Elder residents** are disproportionately targeted by phone and online scams, many of which use personal data purchased from data brokers to seem legitimate
-- **Tribal members and activists** have documented histories of government and corporate surveillance targeting Indigenous-led movements
+- **Tribal members and activists** have documented histories of government and corporate surveillance targeting marginalized people's movements
 - **Rural households** often rely on limited internet providers with little competition — and those providers legally sell your browsing history
-- **Everyone** faces the everyday harm of being profiled, manipulated, and exploited by systems built to extract value from their attention and data
+- **Everyone** faces the everyday harm of being profiled, manipulated, and exploited by systems built to extract value from their attention and data. It has been shown that your data, as an individual, is on average worth more than $800,000 to data brokers in your lifetime. 
 
 Taking digital privacy seriously is an act of **community self-defense**.
 
