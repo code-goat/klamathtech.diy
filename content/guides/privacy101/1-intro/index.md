@@ -29,7 +29,9 @@ Privacy is not just about hiding things. It is about **power** — specifically,
 
 When a corporation collects your location, your searches, your messages, and your browsing habits, they build a detailed profile of who you are. That profile gets sold to advertisers, shared with law enforcement, and used to predict and influence your behavior. This is not paranoia — it is their publicly documented business model.
 
-For communities in the Klamath bioregion, the stakes are especially real:
+Privacy has always done more than block advertisers, too. It's one of the oldest tools a society has for outgrowing its own bad laws. Helping someone escape slavery was illegal in the United States well into the 1860s — after 1850, a federal crime — and the Underground Railroad only worked because the people running it protected it with real secrecy: coded language, safe houses, routes and names kept close even from allies. The law didn't change and then permit that work. The work happened first, in private, until there was no denying something better was possible. That's close to the normal way a society corrects itself — people need protected space to organize and act on a better idea before it's legal, popular, or safe to say out loud. Privacy is what that space is built out of.
+
+Closer to home, the stakes are concrete too:
 
 - **Elder residents** are disproportionately targeted by phone and online scams, many of which use personal data purchased from data brokers to seem legitimate
 - **Tribal members and activists** have documented histories of government and corporate surveillance targeting Indigenous-led movements

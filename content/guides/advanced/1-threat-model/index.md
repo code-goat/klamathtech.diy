@@ -17,7 +17,7 @@ series_order: 1
 
 Before installing Tor or switching to a secure operating system, ask yourself: **what am I trying to protect, from whom?**
 
-This is called **threat modeling**, and it is how security professionals think. The right level of privacy protection depends entirely on your specific situation. Using high-friction tools you do not need creates burden without benefit. Using tools that do not match your threat leaves you exposed.
+This is called **threat modeling**, and it is how security professionals think — and, whether or not they used the phrase, how organizers, whistleblowers, and abolitionists have always had to think. The right level of privacy protection depends entirely on your specific situation. Using high-friction tools you do not need creates burden without benefit. Using tools that do not match your threat leaves you exposed.
 
 ---
 
