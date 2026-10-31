@@ -1840,537 +1840,1294 @@
     
   </header>
 
-  
+  <div class="mb-6 flex gap-2" role="group" aria-label="Links view">
+    <button type="button" id="links-view-btn-chrono" onclick="setLinksView('chrono')" aria-pressed="true"
+      class="rounded-md px-3 py-1.5 text-sm font-medium transition-colors bg-neutral-100 text-neutral-600 dark:bg-neutral-800 dark:text-neutral-400 aria-pressed:bg-primary-600 aria-pressed:text-neutral dark:aria-pressed:bg-primary-700">By Date</button>
+    <button type="button" id="links-view-btn-category" onclick="setLinksView('category')" aria-pressed="false"
+      class="rounded-md px-3 py-1.5 text-sm font-medium transition-colors bg-neutral-100 text-neutral-600 dark:bg-neutral-800 dark:text-neutral-400 aria-pressed:bg-primary-600 aria-pressed:text-neutral dark:aria-pressed:bg-primary-700">By Category</button>
+  </div>
 
   
-  
-  
-  
-  <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
-    <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
-      <span class="font-semibold text-neutral-800 dark:text-neutral">Surveillance &amp; Privacy</span>
-      <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">9</span>
-    </summary>
+  <div id="links-view-chrono">
     <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
       
-      <li class="px-4 py-3">
-        <a href="https://m.slashdot.org/story/456410" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          US Police Now Armed With Israeli Spy Vans Simulating Mobile Phone Towers<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Slashdot (via cybernews.com and reporting from Josh Walkos)</span>
-        
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://m.slashdot.org/story/456410" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            US Police Now Armed With Israeli Spy Vans Simulating Mobile Phone Towers<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Slashdot (via cybernews.com and reporting from Josh Walkos)</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Surveillance &amp; Privacy</span>
+          
+        </div>
         
         <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Israeli company Cognyte&rsquo;s Falconet technology lets US law enforcement mount cell-tower simulators in ordinary vehicles, intercepting mobile data from every nearby phone …</p>
         
       </li>
       
-      <li class="px-4 py-3">
-        <a href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Now Google Says It Might Use Your Gmail and Google Photos Data to Target Ads<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://github.com/EFForg/rayhunter" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Rayhunter<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Electronic Frontier Foundation</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Useful Projects &amp; Tools</span>
+          
+        </div>
         
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— The Verge (Jess Weatherbed)</span>
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An open-source tool from EFF that detects IMSI catchers (cell-site simulators / Stingrays) — devices that impersonate cell towers to intercept phones. Originally built for the …</p>
         
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Now Google Says It Might Use Your Gmail and Google Photos Data to Target Ads<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— The Verge (Jess Weatherbed)</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Surveillance &amp; Privacy</span>
+          
+        </div>
         
         <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Google&rsquo;s updated privacy policy ties its new &lsquo;Personal Intelligence&rsquo; AI features to ad targeting: opting in to let Gemini draw on your Gmail and Google Photos for …</p>
         
       </li>
       
-      <li class="px-4 py-3">
-        <a href="https://m.slashdot.org/story/456030" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Hundreds Support Legal Defense for Engineer Charged with Destroying Flock Surveillance Cameras<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Slashdot (via Futurism)</span>
-        
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://m.slashdot.org/story/456030" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Hundreds Support Legal Defense for Engineer Charged with Destroying Flock Surveillance Cameras<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Slashdot (via Futurism)</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Surveillance &amp; Privacy</span>
+          
+        </div>
         
         <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A US Air Force engineer, Jeffrey Sovern, faces criminal charges for allegedly damaging more than a dozen AI-powered Flock license-plate-reader cameras. His legal defense fund has …</p>
         
       </li>
       
-      <li class="px-4 py-3">
-        <a href="https://m.youtube.com/watch?v=Ozog_UiKzSU" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Edward Snowden Reveals How They Spy on You<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Thinkable (YouTube)</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A video built around Edward Snowden&rsquo;s account of NSA mass-surveillance programs — the scope of bulk data and metadata collection he exposed in 2013. Published by the channel …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://automatictransmission.khoury.northeastern.edu/index.html#dataset" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Automatic Transmission: A Privacy Study of Connected Vehicles<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Northeastern University (with Consumer Reports)</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Billed as the first large-scale measurement study of the connected-vehicle ecosystem, this Northeastern/Consumer Reports research examined 21 vehicles and 30 companion apps and …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://surveillancevalley.com/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Surveillance Valley: The Secret Military History of the Internet<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Yasha Levine</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Levine&rsquo;s investigation into the ARPANET&rsquo;s origins and the unbroken line between the internet&rsquo;s military-surveillance roots and today&rsquo;s tech industry. …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://neveragain.tech/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Never Again Tech — Tech Worker Pledge<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— neveragain.tech</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A public pledge by technology workers to refuse to build databases of people by race, religion, or national origin; refuse to build tools for mass surveillance; and resist …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://haveibeenflocked.com/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Have I Been Flocked?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— haveibeenflocked.com</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Search whether your license plate has been captured in Flock Safety&rsquo;s automated license plate reader (ALPR) database — over 208 million documented searches. Publishes public …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://thereallo.dev/blog/claude-code-prompt-steganography" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Claude Code Prompt Steganography<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— thereallo.dev</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A developer inspecting Claude Code for privacy reasons found that it steganographically embeds hidden markers in its system prompts — identifiers derived from your API base URL and …</p>
-        
-      </li>
-      
-    </ul>
-  </details>
-  
-  
-  
-  
-  
-  <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
-    <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
-      <span class="font-semibold text-neutral-800 dark:text-neutral">Digital Rights</span>
-      <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">3</span>
-    </summary>
-    <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
-      
-      <li class="px-4 py-3">
-        <a href="https://m.slashdot.org/story/456014" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          GoDaddy Warns India&#39;s Crackdown on Fake Site Registrars Could Upend Internet Privacy Everywhere<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Slashdot (via Gizmodo/Reuters)</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An Indian court ordered domain registrars to strip default WHOIS privacy protections and hand over owner information within 72 hours to anyone claiming a &rsquo;legitimate …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://www.eff.org/issues/age-verification" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          EFF: Age Verification<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Electronic Frontier Foundation</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The EFF&rsquo;s ongoing coverage and analysis of age verification legislation — tracking bills across states and Congress, explaining the surveillance and free speech implications, …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Age Verification Is Just a Precursor to Attribution of Speech<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— nonogra.ph</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Age verification laws ostensibly protect children but actually build identity attribution infrastructure — systems that automatically link digital accounts to real identities. Once …</p>
-        
-      </li>
-      
-    </ul>
-  </details>
-  
-  
-  
-  
-  
-  <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
-    <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
-      <span class="font-semibold text-neutral-800 dark:text-neutral">Indigenous Data Sovereignty</span>
-      <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">7</span>
-    </summary>
-    <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
-      
-      <li class="px-4 py-3">
-        <a href="https://calyx.org/news/2026/sepal-fund-grantee-spotlight-abya-yala" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Abya Yala Network: Enabling Community-Owned Internet Infrastructure Across the Americas<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Calyx Institute</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The Abya Yala Network helps Indigenous peoples, environmental defenders, and grassroots groups across the Americas build and run their own communication infrastructure — training …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://www.sentinelsnetwork.com/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Sentinels Network<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Sentinels Network</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A platform built for and by Indigenous communities to monitor, manage, and protect their lands and waters using community-controlled data infrastructure. A concrete example of what …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://eos.org/articles/keeping-indigenous-science-knowledge-out-of-a-colonial-mold" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Keeping Indigenous Science Knowledge out of a Colonial Mold<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Eos / AGU</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">How researchers and Indigenous communities are working to document and protect traditional ecological knowledge without forcing it into Western scientific frameworks that strip it …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://www.indigenousmaps.com/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Indigenous Mapping Collective<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Indigenous Mapping Collective</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Community-led mapping initiatives centering Indigenous peoples&rsquo; relationships to land. A model for what it looks like when technically skilled people work in genuine …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://magazine.scienceforthepeople.org/vol23-1/indigenous-knowledge-western-science-and-the-us-colonial-project/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Indigenous Knowledge, Western Science, and the US Colonial Project<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Science for the People</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">How Western scientific institutions have historically appropriated, dismissed, and suppressed Indigenous knowledge systems while simultaneously depending on Indigenous land and …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://animikii.com/insights/databack-recognize-and-reclaim-indigenous-data-sovereignty" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          DataBack: Recognize and Reclaim Indigenous Data Sovereignty<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Animikii</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An introduction to the #DataBack movement — what it means for Indigenous communities to reclaim authority over data about their lands, cultures, and peoples. Situates data …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://www.gida-global.org/care" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          CARE Principles for Indigenous Data Governance<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Global Indigenous Data Alliance</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The CARE Principles — Collective Benefit, Authority to Control, Responsibility, Ethics — are a governance framework developed by Indigenous data scholars to center Indigenous …</p>
-        
-      </li>
-      
-    </ul>
-  </details>
-  
-  
-  
-  
-  
-  <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
-    <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
-      <span class="font-semibold text-neutral-800 dark:text-neutral">Tech Critique</span>
-      <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">6</span>
-    </summary>
-    <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
-      
-      <li class="px-4 py-3">
-        <a href="https://m.slashdot.org/story/456032" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          How Tech Scammers Conned Four People Out of $673,000 in Three Days<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— USA Today (via Slashdot)</span>
-        
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://m.slashdot.org/story/456032" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            How Tech Scammers Conned Four People Out of $673,000 in Three Days<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— USA Today (via Slashdot)</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Tech Critique</span>
+          
+        </div>
         
         <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Four residents of Clallam County, Washington lost over $673,000 in 72 hours to scammers impersonating Microsoft support, crypto platforms, and federal agents — fake security alerts …</p>
         
       </li>
       
-      <li class="px-4 py-3">
-        <a href="https://m.slashdot.org/story/456004" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Are Wars Blurring Lines Between Corporate and National Security?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://m.slashdot.org/story/456014" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            GoDaddy Warns India&#39;s Crackdown on Fake Site Registrars Could Upend Internet Privacy Everywhere<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Slashdot (via Gizmodo/Reuters)</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Digital Rights</span>
+          
+        </div>
         
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Wall Street Journal (via Slashdot)</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Modern conflict increasingly targets privately-owned infrastructure — subsea cables, power stations, ports, data centers — collapsing the line between corporate assets and national …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://m.slashdot.org/story/456650" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          A Fundamental Flaw Leaves LLMs Strikingly Vulnerable To Attack<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Slashdot (via MIT Technology Review)</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Researchers presented findings at ICML showing that LLMs have a structural weakness in how they distinguish instructions from different sources — attackers can exploit that …</p>
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An Indian court ordered domain registrars to strip default WHOIS privacy protections and hand over owner information within 72 hours to anyone claiming a &rsquo;legitimate …</p>
         
       </li>
       
-      <li class="px-4 py-3">
-        <a href="https://www.internetjustsociety.org/the-road-to-techno-colonialism" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          The Road to Techno-Colonialism<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://geekfeminism.fandom.com/wiki/Geek_Feminism_Wiki" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Geek Feminism Wiki<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Geek Feminism Wiki</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Feminist &amp; Community Tech</span>
+          
+        </div>
         
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Internet &amp; Just Society</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Traces how tech corporations replicate the patterns of colonial extraction — entering new markets, crowding out local alternatives, creating dependency, and extracting value back …</p>
-        
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://dalab.xyz/en/blog/the-new-luddites/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          The New Luddites<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— DA Lab</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An examination of the growing neo-Luddite movement — people choosing to reject or limit their engagement with surveillance capitalism&rsquo;s tools, not out of technophobia but out …</p>
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A resource for and about women in geek communities, running since May 2008 and covering harassment policies, sexism in tech and SFF fandom, and related &lsquo;issues&rsquo; and …</p>
         
       </li>
       
-      <li class="px-4 py-3">
-        <a href="https://ai-problems-index.vercel.app/real-issues" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          AI: Real Problems Index<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— AI Problems Index</span>
-        
-        
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A running index of documented real-world harms from AI systems — not speculation about future risks, but concrete cases of bias, discrimination, misinformation, environmental …</p>
-        
-      </li>
-      
-    </ul>
-  </details>
-  
-  
-  
-  
-  
-  <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
-    <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
-      <span class="font-semibold text-neutral-800 dark:text-neutral">Indie Web &amp; Community Internet</span>
-      <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">4</span>
-    </summary>
-    <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
-      
-      <li class="px-4 py-3">
-        <a href="https://m.slashdot.org/story/455998" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          FSF Shares Update on &#39;LibrePhone&#39; and New Automated Site Monitoring Tool<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Slashdot</span>
-        
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://m.slashdot.org/story/455998" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            FSF Shares Update on &#39;LibrePhone&#39; and New Automated Site Monitoring Tool<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Slashdot</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indie Web &amp; Community Internet</span>
+          
+        </div>
         
         <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The Free Software Foundation&rsquo;s LibrePhone project is reverse-engineering the proprietary firmware blobs inside smartphones — lead developer Rob Savoye has already extracted …</p>
         
       </li>
       
-      <li class="px-4 py-3">
-        <a href="https://indieweb.org/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          IndieWeb — Own Your Data<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://m.youtube.com/watch?v=Ozog_UiKzSU" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Edward Snowden Reveals How They Spy on You<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Thinkable (YouTube)</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Surveillance &amp; Privacy</span>
+          
+        </div>
         
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— indieweb.org</span>
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A video built around Edward Snowden&rsquo;s account of NSA mass-surveillance programs — the scope of bulk data and metadata collection he exposed in 2013. Published by the channel …</p>
         
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://sabot.media/guides/become-the-thousand-servers/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Become the Thousand Servers<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Sabot Media</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Feminist &amp; Community Tech</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A field guide arguing that infrastructure resilience comes from spreading technical knowledge across a group, not from concentrating it in one skilled person or one well-maintained …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://automatictransmission.khoury.northeastern.edu/index.html#dataset" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Automatic Transmission: A Privacy Study of Connected Vehicles<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Northeastern University (with Consumer Reports)</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Surveillance &amp; Privacy</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Billed as the first large-scale measurement study of the connected-vehicle ecosystem, this Northeastern/Consumer Reports research examined 21 vehicles and 30 companion apps and …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://m.slashdot.org/story/456004" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Are Wars Blurring Lines Between Corporate and National Security?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Wall Street Journal (via Slashdot)</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Tech Critique</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Modern conflict increasingly targets privately-owned infrastructure — subsea cables, power stations, ports, data centers — collapsing the line between corporate assets and national …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://calyx.org/news/2026/sepal-fund-grantee-spotlight-abya-yala" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Abya Yala Network: Enabling Community-Owned Internet Infrastructure Across the Americas<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Calyx Institute</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indigenous Data Sovereignty</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The Abya Yala Network helps Indigenous peoples, environmental defenders, and grassroots groups across the Americas build and run their own communication infrastructure — training …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-10-31">
+            Oct 31, 2026
+          </time>
+          <a href="https://m.slashdot.org/story/456650" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            A Fundamental Flaw Leaves LLMs Strikingly Vulnerable To Attack<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Slashdot (via MIT Technology Review)</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Tech Critique</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Researchers presented findings at ICML showing that LLMs have a structural weakness in how they distinguish instructions from different sources — attackers can exploit that …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://ftx.apc.org/books/en-sexuality-and-internet-governance/page/feminist-server" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            What is a Feminist Server?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Association for Progressive Communications</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Feminist &amp; Community Tech</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">What would it mean to build digital infrastructure that embodies feminist values — not just in content policy but in governance, ownership, and who the infrastructure serves? …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://www.internetjustsociety.org/the-road-to-techno-colonialism" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            The Road to Techno-Colonialism<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Internet &amp; Just Society</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Tech Critique</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Traces how tech corporations replicate the patterns of colonial extraction — entering new markets, crowding out local alternatives, creating dependency, and extracting value back …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://dalab.xyz/en/blog/the-new-luddites/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            The New Luddites<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— DA Lab</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Tech Critique</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An examination of the growing neo-Luddite movement — people choosing to reject or limit their engagement with surveillance capitalism&rsquo;s tools, not out of technophobia but out …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://surveillancevalley.com/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Surveillance Valley: The Secret Military History of the Internet<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Yasha Levine</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Surveillance &amp; Privacy</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Levine&rsquo;s investigation into the ARPANET&rsquo;s origins and the unbroken line between the internet&rsquo;s military-surveillance roots and today&rsquo;s tech industry. …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://www.sentinelsnetwork.com/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Sentinels Network<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Sentinels Network</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indigenous Data Sovereignty</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A platform built for and by Indigenous communities to monitor, manage, and protect their lands and waters using community-controlled data infrastructure. A concrete example of what …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://neveragain.tech/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Never Again Tech — Tech Worker Pledge<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— neveragain.tech</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Surveillance &amp; Privacy</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A public pledge by technology workers to refuse to build databases of people by race, religion, or national origin; refuse to build tools for mass surveillance; and resist …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://eos.org/articles/keeping-indigenous-science-knowledge-out-of-a-colonial-mold" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Keeping Indigenous Science Knowledge out of a Colonial Mold<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Eos / AGU</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indigenous Data Sovereignty</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">How researchers and Indigenous communities are working to document and protect traditional ecological knowledge without forcing it into Western scientific frameworks that strip it …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://www.indigenousmaps.com/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Indigenous Mapping Collective<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Indigenous Mapping Collective</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indigenous Data Sovereignty</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Community-led mapping initiatives centering Indigenous peoples&rsquo; relationships to land. A model for what it looks like when technically skilled people work in genuine …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://magazine.scienceforthepeople.org/vol23-1/indigenous-knowledge-western-science-and-the-us-colonial-project/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Indigenous Knowledge, Western Science, and the US Colonial Project<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Science for the People</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indigenous Data Sovereignty</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">How Western scientific institutions have historically appropriated, dismissed, and suppressed Indigenous knowledge systems while simultaneously depending on Indigenous land and …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://indieweb.org/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            IndieWeb — Own Your Data<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— indieweb.org</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indie Web &amp; Community Internet</span>
+          
+        </div>
         
         <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A community and movement built around the principle that people should own their own data and content — publishing on their own domains, using open standards to connect and …</p>
         
       </li>
       
-      <li class="px-4 py-3">
-        <a href="https://henry.codes/writing/a-website-to-destroy-all-websites/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          A Website to End All Websites<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://haveibeenflocked.com/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Have I Been Flocked?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— haveibeenflocked.com</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Surveillance &amp; Privacy</span>
+          
+        </div>
         
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— henry.codes</span>
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Search whether your license plate has been captured in Flock Safety&rsquo;s automated license plate reader (ALPR) database — over 208 million documented searches. Publishes public …</p>
         
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://www.eff.org/issues/age-verification" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            EFF: Age Verification<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Electronic Frontier Foundation</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Digital Rights</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The EFF&rsquo;s ongoing coverage and analysis of age verification legislation — tracking bills across states and Congress, explaining the surveillance and free speech implications, …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://animikii.com/insights/databack-recognize-and-reclaim-indigenous-data-sovereignty" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            DataBack: Recognize and Reclaim Indigenous Data Sovereignty<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Animikii</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indigenous Data Sovereignty</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An introduction to the #DataBack movement — what it means for Indigenous communities to reclaim authority over data about their lands, cultures, and peoples. Situates data …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://thereallo.dev/blog/claude-code-prompt-steganography" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Claude Code Prompt Steganography<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— thereallo.dev</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Surveillance &amp; Privacy</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A developer inspecting Claude Code for privacy reasons found that it steganographically embeds hidden markers in its system prompts — identifiers derived from your API base URL and …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://www.gida-global.org/care" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            CARE Principles for Indigenous Data Governance<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— Global Indigenous Data Alliance</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indigenous Data Sovereignty</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The CARE Principles — Collective Benefit, Authority to Control, Responsibility, Ethics — are a governance framework developed by Indigenous data scholars to center Indigenous …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://ai-problems-index.vercel.app/real-issues" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            AI: Real Problems Index<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— AI Problems Index</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Tech Critique</span>
+          
+        </div>
+        
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A running index of documented real-world harms from AI systems — not speculation about future risks, but concrete cases of bias, discrimination, misinformation, environmental …</p>
+        
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-07-01">
+            Jul 1, 2026
+          </time>
+          <a href="https://henry.codes/writing/a-website-to-destroy-all-websites/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            A Website to End All Websites<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— henry.codes</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indie Web &amp; Community Internet</span>
+          
+        </div>
         
         <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A personal essay/manifesto arguing that the internet has been industrialized and monopolized by corporate platforms that exploit users rather than serve them — and that the answer …</p>
         
       </li>
       
-      <li class="px-4 py-3">
-        <a href="https://blog.jwf.io/2020/04/how-did-free-software-build-a-social-movement/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          How Did Free Software Build a Social Movement?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2026-06-29">
+            Jun 29, 2026
+          </time>
+          <a href="https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Age Verification Is Just a Precursor to Attribution of Speech<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— nonogra.ph</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Digital Rights</span>
+          
+        </div>
         
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— jwf.io</span>
+        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Age verification laws ostensibly protect children but actually build identity attribution infrastructure — systems that automatically link digital accounts to real identities. Once …</p>
         
+      </li>
+      
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="2020-04-01">
+            Apr 1, 2020
+          </time>
+          <a href="https://blog.jwf.io/2020/04/how-did-free-software-build-a-social-movement/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            How Did Free Software Build a Social Movement?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400">— jwf.io</span>
+          
+          
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">Indie Web &amp; Community Internet</span>
+          
+        </div>
         
         <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A history of how the free and open-source software movement grew from technical practice into political organizing — the values, the licenses, the communities, and the fights over …</p>
         
       </li>
       
     </ul>
-  </details>
+  </div>
+
   
-  
-  
-  
-  
-  <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
-    <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
-      <span class="font-semibold text-neutral-800 dark:text-neutral">Feminist &amp; Community Tech</span>
-      <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">3</span>
-    </summary>
-    <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
-      
-      <li class="px-4 py-3">
-        <a href="https://geekfeminism.fandom.com/wiki/Geek_Feminism_Wiki" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Geek Feminism Wiki<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
+  <div id="links-view-category" class="hidden">
+    
+
+    
+    
+    
+    
+    <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
+      <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
+        <span class="font-semibold text-neutral-800 dark:text-neutral">Surveillance &amp; Privacy</span>
+        <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">9</span>
+      </summary>
+      <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
         
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Geek Feminism Wiki</span>
+        <li class="px-4 py-3">
+          <a href="https://m.slashdot.org/story/456410" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            US Police Now Armed With Israeli Spy Vans Simulating Mobile Phone Towers<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Slashdot (via cybernews.com and reporting from Josh Walkos)</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Israeli company Cognyte&rsquo;s Falconet technology lets US law enforcement mount cell-tower simulators in ordinary vehicles, intercepting mobile data from every nearby phone …</p>
+          
+        </li>
         
+        <li class="px-4 py-3">
+          <a href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Now Google Says It Might Use Your Gmail and Google Photos Data to Target Ads<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— The Verge (Jess Weatherbed)</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Google&rsquo;s updated privacy policy ties its new &lsquo;Personal Intelligence&rsquo; AI features to ad targeting: opting in to let Gemini draw on your Gmail and Google Photos for …</p>
+          
+        </li>
         
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A resource for and about women in geek communities, running since May 2008 and covering harassment policies, sexism in tech and SFF fandom, and related &lsquo;issues&rsquo; and …</p>
+        <li class="px-4 py-3">
+          <a href="https://m.slashdot.org/story/456030" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Hundreds Support Legal Defense for Engineer Charged with Destroying Flock Surveillance Cameras<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Slashdot (via Futurism)</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A US Air Force engineer, Jeffrey Sovern, faces criminal charges for allegedly damaging more than a dozen AI-powered Flock license-plate-reader cameras. His legal defense fund has …</p>
+          
+        </li>
         
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://sabot.media/guides/become-the-thousand-servers/" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Become the Thousand Servers<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
+        <li class="px-4 py-3">
+          <a href="https://m.youtube.com/watch?v=Ozog_UiKzSU" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Edward Snowden Reveals How They Spy on You<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Thinkable (YouTube)</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A video built around Edward Snowden&rsquo;s account of NSA mass-surveillance programs — the scope of bulk data and metadata collection he exposed in 2013. Published by the channel …</p>
+          
+        </li>
         
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Sabot Media</span>
+        <li class="px-4 py-3">
+          <a href="https://automatictransmission.khoury.northeastern.edu/index.html#dataset" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Automatic Transmission: A Privacy Study of Connected Vehicles<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Northeastern University (with Consumer Reports)</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Billed as the first large-scale measurement study of the connected-vehicle ecosystem, this Northeastern/Consumer Reports research examined 21 vehicles and 30 companion apps and …</p>
+          
+        </li>
         
+        <li class="px-4 py-3">
+          <a href="https://surveillancevalley.com/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Surveillance Valley: The Secret Military History of the Internet<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Yasha Levine</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Levine&rsquo;s investigation into the ARPANET&rsquo;s origins and the unbroken line between the internet&rsquo;s military-surveillance roots and today&rsquo;s tech industry. …</p>
+          
+        </li>
         
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A field guide arguing that infrastructure resilience comes from spreading technical knowledge across a group, not from concentrating it in one skilled person or one well-maintained …</p>
+        <li class="px-4 py-3">
+          <a href="https://neveragain.tech/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Never Again Tech — Tech Worker Pledge<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— neveragain.tech</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A public pledge by technology workers to refuse to build databases of people by race, religion, or national origin; refuse to build tools for mass surveillance; and resist …</p>
+          
+        </li>
         
-      </li>
-      
-      <li class="px-4 py-3">
-        <a href="https://ftx.apc.org/books/en-sexuality-and-internet-governance/page/feminist-server" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          What is a Feminist Server?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
+        <li class="px-4 py-3">
+          <a href="https://haveibeenflocked.com/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Have I Been Flocked?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— haveibeenflocked.com</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Search whether your license plate has been captured in Flock Safety&rsquo;s automated license plate reader (ALPR) database — over 208 million documented searches. Publishes public …</p>
+          
+        </li>
         
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Association for Progressive Communications</span>
+        <li class="px-4 py-3">
+          <a href="https://thereallo.dev/blog/claude-code-prompt-steganography" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Claude Code Prompt Steganography<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— thereallo.dev</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A developer inspecting Claude Code for privacy reasons found that it steganographically embeds hidden markers in its system prompts — identifiers derived from your API base URL and …</p>
+          
+        </li>
         
+      </ul>
+    </details>
+    
+    
+    
+    
+    
+    <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
+      <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
+        <span class="font-semibold text-neutral-800 dark:text-neutral">Digital Rights</span>
+        <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">3</span>
+      </summary>
+      <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
         
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">What would it mean to build digital infrastructure that embodies feminist values — not just in content policy but in governance, ownership, and who the infrastructure serves? …</p>
+        <li class="px-4 py-3">
+          <a href="https://m.slashdot.org/story/456014" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            GoDaddy Warns India&#39;s Crackdown on Fake Site Registrars Could Upend Internet Privacy Everywhere<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Slashdot (via Gizmodo/Reuters)</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An Indian court ordered domain registrars to strip default WHOIS privacy protections and hand over owner information within 72 hours to anyone claiming a &rsquo;legitimate …</p>
+          
+        </li>
         
-      </li>
-      
-    </ul>
-  </details>
-  
-  
-  
-  
-  
-  <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
-    <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
-      <span class="font-semibold text-neutral-800 dark:text-neutral">Useful Projects &amp; Tools</span>
-      <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">1</span>
-    </summary>
-    <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
-      
-      <li class="px-4 py-3">
-        <a href="https://github.com/EFForg/rayhunter" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          Rayhunter<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
+        <li class="px-4 py-3">
+          <a href="https://www.eff.org/issues/age-verification" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            EFF: Age Verification<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Electronic Frontier Foundation</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The EFF&rsquo;s ongoing coverage and analysis of age verification legislation — tracking bills across states and Congress, explaining the surveillance and free speech implications, …</p>
+          
+        </li>
         
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Electronic Frontier Foundation</span>
+        <li class="px-4 py-3">
+          <a href="https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Age Verification Is Just a Precursor to Attribution of Speech<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— nonogra.ph</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Age verification laws ostensibly protect children but actually build identity attribution infrastructure — systems that automatically link digital accounts to real identities. Once …</p>
+          
+        </li>
         
+      </ul>
+    </details>
+    
+    
+    
+    
+    
+    <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
+      <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
+        <span class="font-semibold text-neutral-800 dark:text-neutral">Indigenous Data Sovereignty</span>
+        <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">7</span>
+      </summary>
+      <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
         
-        <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An open-source tool from EFF that detects IMSI catchers (cell-site simulators / Stingrays) — devices that impersonate cell towers to intercept phones. Originally built for the …</p>
+        <li class="px-4 py-3">
+          <a href="https://calyx.org/news/2026/sepal-fund-grantee-spotlight-abya-yala" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Abya Yala Network: Enabling Community-Owned Internet Infrastructure Across the Americas<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Calyx Institute</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The Abya Yala Network helps Indigenous peoples, environmental defenders, and grassroots groups across the Americas build and run their own communication infrastructure — training …</p>
+          
+        </li>
         
-      </li>
-      
-    </ul>
-  </details>
-  
-  
+        <li class="px-4 py-3">
+          <a href="https://www.sentinelsnetwork.com/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Sentinels Network<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Sentinels Network</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A platform built for and by Indigenous communities to monitor, manage, and protect their lands and waters using community-controlled data infrastructure. A concrete example of what …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://eos.org/articles/keeping-indigenous-science-knowledge-out-of-a-colonial-mold" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Keeping Indigenous Science Knowledge out of a Colonial Mold<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Eos / AGU</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">How researchers and Indigenous communities are working to document and protect traditional ecological knowledge without forcing it into Western scientific frameworks that strip it …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://www.indigenousmaps.com/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Indigenous Mapping Collective<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Indigenous Mapping Collective</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Community-led mapping initiatives centering Indigenous peoples&rsquo; relationships to land. A model for what it looks like when technically skilled people work in genuine …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://magazine.scienceforthepeople.org/vol23-1/indigenous-knowledge-western-science-and-the-us-colonial-project/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Indigenous Knowledge, Western Science, and the US Colonial Project<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Science for the People</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">How Western scientific institutions have historically appropriated, dismissed, and suppressed Indigenous knowledge systems while simultaneously depending on Indigenous land and …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://animikii.com/insights/databack-recognize-and-reclaim-indigenous-data-sovereignty" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            DataBack: Recognize and Reclaim Indigenous Data Sovereignty<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Animikii</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An introduction to the #DataBack movement — what it means for Indigenous communities to reclaim authority over data about their lands, cultures, and peoples. Situates data …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://www.gida-global.org/care" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            CARE Principles for Indigenous Data Governance<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Global Indigenous Data Alliance</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The CARE Principles — Collective Benefit, Authority to Control, Responsibility, Ethics — are a governance framework developed by Indigenous data scholars to center Indigenous …</p>
+          
+        </li>
+        
+      </ul>
+    </details>
+    
+    
+    
+    
+    
+    <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
+      <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
+        <span class="font-semibold text-neutral-800 dark:text-neutral">Tech Critique</span>
+        <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">6</span>
+      </summary>
+      <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
+        
+        <li class="px-4 py-3">
+          <a href="https://m.slashdot.org/story/456032" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            How Tech Scammers Conned Four People Out of $673,000 in Three Days<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— USA Today (via Slashdot)</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Four residents of Clallam County, Washington lost over $673,000 in 72 hours to scammers impersonating Microsoft support, crypto platforms, and federal agents — fake security alerts …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://m.slashdot.org/story/456004" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Are Wars Blurring Lines Between Corporate and National Security?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Wall Street Journal (via Slashdot)</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Modern conflict increasingly targets privately-owned infrastructure — subsea cables, power stations, ports, data centers — collapsing the line between corporate assets and national …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://m.slashdot.org/story/456650" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            A Fundamental Flaw Leaves LLMs Strikingly Vulnerable To Attack<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Slashdot (via MIT Technology Review)</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Researchers presented findings at ICML showing that LLMs have a structural weakness in how they distinguish instructions from different sources — attackers can exploit that …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://www.internetjustsociety.org/the-road-to-techno-colonialism" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            The Road to Techno-Colonialism<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Internet &amp; Just Society</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">Traces how tech corporations replicate the patterns of colonial extraction — entering new markets, crowding out local alternatives, creating dependency, and extracting value back …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://dalab.xyz/en/blog/the-new-luddites/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            The New Luddites<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— DA Lab</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An examination of the growing neo-Luddite movement — people choosing to reject or limit their engagement with surveillance capitalism&rsquo;s tools, not out of technophobia but out …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://ai-problems-index.vercel.app/real-issues" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            AI: Real Problems Index<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— AI Problems Index</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A running index of documented real-world harms from AI systems — not speculation about future risks, but concrete cases of bias, discrimination, misinformation, environmental …</p>
+          
+        </li>
+        
+      </ul>
+    </details>
+    
+    
+    
+    
+    
+    <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
+      <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
+        <span class="font-semibold text-neutral-800 dark:text-neutral">Indie Web &amp; Community Internet</span>
+        <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">4</span>
+      </summary>
+      <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
+        
+        <li class="px-4 py-3">
+          <a href="https://m.slashdot.org/story/455998" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            FSF Shares Update on &#39;LibrePhone&#39; and New Automated Site Monitoring Tool<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Slashdot</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">The Free Software Foundation&rsquo;s LibrePhone project is reverse-engineering the proprietary firmware blobs inside smartphones — lead developer Rob Savoye has already extracted …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://indieweb.org/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            IndieWeb — Own Your Data<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— indieweb.org</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A community and movement built around the principle that people should own their own data and content — publishing on their own domains, using open standards to connect and …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://henry.codes/writing/a-website-to-destroy-all-websites/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            A Website to End All Websites<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— henry.codes</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A personal essay/manifesto arguing that the internet has been industrialized and monopolized by corporate platforms that exploit users rather than serve them — and that the answer …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://blog.jwf.io/2020/04/how-did-free-software-build-a-social-movement/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            How Did Free Software Build a Social Movement?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— jwf.io</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A history of how the free and open-source software movement grew from technical practice into political organizing — the values, the licenses, the communities, and the fights over …</p>
+          
+        </li>
+        
+      </ul>
+    </details>
+    
+    
+    
+    
+    
+    <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
+      <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
+        <span class="font-semibold text-neutral-800 dark:text-neutral">Feminist &amp; Community Tech</span>
+        <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">3</span>
+      </summary>
+      <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
+        
+        <li class="px-4 py-3">
+          <a href="https://geekfeminism.fandom.com/wiki/Geek_Feminism_Wiki" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Geek Feminism Wiki<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Geek Feminism Wiki</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A resource for and about women in geek communities, running since May 2008 and covering harassment policies, sexism in tech and SFF fandom, and related &lsquo;issues&rsquo; and …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://sabot.media/guides/become-the-thousand-servers/" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Become the Thousand Servers<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Sabot Media</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">A field guide arguing that infrastructure resilience comes from spreading technical knowledge across a group, not from concentrating it in one skilled person or one well-maintained …</p>
+          
+        </li>
+        
+        <li class="px-4 py-3">
+          <a href="https://ftx.apc.org/books/en-sexuality-and-internet-governance/page/feminist-server" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            What is a Feminist Server?<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Association for Progressive Communications</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">What would it mean to build digital infrastructure that embodies feminist values — not just in content policy but in governance, ownership, and who the infrastructure serves? …</p>
+          
+        </li>
+        
+      </ul>
+    </details>
+    
+    
+    
+    
+    
+    <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
+      <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
+        <span class="font-semibold text-neutral-800 dark:text-neutral">Useful Projects &amp; Tools</span>
+        <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">1</span>
+      </summary>
+      <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
+        
+        <li class="px-4 py-3">
+          <a href="https://github.com/EFForg/rayhunter" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            Rayhunter<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— Electronic Frontier Foundation</span>
+          
+          
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">An open-source tool from EFF that detects IMSI catchers (cell-site simulators / Stingrays) — devices that impersonate cell towers to intercept phones. Originally built for the …</p>
+          
+        </li>
+        
+      </ul>
+    </details>
+    
+    
+  </div>
 </div>
+
+<script>
+  function setLinksView(view) {
+    var chrono = document.getElementById('links-view-chrono');
+    var category = document.getElementById('links-view-category');
+    var chronoBtn = document.getElementById('links-view-btn-chrono');
+    var categoryBtn = document.getElementById('links-view-btn-category');
+    var showChrono = view === 'chrono';
+    chrono.classList.toggle('hidden', !showChrono);
+    category.classList.toggle('hidden', showChrono);
+    chronoBtn.setAttribute('aria-pressed', showChrono);
+    categoryBtn.setAttribute('aria-pressed', !showChrono);
+  }
+</script>
 
         
       </main><footer id="site-footer" class="py-10 print:hidden">

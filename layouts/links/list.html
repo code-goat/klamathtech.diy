@@ -7,35 +7,88 @@
     {{ end }}
   </header>
 
-  {{ $categories := slice "Surveillance & Privacy" "Digital Rights" "Indigenous Data Sovereignty" "Tech Critique" "Indie Web & Community Internet" "Feminist & Community Tech" "Useful Projects & Tools" }}
+  <div class="mb-6 flex gap-2" role="group" aria-label="Links view">
+    <button type="button" id="links-view-btn-chrono" onclick="setLinksView('chrono')" aria-pressed="true"
+      class="rounded-md px-3 py-1.5 text-sm font-medium transition-colors bg-neutral-100 text-neutral-600 dark:bg-neutral-800 dark:text-neutral-400 aria-pressed:bg-primary-600 aria-pressed:text-neutral dark:aria-pressed:bg-primary-700">By Date</button>
+    <button type="button" id="links-view-btn-category" onclick="setLinksView('category')" aria-pressed="false"
+      class="rounded-md px-3 py-1.5 text-sm font-medium transition-colors bg-neutral-100 text-neutral-600 dark:bg-neutral-800 dark:text-neutral-400 aria-pressed:bg-primary-600 aria-pressed:text-neutral dark:aria-pressed:bg-primary-700">By Category</button>
+  </div>
 
-  {{ range $categories }}
-  {{ $cat := . }}
-  {{ $pages := where $.Pages "Params.category" $cat }}
-  {{ if $pages }}
-  <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
-    <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
-      <span class="font-semibold text-neutral-800 dark:text-neutral">{{ $cat }}</span>
-      <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">{{ len $pages }}</span>
-    </summary>
+  {{/* Default view: flat reverse-chronological feed, newest first */}}
+  <div id="links-view-chrono">
     <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
-      {{ range $pages.ByDate.Reverse }}
-      <li class="px-4 py-3">
-        <a href="{{ .Params.externalUrl }}" target="_blank" rel="external noopener"
-           class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
-          {{ .Title }}<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
-        </a>
-        {{ with .Params.source }}
-        <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— {{ . }}</span>
-        {{ end }}
+      {{ range .RegularPages.ByDate.Reverse }}
+      <li class="py-3">
+        <div class="flex items-baseline gap-2 flex-wrap">
+          <time class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0"
+                datetime="{{ .Date | time.Format "2006-01-02" }}">
+            {{ .Date | time.Format (site.Language.Params.dateFormat | default "Jan 2, 2006") }}
+          </time>
+          <a href="{{ .Params.externalUrl }}" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            {{ .Title }}<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          {{ with .Params.source }}
+          <span class="text-xs text-primary-600 dark:text-primary-400">— {{ . }}</span>
+          {{ end }}
+          {{ with .Params.category }}
+          <span class="text-[0.65rem] uppercase tracking-wide text-neutral-400 dark:text-neutral-500 border border-neutral-200 dark:border-neutral-700 rounded px-1.5 py-0.5">{{ . }}</span>
+          {{ end }}
+        </div>
         {{ with .Summary }}
         <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">{{ . | plainify | truncate 180 }}</p>
         {{ end }}
       </li>
       {{ end }}
     </ul>
-  </details>
-  {{ end }}
-  {{ end }}
+  </div>
+
+  {{/* Secondary view: collapsible category groups */}}
+  <div id="links-view-category" class="hidden">
+    {{ $categories := slice "Surveillance & Privacy" "Digital Rights" "Indigenous Data Sovereignty" "Tech Critique" "Indie Web & Community Internet" "Feminist & Community Tech" "Useful Projects & Tools" }}
+
+    {{ range $categories }}
+    {{ $cat := . }}
+    {{ $pages := where $.Pages "Params.category" $cat }}
+    {{ if $pages }}
+    <details class="mb-3 border border-neutral-200 dark:border-neutral-700 rounded-md overflow-hidden">
+      <summary class="flex items-center justify-between px-4 py-3 cursor-pointer bg-neutral-50 dark:bg-neutral-800 hover:bg-neutral-100 dark:hover:bg-neutral-700 select-none">
+        <span class="font-semibold text-neutral-800 dark:text-neutral">{{ $cat }}</span>
+        <span class="text-xs text-neutral-400 dark:text-neutral-500 ml-3">{{ len $pages }}</span>
+      </summary>
+      <ul class="divide-y divide-neutral-100 dark:divide-neutral-700">
+        {{ range $pages.ByDate.Reverse }}
+        <li class="px-4 py-3">
+          <a href="{{ .Params.externalUrl }}" target="_blank" rel="external noopener"
+             class="text-sm font-medium text-neutral-800 dark:text-neutral hover:underline decoration-primary-500 underline-offset-2">
+            {{ .Title }}<span class="text-xs align-top text-neutral-400 dark:text-neutral-500 ml-0.5">&#8599;</span>
+          </a>
+          {{ with .Params.source }}
+          <span class="text-xs text-primary-600 dark:text-primary-400 ml-1">— {{ . }}</span>
+          {{ end }}
+          {{ with .Summary }}
+          <p class="mt-0.5 text-xs text-neutral-500 dark:text-neutral-400 leading-snug">{{ . | plainify | truncate 180 }}</p>
+          {{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    </details>
+    {{ end }}
+    {{ end }}
+  </div>
 </div>
+
+<script>
+  function setLinksView(view) {
+    var chrono = document.getElementById('links-view-chrono');
+    var category = document.getElementById('links-view-category');
+    var chronoBtn = document.getElementById('links-view-btn-chrono');
+    var categoryBtn = document.getElementById('links-view-btn-category');
+    var showChrono = view === 'chrono';
+    chrono.classList.toggle('hidden', !showChrono);
+    category.classList.toggle('hidden', showChrono);
+    chronoBtn.setAttribute('aria-pressed', showChrono);
+    categoryBtn.setAttribute('aria-pressed', !showChrono);
+  }
+</script>
 {{ end }}
