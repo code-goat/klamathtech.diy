@@ -68,6 +68,12 @@ With Windows 10 support ending in 2025 and many older computers unable to upgrad
 - **Volunteer** with refurbishing, data erasure, or tech support.
 - **Request a device** for yourself, your family, or your organization.
 
+**Ready to donate, or want the details before you reach out?** The donation packet covers how the process works, the equipment donation agreement, the item checklist, and the optional data erasure request.
+
+{{< button href="/donation-forms/3.0-packet-before-you-donate.pdf" target="_blank" rel="noopener" >}}Download the Donation Packet (PDF){{< /button >}}
+
+Just want the quick overview first? {{< button href="/donation-forms/1.0-how-donating-works.pdf" target="_blank" rel="noopener" >}}How Donating Works (PDF){{< /button >}}
+
 ---
 
 **Let’s build a resilient, community-owned digital future-one reclaimed computer at a time.**
