@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
-    <link>http://localhost:1313/tags/security/</link>
+    <link>https://klamathtech.diy/tags/security/</link>
     <description>Recent content in Security on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Fundamental Flaw Leaves LLMs Strikingly Vulnerable To Attack</title>
-      <link>http://localhost:1313/links/llms-vulnerable-to-attack/</link>
+      <link>https://klamathtech.diy/links/llms-vulnerable-to-attack/</link>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/links/llms-vulnerable-to-attack/</guid>
+      <guid>https://klamathtech.diy/links/llms-vulnerable-to-attack/</guid>
       <description>Researchers presented findings at ICML showing that LLMs have a structural weakness in how they distinguish instructions from different sources — attackers can exploit that confusion to bypass safety guardrails. The researchers argue the flaw may not be patchable through better training alone, since it&amp;rsquo;s rooted in how the models process &amp;lsquo;roles&amp;rsquo; at all, not a fixable bug in one system.</description>
       
     </item>
     
     <item>
       <title>Are Wars Blurring Lines Between Corporate and National Security?</title>
-      <link>http://localhost:1313/links/wars-corporate-national-security/</link>
+      <link>https://klamathtech.diy/links/wars-corporate-national-security/</link>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/links/wars-corporate-national-security/</guid>
+      <guid>https://klamathtech.diy/links/wars-corporate-national-security/</guid>
       <description>Modern conflict increasingly targets privately-owned infrastructure — subsea cables, power stations, ports, data centers — collapsing the line between corporate assets and national security. NATO is now funding protection of private infrastructure as a defense expenditure, raising the question of who actually controls, and who&amp;rsquo;s liable for, the physical backbone the internet and power grid run on.</description>
       
     </item>
     
     <item>
       <title>Automatic Transmission: A Privacy Study of Connected Vehicles</title>
-      <link>http://localhost:1313/links/automatic-transmission-connected-car-privacy/</link>
+      <link>https://klamathtech.diy/links/automatic-transmission-connected-car-privacy/</link>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/links/automatic-transmission-connected-car-privacy/</guid>
+      <guid>https://klamathtech.diy/links/automatic-transmission-connected-car-privacy/</guid>
       <description>Billed as the first large-scale measurement study of the connected-vehicle ecosystem, this Northeastern/Consumer Reports research examined 21 vehicles and 30 companion apps and found most cars contact advertising and tracking domains by default — with companion apps substantially expanding what&amp;rsquo;s collected beyond what manufacturers disclose. The gap between stated privacy policy and actual data flows is the headline finding.</description>
       
     </item>
     
     <item>
       <title>Rayhunter</title>
-      <link>http://localhost:1313/links/rayhunter/</link>
+      <link>https://klamathtech.diy/links/rayhunter/</link>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/links/rayhunter/</guid>
+      <guid>https://klamathtech.diy/links/rayhunter/</guid>
       <description>An open-source tool from EFF that detects IMSI catchers (cell-site simulators / Stingrays) — devices that impersonate cell towers to intercept phones. Originally built for the Orbic RC400L mobile hotspot, with community-added support for more hardware since. A concrete, usable way to detect cellular surveillance rather than just read about it.</description>
       
     </item>
     
     <item>
       <title>Claude Code Prompt Steganography</title>
-      <link>http://localhost:1313/links/claude-code-prompt-steganography/</link>
+      <link>https://klamathtech.diy/links/claude-code-prompt-steganography/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/links/claude-code-prompt-steganography/</guid>
+      <guid>https://klamathtech.diy/links/claude-code-prompt-steganography/</guid>
       <description>A developer inspecting Claude Code for privacy reasons found that it steganographically embeds hidden markers in its system prompts — identifiers derived from your API base URL and timezone, invisible to users but present in every request. When a coding agent has filesystem, shell, and git access to your work, the binary shipping it should be transparent about what it&amp;rsquo;s sending.</description>
       
     </item>

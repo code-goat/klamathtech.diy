@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</title>
-    <link>http://localhost:1313/tags/ai/</link>
+    <link>https://klamathtech.diy/tags/ai/</link>
     <description>Recent content in AI on ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</managingEditor>
     <webMaster>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</webMaster>
     <copyright>© 2026 ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://klamathtech.diy/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI Reality Check: Staying Grounded in the Age of Machine Hype</title>
-      <link>http://localhost:1313/info/ai_literacy/</link>
+      <link>https://klamathtech.diy/info/ai_literacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/ai_literacy/</guid>
+      <guid>https://klamathtech.diy/info/ai_literacy/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/ai_literacy/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/ai_literacy/feature.png" />
     </item>
     
     <item>
       <title>Questions of Animism, AI, and Consciousness</title>
-      <link>http://localhost:1313/info/ai_animism/</link>
+      <link>https://klamathtech.diy/info/ai_animism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/ai_animism/</guid>
+      <guid>https://klamathtech.diy/info/ai_animism/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/ai_animism/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/ai_animism/feature.png" />
     </item>
     
     <item>
       <title>The Reverse Centaur: Who Does Technology Work For?</title>
-      <link>http://localhost:1313/info/reverse_centaur/</link>
+      <link>https://klamathtech.diy/info/reverse_centaur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/info/reverse_centaur/</guid>
+      <guid>https://klamathtech.diy/info/reverse_centaur/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/info/reverse_centaur/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://klamathtech.diy/info/reverse_centaur/feature.png" />
     </item>
     
     <item>
       <title>A Fundamental Flaw Leaves LLMs Strikingly Vulnerable To Attack</title>
-      <link>http://localhost:1313/links/llms-vulnerable-to-attack/</link>
+      <link>https://klamathtech.diy/links/llms-vulnerable-to-attack/</link>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/links/llms-vulnerable-to-attack/</guid>
+      <guid>https://klamathtech.diy/links/llms-vulnerable-to-attack/</guid>
       <description>Researchers presented findings at ICML showing that LLMs have a structural weakness in how they distinguish instructions from different sources — attackers can exploit that confusion to bypass safety guardrails. The researchers argue the flaw may not be patchable through better training alone, since it&amp;rsquo;s rooted in how the models process &amp;lsquo;roles&amp;rsquo; at all, not a fixable bug in one system.</description>
       
     </item>
     
     <item>
       <title>Now Google Says It Might Use Your Gmail and Google Photos Data to Target Ads</title>
-      <link>http://localhost:1313/links/google-gmail-photos-ad-targeting/</link>
+      <link>https://klamathtech.diy/links/google-gmail-photos-ad-targeting/</link>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/links/google-gmail-photos-ad-targeting/</guid>
+      <guid>https://klamathtech.diy/links/google-gmail-photos-ad-targeting/</guid>
       <description>Google&amp;rsquo;s updated privacy policy ties its new &amp;lsquo;Personal Intelligence&amp;rsquo; AI features to ad targeting: opting in to let Gemini draw on your Gmail and Google Photos for personalized AI recommendations also opens that same data up for more personalized ads. The AI-features pitch and the ad-targeting expansion are, by design, the same consent.</description>
       
     </item>
     
     <item>
       <title>AI: Real Problems Index</title>
-      <link>http://localhost:1313/links/ai-real-problems/</link>
+      <link>https://klamathtech.diy/links/ai-real-problems/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/links/ai-real-problems/</guid>
+      <guid>https://klamathtech.diy/links/ai-real-problems/</guid>
       <description>A running index of documented real-world harms from AI systems — not speculation about future risks, but concrete cases of bias, discrimination, misinformation, environmental damage, labor exploitation, and rights violations happening now. A useful counter to the hype cycle.</description>
       
     </item>
     
     <item>
       <title>Claude Code Prompt Steganography</title>
-      <link>http://localhost:1313/links/claude-code-prompt-steganography/</link>
+      <link>https://klamathtech.diy/links/claude-code-prompt-steganography/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <author>contact@klamathtech.diy (ҜŁΔΜΔŦĦ Ŧ€ĆĦ ĆØŁŁ€ĆŦƗV€)</author>
-      <guid>http://localhost:1313/links/claude-code-prompt-steganography/</guid>
+      <guid>https://klamathtech.diy/links/claude-code-prompt-steganography/</guid>
       <description>A developer inspecting Claude Code for privacy reasons found that it steganographically embeds hidden markers in its system prompts — identifiers derived from your API base URL and timezone, invisible to users but present in every request. When a coding agent has filesystem, shell, and git access to your work, the binary shipping it should be transparent about what it&amp;rsquo;s sending.</description>
       
     </item>
