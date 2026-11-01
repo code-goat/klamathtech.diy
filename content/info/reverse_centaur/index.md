@@ -110,11 +110,27 @@ This is the fracture line that Doctorow's framework reveals: on one side, people
 
 ---
 
+## Three Kinds of Power Baked Into a Tool
+
+As Doctorow describes it, not every piece of technology carries power the same way.
+
+Some tools only carry a particular politics because of one specific choice someone made about how to build or deploy them. A famous example: certain highway overpasses on Long Island were built just low enough that a public bus couldn't fit underneath — cutting off a direct transit route between poorer, browner neighborhoods and a public beach favored by the wealthy. There's nothing inherently segregationist about an overpass. This one carries that politics anyway, because of a petty, deliberate decision that outlived the man who made it.
+
+Other technologies carry power for a different reason: their technical requirements force a particular arrangement no matter who's in charge. A nuclear reactor has to be built, fueled, and guarded by a centralized authority with access to enriched uranium — there's no version of "backyard nuclear power" that escapes that. Solar panels don't have that requirement. They can be installed, owned, and maintained by a single household or a small cooperative. That politics isn't bolted onto the technology after the fact — it's baked into what the technology physically demands.
+
+And then there's a third, messier category: a tool that wasn't built to concentrate power, but ends up doing it anyway because of who gets to decide how it's used. A mechanical harvester that picks tomatoes faster than any crew of people isn't inherently anti-worker. But hand that harvester to an owner who only cares about cutting labor costs, and the result is fewer jobs, lower wages, and tomatoes bred for durability instead of flavor — because durability is what survives the machine. The harvester didn't demand any of that. The arrangement of who controls it did.
+
+AI mostly falls into this third category, and that's actually useful to know. Nothing about predicting the next plausible word requires crushing wages, seizing farmland for data centers, or betting trillions of dollars nobody has on a technology that generates a fraction of that in real revenue. Those are choices, made by people racing to turn an enormous capital bet into profit by any means available — including shoving it into your job, your hospital, your warehouse, whether or not it belongs there. The industry needs AI to look inevitable and all-consuming to justify what it's already spent. That need is a property of the money chasing the technology, not a property of the technology itself.
+
+---
+
 ## Where the Collective Stands
 
 The work of the Klamath Tech Collective is, in Doctorow's terms, work to help people be centaurs.
 
 Our [Digital Self-Defense workshops](/projects/workshops/) teach people to choose their tools consciously — to understand what an app does to them, not just for them. Our [Privacy 101 guides](/guides/privacy101/) exist because surveillance tools are the clearest example of technology that serves its makers, not its users. Our [UpRiv\|Upcycle program](/projects/upcycle/) puts refurbished computers running open-source software into community hands — hardware and software that the user controls, that cannot be remotely updated into a surveillance tool, that doesn't phone home.
+
+Bubbles pop. When this one does, the frontier labs that spent trillions chasing a wage-suppression dream will mostly go quiet — but the actual artifacts won't vanish with them: open-weight models already released into the world, cheap hardware auctioned out of failed data centers, and a generation of workers who understand this technology better than the bosses who tried to point it at them. What happens to all of that leftover capacity is, once again, a choice. Put it in the hands of the people who do the work instead of the people chasing the next funding round, and it looks a lot more like a centaur arrangement than anything currently for sale.
 
 Doctorow closes his introduction with Gibson's maxim: **"The street finds its own use for things."**
 

@@ -72,6 +72,8 @@ The hype machine runs on:
 - **FOMO** — the relentless message that if you do not adopt AI immediately, you will be left behind
 - **Inevitability** — the insistence that this trajectory cannot be questioned, only managed
 
+It's worth being precise about what you're actually objecting to here, too. Disliking slop, disinformation, and jobs quietly handed to a chatbot that can't do them is not the same thing as objecting to the underlying math — counting which words tend to follow which other words. Right now those two things are hard to tell apart, because nearly everything called "AI" comes from the same handful of companies racing to make an enormous bet profitable. But the harms worth being angry about — the wage cuts, the land seized for data centers, the unaccountable mistakes — are about who built the tool and why, not about whether a machine can guess the next word in a sentence. Keeping that distinction clear matters, so your skepticism lands on the people making the choices, not on arithmetic.
+
 None of this serves our communities. The Klamath region does not need to feel more dependent on distant digital infrastructures. It needs tools that work, knowledge that empowers, and technology that we actually control.
 
 ---
