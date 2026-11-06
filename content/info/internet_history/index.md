@@ -81,7 +81,7 @@ The broader **Indigenous data sovereignty** movement — articulated through fra
 
 What data sovereignty looks like in practice — the concrete, bioregional stakes of this history — is the subject of [#Data Back →](/info/data_back/).
 
-The internet was built by the Pentagon. Cypherpunks and Zapatistas and tribal broadband cooperatives and Māori data center builders and Indymedia volunteers did extraordinary things with it anyway. The fight over who controls the infrastructure, the data, the protocols, and the knowledge of how it all works is ongoing. It belongs to us as much as anyone — and in this watershed, it is ours to take up.
+The internet was built by the Pentagon. Cypherpunks and Zapatistas and tribal broadband cooperatives and Māori data center builders and Indymedia volunteers did extraordinary things with it anyway. The fight over who controls the infrastructure, the data, the protocols, and the knowledge of how it all works is ongoing. Indigenous nations are leading sovereignty fights of their own within it — fights that belong to them, not to us. But the fight over who controls the infrastructure is bigger than any one front, and in this watershed, it's one we take up too: alongside, not in place of.
 
 ---
 

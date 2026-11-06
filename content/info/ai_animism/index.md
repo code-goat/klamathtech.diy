@@ -31,11 +31,11 @@ These are not the same questions. And they lead to very different places.
 
 ## What Animism Actually Says
 
-Animism is not simply the belief that "everything has a soul" in a vague, undifferentiated way. That framing flattens what are actually careful and diverse Indigenous frameworks about the relationships between beings.
+Animism is not simply the belief that "everything has a soul" in a vague, undifferentiated way. That framing flattens what are actually careful and diverse Indigenous frameworks about the relationships between beings — frameworks that vary by nation, place, and tradition, and that are best heard from the people who hold them rather than paraphrased by an outside observer.
 
-In the traditions of the Karuk, Yurok, and Hupa peoples of this watershed, the river is not a resource and the salmon are not fish in the reductive sense. These are beings with their own agency, their own relationships, their own place in a web of obligation and reciprocity that has sustained this valley for generations beyond counting. These are not metaphors. They are descriptions of how the world actually works, developed through sustained, embodied, attentive relationship with this specific place over deep time.
+Tribal members of this watershed describe those relationships directly, in their own words. Rosie Clayburn, Yurok tribal heritage preservation officer, has put it this way: "We feel like the salmon is related to us, we feel like the condor is related to us… It's our place, culturally and ceremonially, to protect them." Tiana Williams, a Yurok tribal condor biologist, describes returning condors to Yurok ancestral territory as "bringing a member of our community, our family, home." Charley Reed, a Karuk/Yurok/Hupa dip-net fisherman, put the stakes plainly: "If the fish are unhealthy, we're unhealthy."[^1] Relationships like these — of kinship, obligation, and reciprocity — are not metaphors to the people who hold them, and they're sustained through direct, embodied relationship with a specific place over generations.
 
-The Potawatomi botanist Robin Wall Kimmerer describes what she calls the **grammar of animacy**: in Potawatomi, plants and animals, rivers and stones, are referred to as *who*, not *what*. This is not poetic license. It is a description of relationship. To say "who" is to acknowledge agency, the possibility of reciprocity. To say "what" is to reduce a being to an object available for use.
+The Potawatomi botanist Robin Wall Kimmerer describes a related idea from her own nation's tradition — what she calls the **grammar of animacy**: in Potawatomi, plants and animals, rivers and stones, are referred to as *who*, not *what*. This is not poetic license. It is a description of relationship. To say "who" is to acknowledge agency, the possibility of reciprocity. To say "what" is to reduce a being to an object available for use.
 
 The crucial point is this: animist frameworks are not claiming that rocks have the same inner experience as humans. They are saying something more specific — that what we might call consciousness, or spirit, or *beingness*, is not concentrated in creatures with complex neural architecture. It is relational. It emerges from being genuinely woven into the world: from having a place, a history, obligations, relationships.
 
@@ -112,10 +112,13 @@ Both frameworks — materialist and animist — point the same direction: away f
 ## Further Reading
 
 - Kimmerer, Robin Wall. *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teaching of Plants.* Milkweed Editions, 2013.
+- [How Yurok and Karuk Traditions Sustain Delicate Balance of North Coast Species](https://www.pbssocal.org/shows/tending-nature/how-yurok-and-karuk-traditions-sustain-delicate-balance-of-north-coast-species) — PBS SoCal, *Tending Nature*, source for the Clayburn, Williams, and Reed quotes above.
 - Viljoen, Salomé. "A Relational Theory of Data Governance." *Yale Law Journal* 131:573, 2021.
 - Indigenous Data Alliance & Te Kāhui Raraunga Charitable Trust. *Relational Infrastructures for Sovereign Data Storage: Te Pā Tūwatawata.* IDA, 2026.
 - Duarte, Marisa Elena. *Network Sovereignty: Building the Internet Across Indian Country.* University of Washington Press, 2017.
 - Porębski, A. & Figura, J. "There is no such thing as conscious artificial intelligence." *Humanities and Social Sciences Communications*, 2025. — and our [AI Reality Check](/info/ai_literacy/) for the materialist case in full.
+
+[^1]: Rosie Clayburn, Tiana Williams, and Charley Reed, quoted in ["How Yurok and Karuk Traditions Sustain Delicate Balance of North Coast Species,"](https://www.pbssocal.org/shows/tending-nature/how-yurok-and-karuk-traditions-sustain-delicate-balance-of-north-coast-species) PBS SoCal, *Tending Nature*.
 
 ---
 

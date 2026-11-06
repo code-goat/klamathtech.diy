@@ -22,7 +22,7 @@ The **Klamath Tech Collective** is a bioregional tech collective dedicated to sh
 ### Our Goals
 
 - **Tech Literacy & STEAM Education:**  
-  We offer free, hands-on workshops and learning circles for all ages, with a focus on STEAM (Science, Technology, Engineering, Arts, Math) content that is place-based and culturally relevant. Our programs center Indigenous knowledge and community co-design, empowering youth and elders alike to become creators-not just consumers-of technology.
+  We offer free, hands-on workshops and learning circles for all ages, with a focus on STEAM (Science, Technology, Engineering, Arts, Math) content that is place-based and culturally relevant. In line with our [Points of Unity](/info/points_of_unity/), we aim to honor Indigenous knowledge and work toward genuine community co-design, empowering youth and elders alike to become creators-not just consumers-of technology.
 
 - **Repurposing & Redistribution:**  
   We collect, repair, and repurpose tech hardware, distributing it freely to individuals and for building collective infrastructure. By keeping devices in use and out of landfills, we support local resilience and reduce reliance on extractive supply chains.
